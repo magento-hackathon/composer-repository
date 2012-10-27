@@ -1,0 +1,161 @@
+{
+    "packages": {
+        "firegento/germansetup": {
+            "dev-composer": {
+                "name": "firegento/germansetup",
+                "version": "dev-composer",
+                "version_normalized": "dev-composer",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento-germansetup.git",
+                    "reference": "bc0a07c7a3f3b346ee7e4e4949d6e827934766be"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/bc0a07c7a3f3b346ee7e4e4949d6e827934766be",
+                    "reference": "bc0a07c7a3f3b346ee7e4e4949d6e827934766be",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-27 10:35:28",
+                "type": "magento-module",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-germansetup/tree/composer",
+                    "issues": "https://github.com/firegento/firegento-germansetup/issues"
+                }
+            }
+        },
+        "magento-hackathon/magento-composer-installer": {
+            "dev-master": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "5b9d8258677d1b021751ae6ff35967a143cc7a31"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/5b9d8258677d1b021751ae6ff35967a143cc7a31",
+                    "reference": "5b9d8258677d1b021751ae6ff35967a143cc7a31",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*",
+                    "composer/composer": "*"
+                },
+                "time": "2012-10-27 12:10:36",
+                "type": "composer-installer",
+                "extra": {
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "dev-deploy-without-update": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-deploy-without-update",
+                "version_normalized": "dev-deploy-without-update",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "0f979922c9f88b2e522a2e8a1ac062f71c8b1f03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/0f979922c9f88b2e522a2e8a1ac062f71c8b1f03",
+                    "reference": "0f979922c9f88b2e522a2e8a1ac062f71c8b1f03",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*",
+                    "composer/composer": "*"
+                },
+                "time": "2012-10-27 11:16:28",
+                "type": "composer-installer",
+                "extra": {
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            }
+        }
+    }
+}
