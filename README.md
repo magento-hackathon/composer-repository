@@ -4,9 +4,9 @@ This Repository is based on [Satis](https://github.com/composer/satis).
 
 ## Want your module published?
 
-- Add a modman file to your module
-- Add a `composer.json` to your module
-- Create a pull request
+1. Add a modman file to your module
+2. Add a `composer.json` to your module
+3. Create a pull request
 
 ## Updating
 
