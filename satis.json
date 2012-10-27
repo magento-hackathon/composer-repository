@@ -1,0 +1,9 @@
+{
+   "name": "Firegento",
+   "homepage": "http://packages.firegento.com",
+   "repositories": [
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-germansetup.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/magento-composer-installer.git" }
+   ],
+   "require-all": true
+}
