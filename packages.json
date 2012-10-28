@@ -35,19 +35,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "5b9d8258677d1b021751ae6ff35967a143cc7a31"
+                    "reference": "be86c99f8a3fff097a8fce2668ae3c00a8c7a881"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/5b9d8258677d1b021751ae6ff35967a143cc7a31",
-                    "reference": "5b9d8258677d1b021751ae6ff35967a143cc7a31",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/be86c99f8a3fff097a8fce2668ae3c00a8c7a881",
+                    "reference": "be86c99f8a3fff097a8fce2668ae3c00a8c7a881",
                     "shasum": ""
                 },
                 "require-dev": {
                     "phpunit/phpunit": "*",
                     "composer/composer": "*"
                 },
-                "time": "2012-10-27 12:10:36",
+                "time": "2012-10-28 07:13:57",
                 "type": "composer-installer",
                 "extra": {
                     "class": "MagentoHackathon\\Composer\\Magento\\Installer"
@@ -154,6 +154,33 @@
                 "support": {
                     "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            }
+        },
+        "netzarbeiter/groupscatalog2": {
+            "dev-master": {
+                "name": "netzarbeiter/groupscatalog2",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/groupscatalog2.git",
+                    "reference": "d12803fdff9b9becb3820d8d64f6fba9fa691cf8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/d12803fdff9b9becb3820d8d64f6fba9fa691cf8",
+                    "reference": "d12803fdff9b9becb3820d8d64f6fba9fa691cf8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-28 13:20:31",
+                "type": "magento-module",
+                "support": {
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/master",
+                    "issues": "https://github.com/Vinai/groupscatalog2/issues"
                 }
             }
         }
