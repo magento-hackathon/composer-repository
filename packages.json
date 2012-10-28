@@ -165,12 +165,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "4da3a80a8badaafd1c489a8bdcf4f172d39c29d5"
+                    "reference": "0.2.3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/4da3a80a8badaafd1c489a8bdcf4f172d39c29d5",
-                    "reference": "4da3a80a8badaafd1c489a8bdcf4f172d39c29d5",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/0.2.3",
+                    "reference": "0.2.3",
                     "shasum": ""
                 },
                 "require": {
