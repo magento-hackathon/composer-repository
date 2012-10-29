@@ -315,6 +315,44 @@
                 }
             }
         },
+        "netzarbeiter/customeractivation": {
+            "dev-master": {
+                "name": "netzarbeiter/customeractivation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/customer-activation.git",
+                    "reference": "d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86",
+                    "reference": "d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 13:43:23",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Makes it impossible for a customer to log in until the account has been activated by the admin.",
+                "homepage": "https://github.com/Vinai/customer-activation",
+                "support": {
+                    "source": "https://github.com/Vinai/customer-activation/tree/master",
+                    "issues": "https://github.com/Vinai/customer-activation/issues"
+                }
+            }
+        },
         "netzarbeiter/customerregip": {
             "dev-master": {
                 "name": "netzarbeiter/customerregip",
