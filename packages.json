@@ -391,26 +391,26 @@
                 }
             }
         },
-        "netzarbeiter/groupscatalog2": {
+        "netzarbeiter/groups-catalog2": {
             "dev-master": {
-                "name": "netzarbeiter/groupscatalog2",
+                "name": "netzarbeiter/groups-catalog2",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "ca60e75893095f6ae537d04af8be353d26840055"
+                    "reference": "27ec839ca9511b4cf5bb2f04dd060e637f3e66c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/ca60e75893095f6ae537d04af8be353d26840055",
-                    "reference": "ca60e75893095f6ae537d04af8be353d26840055",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/27ec839ca9511b4cf5bb2f04dd060e637f3e66c9",
+                    "reference": "27ec839ca9511b4cf5bb2f04dd060e637f3e66c9",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:32:39",
+                "time": "2012-10-29 13:55:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -426,6 +426,44 @@
                 "support": {
                     "source": "https://github.com/Vinai/groupscatalog2/tree/master",
                     "issues": "https://github.com/Vinai/groupscatalog2/issues"
+                }
+            }
+        },
+        "netzarbeiter/login-only-catalog": {
+            "dev-master": {
+                "name": "netzarbeiter/login-only-catalog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/loginonlycatalog.git",
+                    "reference": "975fde6b8cd411c264c3b6e9115d52fc8847a734"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/loginonlycatalog/zipball/975fde6b8cd411c264c3b6e9115d52fc8847a734",
+                    "reference": "975fde6b8cd411c264c3b6e9115d52fc8847a734",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 13:58:34",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Requires a customer to be logged in order to view products and product collections.",
+                "homepage": "https://github.com/Vinai/loginonlycatalog",
+                "support": {
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
+                    "issues": "https://github.com/Vinai/loginonlycatalog/issues"
                 }
             }
         }
