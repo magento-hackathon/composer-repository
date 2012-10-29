@@ -10,13 +10,19 @@ $magentoComposerRepositoryBuildDir  = $rootDir . 'magentoPackagistBuild';
 
 chdir($rootDir);
 
-passthru("wget http://getcomposer.org/composer.phar -O $composerBin");
+echo "Downloading composer.phar to " . realpath($rootDir) . PHP_EOL;
+//passthru("wget http://getcomposer.org/composer.phar -O $composerBin");
+passthru("curl -O http://getcomposer.org/composer.phar");
+
+echo "Installing satis in " . realpath($satisDir) . PHP_EOL;
 passthru("php $composerBin create-project --keep-vcs composer/satis $satisDir");
 
+echo "Cloning module composer-repository source to " . realpath($magentoComposerRepositorySourceDir) . PHP_EOL;
 passthru("git clone git@github.com:magento-hackathon/composer-repository.git $magentoComposerRepositorySourceDir");
 chdir($magentoComposerRepositorySourceDir);
 passthru("git checkout master");
 
+echo "Creating module composer-repository build at " . realpath($magentoComposerRepositorySourceDir) . PHP_EOL;
 passthru("cp -rf $magentoComposerRepositorySourceDir $magentoComposerRepositoryBuildDir");
 
 chdir($magentoComposerRepositoryBuildDir);
