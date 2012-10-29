@@ -10,6 +10,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/magento-composer-installer.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/composer-command-integrator.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/groupscatalog2.git" },
+      { "type": "vcs", "url": "git://github.com/Vinai/customer-activation.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" }
    ],
    "require-all": true
