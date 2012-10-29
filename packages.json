@@ -315,6 +315,44 @@
                 }
             }
         },
+        "netzarbeiter/customerregip": {
+            "dev-master": {
+                "name": "netzarbeiter/customerregip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/customer-registration-ip.git",
+                    "reference": "ce3d791b1e929a0b649c6175ed28b9de2a494e05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/ce3d791b1e929a0b649c6175ed28b9de2a494e05",
+                    "reference": "ce3d791b1e929a0b649c6175ed28b9de2a494e05",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 12:39:01",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento module to display a customer's IP used during registration",
+                "homepage": "git://github.com/Vinai/customer-registration-ip.git",
+                "support": {
+                    "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
+                    "issues": "https://github.com/Vinai/customer-registration-ip/issues"
+                }
+            }
+        },
         "netzarbeiter/groupscatalog2": {
             "dev-master": {
                 "name": "netzarbeiter/groupscatalog2",
@@ -323,18 +361,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "f8d5f32bd198d8c74b1c81210c7df4afcb740641"
+                    "reference": "dbbd4469c72e641bcf228003ef6b1cfebfc48656"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/f8d5f32bd198d8c74b1c81210c7df4afcb740641",
-                    "reference": "f8d5f32bd198d8c74b1c81210c7df4afcb740641",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/dbbd4469c72e641bcf228003ef6b1cfebfc48656",
+                    "reference": "dbbd4469c72e641bcf228003ef6b1cfebfc48656",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 04:43:47",
+                "time": "2012-10-29 13:05:31",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
