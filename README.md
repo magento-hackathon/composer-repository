@@ -11,4 +11,4 @@ This Repository is based on [Satis](https://github.com/composer/satis).
 ## Updating
 
 - `php bin/satis build satis.json <build-dir>`
-- Copy the updated files to the `gh-pages`-Branch and push them
+- Copy the updated files to the `gh-pages`-branch and push them
