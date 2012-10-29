@@ -1,5 +1,35 @@
 {
     "packages": {
+        "firegento/core": {
+            "dev-master": {
+                "name": "firegento/core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento.git",
+                    "reference": "c57e75ac1f07cb203f7a47691ea60db32c1dfb27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento/zipball/c57e75ac1f07cb203f7a47691ea60db32c1dfb27",
+                    "reference": "c57e75ac1f07cb203f7a47691ea60db32c1dfb27",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 03:16:03",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/firegento/firegento/tree/master",
+                    "issues": "https://github.com/firegento/firegento/issues"
+                }
+            }
+        },
         "firegento/germansetup": {
             "dev-composer": {
                 "name": "firegento/germansetup",
