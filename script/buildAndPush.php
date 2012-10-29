@@ -2,7 +2,7 @@
 <?php
 
 
-$rootDir  = __DIR__ . '/../';
+$rootDir  = __DIR__ . '/../../';
 $composerBin = $rootDir . 'composer.phar';
 $satisDir = $rootDir . 'satis';
 $magentoComposerRepositorySourceDir = $rootDir . 'magentoPackagistSource';
