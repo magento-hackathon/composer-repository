@@ -8,22 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento.git",
-                    "reference": "2857258b75fb88e45364fac7a73d517ce2a607c2"
+                    "reference": "8590708266b9ca4b8f8a2750b6be49a0b37013bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento/zipball/2857258b75fb88e45364fac7a73d517ce2a607c2",
-                    "reference": "2857258b75fb88e45364fac7a73d517ce2a607c2",
+                    "url": "https://github.com/firegento/firegento/zipball/8590708266b9ca4b8f8a2750b6be49a0b37013bb",
+                    "reference": "8590708266b9ca4b8f8a2750b6be49a0b37013bb",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 04:13:16",
+                "time": "2012-10-29 05:16:08",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
                 ],
+                "description": "Firegento core module",
                 "support": {
                     "source": "https://github.com/firegento/firegento/tree/master",
                     "issues": "https://github.com/firegento/firegento/issues"
@@ -38,22 +39,23 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-customer.git",
-                    "reference": "8006a1ff6201d36647a24478955febdf548d83be"
+                    "reference": "2a31f0f53a05c096e9047a11461d37e437f205bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-customer/zipball/8006a1ff6201d36647a24478955febdf548d83be",
-                    "reference": "8006a1ff6201d36647a24478955febdf548d83be",
+                    "url": "https://github.com/firegento/firegento-customer/zipball/2a31f0f53a05c096e9047a11461d37e437f205bd",
+                    "reference": "2a31f0f53a05c096e9047a11461d37e437f205bd",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 04:12:51",
+                "time": "2012-10-29 05:15:55",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
                 ],
+                "description": "Activate/deactivate customers, deactivate customers after max-retry logins.",
                 "support": {
                     "source": "https://github.com/firegento/firegento-customer/tree/master",
                     "issues": "https://github.com/firegento/firegento-customer/issues"
@@ -68,22 +70,23 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-dynamiccategory.git",
-                    "reference": "2d5cf257f5467a890215ffff82c6f026d462ba75"
+                    "reference": "031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/2d5cf257f5467a890215ffff82c6f026d462ba75",
-                    "reference": "2d5cf257f5467a890215ffff82c6f026d462ba75",
+                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb",
+                    "reference": "031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 04:12:27",
+                "time": "2012-10-29 05:15:45",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
                 ],
+                "description": "This extension enables you to dynamically add products to categories based on product attributes.",
                 "support": {
                     "source": "https://github.com/firegento/firegento-dynamiccategory/tree/master",
                     "issues": "https://github.com/firegento/firegento-dynamiccategory/issues"
@@ -98,22 +101,23 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "3948027120eeec0034bf081573b48489a4ffee1c"
+                    "reference": "14669868417c00ebb3678a74ed301fab239d1922"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/3948027120eeec0034bf081573b48489a4ffee1c",
-                    "reference": "3948027120eeec0034bf081573b48489a4ffee1c",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/14669868417c00ebb3678a74ed301fab239d1922",
+                    "reference": "14669868417c00ebb3678a74ed301fab239d1922",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 04:12:01",
+                "time": "2012-10-29 05:15:13",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
                 ],
+                "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
                 "support": {
                     "source": "https://github.com/firegento/firegento-germansetup/tree/master",
                     "issues": "https://github.com/firegento/firegento-germansetup/issues"
