@@ -1,8 +1,8 @@
 # Magento Composer Repository
 
-This Repository is based on [Satis](https://github.com/composer/satis).
+This Repository uses [Satis](https://github.com/composer/satis).
 
-## Want your module published?
+## Want your Magento module published?
 
 1. Add a modman file to your module
 2. Add a `composer.json` to your module
