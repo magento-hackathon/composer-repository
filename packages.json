@@ -120,6 +120,51 @@
                 }
             }
         },
+        "magento-hackathon/composer-command-integrator": {
+            "dev-master": {
+                "name": "magento-hackathon/composer-command-integrator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/composer-command-integrator.git",
+                    "reference": "9ffea56e577ec3126f09d83e74eae9db707bcf5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/composer-command-integrator/zipball/9ffea56e577ec3126f09d83e74eae9db707bcf5d",
+                    "reference": "9ffea56e577ec3126f09d83e74eae9db707bcf5d",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/composer": "*"
+                },
+                "time": "2012-10-28 15:09:10",
+                "bin": [
+                    "bin/composerCommandIntegrator.php"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Command": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    }
+                ],
+                "description": "module to create binaries and scripts which get executed in context of composer so they are able to access content from the composer.json ",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/composer-command-integrator/tree/master",
+                    "issues": "https://github.com/magento-hackathon/composer-command-integrator/issues"
+                }
+            }
+        },
         "magento-hackathon/magento-composer-installer": {
             "dev-master": {
                 "name": "magento-hackathon/magento-composer-installer",
