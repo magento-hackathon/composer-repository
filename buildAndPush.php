@@ -22,5 +22,7 @@ passthru("php {$satisDir}/bin/satis build {$magentoComposerRepositorySourceDir}/
 chdir($magentoComposerRepositoryBuildDir);
 passthru("git add .");
 passthru("git commit -a -m \"updated repository by Buildscript\" ");
-passthru("git push --dry-run");
+
+//passthru("git push --dry-run");
+passthru("git push");
 
