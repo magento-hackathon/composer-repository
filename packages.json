@@ -323,18 +323,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-registration-ip.git",
-                    "reference": "ce3d791b1e929a0b649c6175ed28b9de2a494e05"
+                    "reference": "325a3ad2ab3793fb14fecc6ab1af8f69c4a24412"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/ce3d791b1e929a0b649c6175ed28b9de2a494e05",
-                    "reference": "ce3d791b1e929a0b649c6175ed28b9de2a494e05",
+                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/325a3ad2ab3793fb14fecc6ab1af8f69c4a24412",
+                    "reference": "325a3ad2ab3793fb14fecc6ab1af8f69c4a24412",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 12:39:01",
+                "time": "2012-10-29 13:35:33",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -346,7 +346,7 @@
                     }
                 ],
                 "description": "Magento module to display a customer's IP used during registration",
-                "homepage": "git://github.com/Vinai/customer-registration-ip.git",
+                "homepage": "https://github.com/Vinai/customer-registration-ip",
                 "support": {
                     "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
                     "issues": "https://github.com/Vinai/customer-registration-ip/issues"
