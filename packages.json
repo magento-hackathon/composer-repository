@@ -315,26 +315,26 @@
                 }
             }
         },
-        "netzarbeiter/customeractivation": {
+        "netzarbeiter/customer-activation": {
             "dev-master": {
-                "name": "netzarbeiter/customeractivation",
+                "name": "netzarbeiter/customer-activation",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-activation.git",
-                    "reference": "d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86"
+                    "reference": "885d98f5948542e25027ac1687d672759a961fd9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-activation/zipball/d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86",
-                    "reference": "d1b2e3da2e8bdc6aa78fc7cf775d4f5bba991f86",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/885d98f5948542e25027ac1687d672759a961fd9",
+                    "reference": "885d98f5948542e25027ac1687d672759a961fd9",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:43:23",
+                "time": "2012-10-29 13:48:10",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -353,26 +353,26 @@
                 }
             }
         },
-        "netzarbeiter/customerregip": {
+        "netzarbeiter/customer-registration-ip": {
             "dev-master": {
-                "name": "netzarbeiter/customerregip",
+                "name": "netzarbeiter/customer-registration-ip",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-registration-ip.git",
-                    "reference": "325a3ad2ab3793fb14fecc6ab1af8f69c4a24412"
+                    "reference": "952a3d4922e7c86ed2572f744ec8d8186c3b2dfa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/325a3ad2ab3793fb14fecc6ab1af8f69c4a24412",
-                    "reference": "325a3ad2ab3793fb14fecc6ab1af8f69c4a24412",
+                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/952a3d4922e7c86ed2572f744ec8d8186c3b2dfa",
+                    "reference": "952a3d4922e7c86ed2572f744ec8d8186c3b2dfa",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:35:33",
+                "time": "2012-10-29 13:48:24",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
