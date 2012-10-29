@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento.git",
-                    "reference": "ec6048636caee9d49c0353ded0a1e5b984b04ed8"
+                    "reference": "846a98e81412f5511eddb680df68981742778b1b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento/zipball/ec6048636caee9d49c0353ded0a1e5b984b04ed8",
-                    "reference": "ec6048636caee9d49c0353ded0a1e5b984b04ed8",
+                    "url": "https://github.com/firegento/firegento/zipball/846a98e81412f5511eddb680df68981742778b1b",
+                    "reference": "846a98e81412f5511eddb680df68981742778b1b",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 06:14:09",
+                "time": "2012-10-29 14:27:46",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -323,18 +323,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-activation.git",
-                    "reference": "885d98f5948542e25027ac1687d672759a961fd9"
+                    "reference": "ca29e394cb1e16df33bc6e257ce19b2292bdd3cc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-activation/zipball/885d98f5948542e25027ac1687d672759a961fd9",
-                    "reference": "885d98f5948542e25027ac1687d672759a961fd9",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/ca29e394cb1e16df33bc6e257ce19b2292bdd3cc",
+                    "reference": "ca29e394cb1e16df33bc6e257ce19b2292bdd3cc",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:48:10",
+                "time": "2012-10-29 14:03:03",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -345,7 +345,7 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
-                "description": "Makes it impossible for a customer to log in until the account has been activated by the admin.",
+                "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
                 "homepage": "https://github.com/Vinai/customer-activation",
                 "support": {
                     "source": "https://github.com/Vinai/customer-activation/tree/master",
@@ -361,18 +361,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-registration-ip.git",
-                    "reference": "952a3d4922e7c86ed2572f744ec8d8186c3b2dfa"
+                    "reference": "d932e77187b7556fea264b72d3d5327cd8b8b0df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/952a3d4922e7c86ed2572f744ec8d8186c3b2dfa",
-                    "reference": "952a3d4922e7c86ed2572f744ec8d8186c3b2dfa",
+                    "url": "https://github.com/Vinai/customer-registration-ip/zipball/d932e77187b7556fea264b72d3d5327cd8b8b0df",
+                    "reference": "d932e77187b7556fea264b72d3d5327cd8b8b0df",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:48:24",
+                "time": "2012-10-29 14:02:38",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -383,7 +383,7 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
-                "description": "Magento module to display a customer's IP used during registration",
+                "description": "Magento module to display a customer's IP used during registration.",
                 "homepage": "https://github.com/Vinai/customer-registration-ip",
                 "support": {
                     "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
@@ -399,18 +399,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "27ec839ca9511b4cf5bb2f04dd060e637f3e66c9"
+                    "reference": "2970e9e2bcd1fb210184a410df8dcf4fa1b44729"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/27ec839ca9511b4cf5bb2f04dd060e637f3e66c9",
-                    "reference": "27ec839ca9511b4cf5bb2f04dd060e637f3e66c9",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/2970e9e2bcd1fb210184a410df8dcf4fa1b44729",
+                    "reference": "2970e9e2bcd1fb210184a410df8dcf4fa1b44729",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 13:55:25",
+                "time": "2012-10-29 14:03:22",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -421,7 +421,7 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
-                "description": "Magento extension to hide categories and products from customers depending on their customer group",
+                "description": "Magento extension to hide categories and products from customers depending on their customer group.",
                 "homepage": "https://github.com/Vinai/groupscatalog2",
                 "support": {
                     "source": "https://github.com/Vinai/groupscatalog2/tree/master",
