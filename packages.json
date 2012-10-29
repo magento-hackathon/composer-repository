@@ -128,19 +128,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "671256a05cb3c38f783d26e4fac43c5c18c1292e"
+                    "reference": "692f9b94099b28a4e157b06c491a435e0b687dfb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/671256a05cb3c38f783d26e4fac43c5c18c1292e",
-                    "reference": "671256a05cb3c38f783d26e4fac43c5c18c1292e",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/692f9b94099b28a4e157b06c491a435e0b687dfb",
+                    "reference": "692f9b94099b28a4e157b06c491a435e0b687dfb",
                     "shasum": ""
                 },
                 "require-dev": {
                     "phpunit/phpunit": "*",
                     "composer/composer": "*"
                 },
-                "time": "2012-10-29 03:47:18",
+                "time": "2012-10-29 04:44:36",
                 "type": "composer-installer",
                 "extra": {
                     "class": "MagentoHackathon\\Composer\\Magento\\Installer"
@@ -180,6 +180,7 @@
                     }
                 ],
                 "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
                 "support": {
                     "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
@@ -258,18 +259,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "0a79f401d5a60cb3c9209dda1e44bdb3e2210b14"
+                    "reference": "f8d5f32bd198d8c74b1c81210c7df4afcb740641"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/0a79f401d5a60cb3c9209dda1e44bdb3e2210b14",
-                    "reference": "0a79f401d5a60cb3c9209dda1e44bdb3e2210b14",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/f8d5f32bd198d8c74b1c81210c7df4afcb740641",
+                    "reference": "f8d5f32bd198d8c74b1c81210c7df4afcb740641",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 03:39:29",
+                "time": "2012-10-29 04:43:47",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -280,6 +281,8 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
+                "description": "Magento extension to hide categories and products from customers depending on their customer group",
+                "homepage": "https://github.com/Vinai/groupscatalog2",
                 "support": {
                     "source": "https://github.com/Vinai/groupscatalog2/tree/master",
                     "issues": "https://github.com/Vinai/groupscatalog2/issues"
