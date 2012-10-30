@@ -1,5 +1,113 @@
 {
     "packages": {
+        "colinmollenhour/cache-backend-file": {
+            "dev-master": {
+                "name": "colinmollenhour/cache-backend-file",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_File.git",
+                    "reference": "cb5930b7a165a5658c9512afdc5ab4ceec3d6085"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 14:31:54",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "The stock Zend_Cache_Backend_File backend has extremely poor performance for cleaning by tags making it become unusable as the number of cached items increases. This backend makes many changes resulting in a huge performance boost, especially for tag cleaning.",
+                "homepage": "https://github.com/colinmollenhour/Cm_Cache_Backend_File"
+            }
+        },
+        "colinmollenhour/cache-backend-redis": {
+            "dev-master": {
+                "name": "colinmollenhour/cache-backend-redis",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
+                    "reference": "fb934bff8e938b2553c7ec4f6c3137b8495054cc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 14:26:58",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Zend_Cache backend using Redis with full support for tags.",
+                "homepage": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis"
+            }
+        },
+        "colinmollenhour/die-hard": {
+            "dev-master": {
+                "name": "colinmollenhour/die-hard",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/colinmollenhour/Cm_Diehard.git",
+                    "reference": "d0c8393f273a0f2827ec8efd786d1fb1fa5e1c61"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 14:28:21",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Cm_Diehard: Full-Page Cache",
+                "homepage": "https://github.com/colinmollenhour/Cm_DieHard"
+            }
+        },
+        "colinmollenhour/redis-session": {
+            "dev-master": {
+                "name": "colinmollenhour/redis-session",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "abdca23c7380f5fc3bd14c8378f7ef2a82da4b59"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 14:24:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession"
+            }
+        },
         "fbrnc/Aoe_Profiler": {
             "dev-master": {
                 "name": "fbrnc/Aoe_Profiler",
