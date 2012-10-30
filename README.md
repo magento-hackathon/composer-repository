@@ -8,6 +8,8 @@ This Repository uses [Satis](https://github.com/composer/satis).
 2. Add a `composer.json` to your module
 3. Create a pull request for the `satis.json`
 
+Hint: Satis recognizes only annotated tags (`git tag -a`) as versions.
+
 ## Building the packages.json ##
 You don't need this if you only want to have your module published...
 
