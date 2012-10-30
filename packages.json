@@ -1,5 +1,119 @@
 {
     "packages": {
+        "fbrnc/Aoe_Profiler": {
+            "dev-master": {
+                "name": "fbrnc/Aoe_Profiler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_Profiler.git",
+                    "reference": "955d5bef6f13e5628f0c99819280af4d36cfc765"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_Profiler/zipball/955d5bef6f13e5628f0c99819280af4d36cfc765",
+                    "reference": "955d5bef6f13e5628f0c99819280af4d36cfc765",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 19:34:21",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Magento Profiler",
+                "homepage": "http://www.fabrizio-branca.de/magento-profiler.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Profiler/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Profiler/issues"
+                }
+            }
+        },
+        "fbrnc/Aoe_Scheduler": {
+            "dev-master": {
+                "name": "fbrnc/Aoe_Scheduler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
+                    "reference": "7cb4a0336b78c15aa355282c9cb300c6f33f0aac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/7cb4a0336b78c15aa355282c9cb300c6f33f0aac",
+                    "reference": "7cb4a0336b78c15aa355282c9cb300c6f33f0aac",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 19:34:36",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "http://www.fabrizio-branca.de/magento-cron-scheduler.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Scheduler/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Scheduler/issues"
+                }
+            }
+        },
+        "fbrnc/Aoe_TemplateHints": {
+            "dev-master": {
+                "name": "fbrnc/Aoe_TemplateHints",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_TemplateHints.git",
+                    "reference": "91ede2a8a243f17619c251d1139ddd5131fc201d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_TemplateHints/zipball/91ede2a8a243f17619c251d1139ddd5131fc201d",
+                    "reference": "91ede2a8a243f17619c251d1139ddd5131fc201d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29 19:30:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_TemplateHints/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_TemplateHints/issues"
+                }
+            }
+        },
         "firegento/core": {
             "dev-master": {
                 "name": "firegento/core",
@@ -315,6 +429,80 @@
                 }
             }
         },
+        "netzarbeiter/attribute-duplicator": {
+            "0.1.1": {
+                "name": "netzarbeiter/attribute-duplicator",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/attribute-duplicator.git",
+                    "reference": "0.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/attribute-duplicator/zipball/0.1.1",
+                    "reference": "0.1.1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 03:05:25",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento extenson which eanbles you to duplicate product attributes.",
+                "homepage": "https://github.com/Vinai/attribute-duplicator",
+                "support": {
+                    "source": "https://github.com/Vinai/attribute-duplicator/tree/0.1.1",
+                    "issues": "https://github.com/Vinai/attribute-duplicator/issues"
+                }
+            },
+            "dev-master": {
+                "name": "netzarbeiter/attribute-duplicator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/attribute-duplicator.git",
+                    "reference": "0.1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/attribute-duplicator/zipball/0.1.1",
+                    "reference": "0.1.1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 03:05:25",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento extenson which eanbles you to duplicate product attributes.",
+                "homepage": "https://github.com/Vinai/attribute-duplicator",
+                "support": {
+                    "source": "https://github.com/Vinai/attribute-duplicator/tree/0.1.1",
+                    "issues": "https://github.com/Vinai/attribute-duplicator/issues"
+                }
+            }
+        },
         "netzarbeiter/customer-activation": {
             "0.3.9": {
                 "name": "netzarbeiter/customer-activation",
@@ -618,7 +806,7 @@
                 "version_normalized": "0.1.9.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:Vinai/nicer-image-names.git",
+                    "url": "git://github.com/Vinai/nicer-image-names.git",
                     "reference": "0.1.9"
                 },
                 "dist": {
@@ -654,7 +842,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:Vinai/nicer-image-names.git",
+                    "url": "git://github.com/Vinai/nicer-image-names.git",
                     "reference": "0.1.9"
                 },
                 "dist": {
