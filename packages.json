@@ -525,12 +525,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "2970e9e2bcd1fb210184a410df8dcf4fa1b44729"
+                    "reference": "e5cb089f6b82f5b011a071897304589c49c6d074"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 21:03:22",
+                "time": "2012-10-30 15:27:44",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
