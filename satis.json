@@ -1,7 +1,7 @@
 {
    "name": "Firegento",
    "homepage": "http://packages.firegento.com",
-   "description": "Composer package repository for Magento Modules",
+   "description": "Composer package repository for Magento modules",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/firegento.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
@@ -13,6 +13,7 @@
       { "type": "vcs", "url": "git://github.com/Vinai/loginonlycatalog.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-activation.git" },
       { "type": "vcs", "url": "git://github.com:Vinai/nicer-image-names.git" },
+      { "type": "vcs", "url": "git://github.com:Vinai/attribute-duplicator.git" },
       { "type": "vcs", "url": "git://github.com/riconeitzel/VertNav.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" }
    ],
