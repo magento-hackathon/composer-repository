@@ -687,12 +687,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/loginonlycatalog.git",
-                    "reference": "975fde6b8cd411c264c3b6e9115d52fc8847a734"
+                    "reference": "88be0f9bf35eda4dae75456026ee0f45e86454a2"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 20:58:34",
+                "time": "2012-10-30 18:44:29",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
