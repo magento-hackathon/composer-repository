@@ -417,12 +417,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-activation.git",
-                    "reference": "ca29e394cb1e16df33bc6e257ce19b2292bdd3cc"
+                    "reference": "2dcc124fb09da654c13a632a93069e6503f819af"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 21:03:03",
+                "time": "2012-10-30 16:23:19",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
