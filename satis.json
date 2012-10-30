@@ -12,6 +12,7 @@
       { "type": "vcs", "url": "git://github.com/Vinai/groupscatalog2.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/loginonlycatalog.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-activation.git" },
+      { "type": "vcs", "url": "git://github.com/riconeitzel/VertNav.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" }
    ],
    "require-all": true
