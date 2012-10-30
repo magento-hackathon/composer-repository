@@ -536,7 +536,7 @@
                 "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
                 "homepage": "https://github.com/Vinai/customer-activation",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-activation/tree/master",
+                    "source": "https://github.com/Vinai/customer-activation/tree/0.3.9",
                     "issues": "https://github.com/Vinai/customer-activation/issues"
                 }
             },
@@ -572,7 +572,7 @@
                 "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
                 "homepage": "https://github.com/Vinai/customer-activation",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-activation/tree/master",
+                    "source": "https://github.com/Vinai/customer-activation/tree/0.3.9",
                     "issues": "https://github.com/Vinai/customer-activation/issues"
                 }
             }
@@ -610,7 +610,7 @@
                 "description": "Magento module to display a customer's IP used during registration.",
                 "homepage": "https://github.com/Vinai/customer-registration-ip",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
+                    "source": "https://github.com/Vinai/customer-registration-ip/tree/0.1.3",
                     "issues": "https://github.com/Vinai/customer-registration-ip/issues"
                 }
             },
@@ -646,7 +646,7 @@
                 "description": "Magento module to display a customer's IP used during registration.",
                 "homepage": "https://github.com/Vinai/customer-registration-ip",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
+                    "source": "https://github.com/Vinai/customer-registration-ip/tree/0.1.3",
                     "issues": "https://github.com/Vinai/customer-registration-ip/issues"
                 }
             }
@@ -684,7 +684,7 @@
                 "description": "Magento extension to hide categories and products from customers depending on their customer group.",
                 "homepage": "https://github.com/Vinai/groupscatalog2",
                 "support": {
-                    "source": "https://github.com/Vinai/groupscatalog2/tree/master",
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/0.2.3",
                     "issues": "https://github.com/Vinai/groupscatalog2/issues"
                 }
             },
@@ -720,7 +720,7 @@
                 "description": "Magento extension to hide categories and products from customers depending on their customer group.",
                 "homepage": "https://github.com/Vinai/groupscatalog2",
                 "support": {
-                    "source": "https://github.com/Vinai/groupscatalog2/tree/master",
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/0.2.3",
                     "issues": "https://github.com/Vinai/groupscatalog2/issues"
                 }
             }
@@ -758,7 +758,7 @@
                 "description": "Requires a customer to be logged in order to view products and product collections.",
                 "homepage": "https://github.com/Vinai/loginonlycatalog",
                 "support": {
-                    "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/1.1.9",
                     "issues": "https://github.com/Vinai/loginonlycatalog/issues"
                 }
             },
@@ -794,7 +794,7 @@
                 "description": "Requires a customer to be logged in order to view products and product collections.",
                 "homepage": "https://github.com/Vinai/loginonlycatalog",
                 "support": {
-                    "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/1.1.9",
                     "issues": "https://github.com/Vinai/loginonlycatalog/issues"
                 }
             }
@@ -880,7 +880,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git://github.com/riconeitzel/VertNav.git",
+                    "url": "https://github.com/riconeitzel/VertNav.git",
                     "reference": "c2bf1722f0d61f5dfcfea15cf0c8e6d613bd23d0"
                 },
                 "dist": {
