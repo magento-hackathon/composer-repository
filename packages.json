@@ -184,12 +184,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "c9245320e13d80cc1d395bbf684a6b0ca5c43370"
+                    "reference": "3bfd0fee3c176ce744a2209340e23c780b8127a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/c9245320e13d80cc1d395bbf684a6b0ca5c43370",
-                    "reference": "c9245320e13d80cc1d395bbf684a6b0ca5c43370",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/3bfd0fee3c176ce744a2209340e23c780b8127a4",
+                    "reference": "3bfd0fee3c176ce744a2209340e23c780b8127a4",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -197,7 +197,7 @@
                     "magento-hackathon/composer-command-integrator": "*",
                     "composer/composer": "*"
                 },
-                "time": "2012-10-29 10:53:03",
+                "time": "2012-10-30 00:58:23",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -464,6 +464,48 @@
                 "support": {
                     "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
                     "issues": "https://github.com/Vinai/loginonlycatalog/issues"
+                }
+            }
+        },
+        "riconeitzel/vertical-navigation": {
+            "dev-master": {
+                "name": "riconeitzel/vertical-navigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/riconeitzel/VertNav.git",
+                    "reference": "c2bf1722f0d61f5dfcfea15cf0c8e6d613bd23d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/riconeitzel/VertNav/zipball/c2bf1722f0d61f5dfcfea15cf0c8e6d613bd23d0",
+                    "reference": "c2bf1722f0d61f5dfcfea15cf0c8e6d613bd23d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-30 01:36:51",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rico Neitzel",
+                        "email": "mail@riconeitzel.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Vertical Navigation with CSS Classes.",
+                "homepage": "https://github.com/riconeitzel/VertNav",
+                "support": {
+                    "source": "https://github.com/riconeitzel/VertNav/tree/master",
+                    "issues": "https://github.com/riconeitzel/VertNav/issues"
                 }
             }
         }
