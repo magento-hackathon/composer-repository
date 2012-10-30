@@ -89,12 +89,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
-                    "reference": "abdca23c7380f5fc3bd14c8378f7ef2a82da4b59"
+                    "reference": "4725cf060c47065cab52ba92d6e62b76970083db"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 14:24:46",
+                "time": "2012-10-30 17:50:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
