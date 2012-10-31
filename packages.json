@@ -1143,15 +1143,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/therouv/Magento-DebitPayment.git",
-                    "reference": "1b357e18e78bfbd2d39029de4b55e754f8c49767"
+                    "reference": "7b633213d2672fcf105bc9322c267bed54b1b962"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/1b357e18e78bfbd2d39029de4b55e754f8c49767",
-                    "reference": "1b357e18e78bfbd2d39029de4b55e754f8c49767",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/7b633213d2672fcf105bc9322c267bed54b1b962",
+                    "reference": "7b633213d2672fcf105bc9322c267bed54b1b962",
                     "shasum": ""
                 },
-                "time": "2012-10-31 08:08:46",
+                "time": "2012-10-31 09:01:31",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1166,6 +1166,72 @@
                 "homepage": "https://github.com/therouv/Magento-DebitPayment",
                 "support": {
                     "source": "https://github.com/therouv/Magento-DebitPayment/tree/master",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            },
+            "dev-development": {
+                "name": "therouv/debitpayment",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "c0ef895966bc5c0c55d241e64308ff570e956654"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/c0ef895966bc5c0c55d241e64308ff570e956654",
+                    "reference": "c0ef895966bc5c0c55d241e64308ff570e956654",
+                    "shasum": ""
+                },
+                "time": "2012-10-31 08:57:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/development",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            },
+            "dev-magento2": {
+                "name": "therouv/debitpayment",
+                "version": "dev-magento2",
+                "version_normalized": "dev-magento2",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "c25622f7ef29f67f3868f1dba150bc543a1d2646"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/c25622f7ef29f67f3868f1dba150bc543a1d2646",
+                    "reference": "c25622f7ef29f67f3868f1dba150bc543a1d2646",
+                    "shasum": ""
+                },
+                "time": "2012-10-31 08:55:11",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/magento2",
                     "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
                 }
             }
