@@ -844,6 +844,31 @@
                 "description": "Vertical Navigation with CSS Classes.",
                 "homepage": "https://github.com/riconeitzel/VertNav"
             }
+        },
+        "therouv/debitpayment": {
+            "dev-master": {
+                "name": "therouv/debitpayment",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "1b357e18e78bfbd2d39029de4b55e754f8c49767"
+                },
+                "time": "2012-10-31 15:08:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment"
+            }
         }
     }
 }
