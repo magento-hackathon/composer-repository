@@ -283,6 +283,28 @@
                 "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen."
             }
         },
+        "flagbit/magento-filterurls": {
+            "dev-master": {
+                "name": "flagbit/magento-filterurls",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "263ca5d80b08d9010d4658a58cf49c9d1d8f7629"
+                },
+                "time": "2012-10-31 12:59:19",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Flagbit GmbH & Co. KG",
+                        "email": "info@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls"
+            }
+        },
         "magento-hackathon/composer-command-integrator": {
             "dev-master": {
                 "name": "magento-hackathon/composer-command-integrator",
