@@ -1053,6 +1053,44 @@
                 }
             }
         },
+        "openstream/ogtags": {
+            "dev-master": {
+                "name": "openstream/ogtags",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/openstream/ogtags.git",
+                    "reference": "8e99775b093cd0c027f71ce1dcfe20c5b2c1422c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/openstream/ogtags/zipball/8e99775b093cd0c027f71ce1dcfe20c5b2c1422c",
+                    "reference": "8e99775b093cd0c027f71ce1dcfe20c5b2c1422c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-31 09:44:19",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Bezhashvyly",
+                        "email": "tim@openstream.ch"
+                    }
+                ],
+                "description": "Magento extension which adds og:image meta tag to product view page.",
+                "homepage": "https://github.com/openstream/ogtags",
+                "support": {
+                    "source": "https://github.com/openstream/ogtags/tree/master",
+                    "issues": "https://github.com/openstream/ogtags/issues"
+                }
+            }
+        },
         "riconeitzel/vertical-navigation": {
             "v0.4.2": {
                 "name": "riconeitzel/vertical-navigation",
