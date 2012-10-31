@@ -23,7 +23,8 @@
       { "type": "git", "url": "git://github.com/fbrnc/Aoe_TemplateHints.git" },
       { "type": "git", "url": "git://github.com/riconeitzel/VertNav.git" },
       { "type": "git", "url": "git://github.com/Vinai/customer-registration-ip.git" },
-      { "type": "git", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" }
+      { "type": "git", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
+      { "type": "git", "url": "git://github.com/therouv/Magento-DebitPayment.git" }
    ],
    "require-all": true
 }
