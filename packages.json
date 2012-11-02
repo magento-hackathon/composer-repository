@@ -875,18 +875,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "e5cb089f6b82f5b011a071897304589c49c6d074"
+                    "reference": "b8997e172e96ad5c0137a839b83e0c58bbff1d1c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/e5cb089f6b82f5b011a071897304589c49c6d074",
-                    "reference": "e5cb089f6b82f5b011a071897304589c49c6d074",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/b8997e172e96ad5c0137a839b83e0c58bbff1d1c",
+                    "reference": "b8997e172e96ad5c0137a839b83e0c58bbff1d1c",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 08:27:44",
+                "time": "2012-11-02 10:31:26",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
