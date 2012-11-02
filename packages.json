@@ -270,18 +270,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento.git",
-                    "reference": "846a98e81412f5511eddb680df68981742778b1b"
+                    "reference": "ad86080ed7047f22982d1237d4b535aa621b6783"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento/zipball/846a98e81412f5511eddb680df68981742778b1b",
-                    "reference": "846a98e81412f5511eddb680df68981742778b1b",
+                    "url": "https://github.com/firegento/firegento/zipball/ad86080ed7047f22982d1237d4b535aa621b6783",
+                    "reference": "ad86080ed7047f22982d1237d4b535aa621b6783",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 14:27:46",
+                "time": "2012-11-02 21:17:17",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -389,6 +389,36 @@
                 "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
                 "support": {
                     "source": "https://github.com/firegento/firegento-germansetup/tree/master",
+                    "issues": "https://github.com/firegento/firegento-germansetup/issues"
+                }
+            },
+            "dev-development": {
+                "name": "firegento/germansetup",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento-germansetup.git",
+                    "reference": "fae60cc6c5c5f3c759d7fe77799acb312b057862"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/fae60cc6c5c5f3c759d7fe77799acb312b057862",
+                    "reference": "fae60cc6c5c5f3c759d7fe77799acb312b057862",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-11-02 20:50:44",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
+                "homepage": "https://github.com/firegento/firegento-germansetup",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-germansetup/tree/development",
                     "issues": "https://github.com/firegento/firegento-germansetup/issues"
                 }
             }
