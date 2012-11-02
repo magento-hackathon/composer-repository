@@ -45,18 +45,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
-                    "reference": "fb934bff8e938b2553c7ec4f6c3137b8495054cc"
+                    "reference": "38189739ea8773043f7a146050119247787b2759"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/zipball/fb934bff8e938b2553c7ec4f6c3137b8495054cc",
-                    "reference": "fb934bff8e938b2553c7ec4f6c3137b8495054cc",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/zipball/38189739ea8773043f7a146050119247787b2759",
+                    "reference": "38189739ea8773043f7a146050119247787b2759",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 07:26:58",
+                "time": "2012-11-02 17:22:41",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
