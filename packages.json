@@ -146,6 +146,41 @@
                     "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/master",
                     "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
                 }
+            },
+            "dev-feature/log_broken_locks": {
+                "name": "colinmollenhour/redis-session",
+                "version": "dev-feature/log_broken_locks",
+                "version_normalized": "dev-feature/log_broken_locks",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "993a361b309534784c6cd6c4ffa10a459f79d4fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/993a361b309534784c6cd6c4ffa10a459f79d4fe",
+                    "reference": "993a361b309534784c6cd6c4ffa10a459f79d4fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-11-07 01:56:05",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/feature/log_broken_locks",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
             }
         },
         "fbrnc/Aoe_Profiler": {
