@@ -767,7 +767,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 09:23:19",
+                "time": "2012-11-07 12:32:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -803,7 +803,7 @@
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 09:23:19",
+                "time": "2012-11-07 12:32:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
