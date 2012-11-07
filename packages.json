@@ -119,18 +119,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
-                    "reference": "5eeeb1c1c08674a103eaa68baae8a5a9bdba00ff"
+                    "reference": "2fb42998d2037572598aeaf209014adb53702c2b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/5eeeb1c1c08674a103eaa68baae8a5a9bdba00ff",
-                    "reference": "5eeeb1c1c08674a103eaa68baae8a5a9bdba00ff",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/2fb42998d2037572598aeaf209014adb53702c2b",
+                    "reference": "2fb42998d2037572598aeaf209014adb53702c2b",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-01 19:50:41",
+                "time": "2012-11-07 19:42:41",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
