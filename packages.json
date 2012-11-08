@@ -398,6 +398,36 @@
             }
         },
         "firegento/germansetup": {
+            "v1.1.4": {
+                "name": "firegento/germansetup",
+                "version": "v1.1.4",
+                "version_normalized": "1.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento-germansetup.git",
+                    "reference": "v1.1.4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/v1.1.4",
+                    "reference": "v1.1.4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-11-08 16:47:33",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
+                "homepage": "https://github.com/firegento/firegento-germansetup",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-germansetup/tree/development",
+                    "issues": "https://github.com/firegento/firegento-germansetup/issues"
+                }
+            },
             "dev-master": {
                 "name": "firegento/germansetup",
                 "version": "dev-master",
@@ -405,12 +435,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "8ccd4d73390d1b73f9523ddc4af94314524bd136"
+                    "reference": "v1.1.4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/8ccd4d73390d1b73f9523ddc4af94314524bd136",
-                    "reference": "8ccd4d73390d1b73f9523ddc4af94314524bd136",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/v1.1.4",
+                    "reference": "v1.1.4",
                     "shasum": ""
                 },
                 "require": {
@@ -435,12 +465,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "8ccd4d73390d1b73f9523ddc4af94314524bd136"
+                    "reference": "v1.1.4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/8ccd4d73390d1b73f9523ddc4af94314524bd136",
-                    "reference": "8ccd4d73390d1b73f9523ddc4af94314524bd136",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/v1.1.4",
+                    "reference": "v1.1.4",
                     "shasum": ""
                 },
                 "require": {
