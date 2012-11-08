@@ -405,18 +405,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "14669868417c00ebb3678a74ed301fab239d1922"
+                    "reference": "8b7d5ad19db56eb460493f8795e38ee240a13caa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/14669868417c00ebb3678a74ed301fab239d1922",
-                    "reference": "14669868417c00ebb3678a74ed301fab239d1922",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/8b7d5ad19db56eb460493f8795e38ee240a13caa",
+                    "reference": "8b7d5ad19db56eb460493f8795e38ee240a13caa",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 05:15:13",
+                "time": "2012-11-08 12:44:20",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -792,18 +792,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-activation.git",
-                    "reference": "0.3.9"
+                    "reference": "bad2c4defc77ca1881ba9e493aecd55c79e041d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-activation/zipball/0.3.9",
-                    "reference": "0.3.9",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/bad2c4defc77ca1881ba9e493aecd55c79e041d0",
+                    "reference": "bad2c4defc77ca1881ba9e493aecd55c79e041d0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-07 12:32:58",
+                "time": "2012-11-08 12:34:55",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -817,7 +817,7 @@
                 "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
                 "homepage": "https://github.com/Vinai/customer-activation",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-activation/tree/0.3.9",
+                    "source": "https://github.com/Vinai/customer-activation/tree/master",
                     "issues": "https://github.com/Vinai/customer-activation/issues"
                 }
             }
