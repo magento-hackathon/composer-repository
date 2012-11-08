@@ -405,18 +405,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "8b7d5ad19db56eb460493f8795e38ee240a13caa"
+                    "reference": "138b824458a0043ebd48d5cb9158df6be0ab26ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/8b7d5ad19db56eb460493f8795e38ee240a13caa",
-                    "reference": "8b7d5ad19db56eb460493f8795e38ee240a13caa",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/138b824458a0043ebd48d5cb9158df6be0ab26ca",
+                    "reference": "138b824458a0043ebd48d5cb9158df6be0ab26ca",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-08 12:44:20",
+                "time": "2012-11-08 13:15:17",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -434,18 +434,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "2546d27ea1f5686c6673e8c8f373dff18e0ec35a"
+                    "reference": "76fd907b417d7afe402f53bbb8e25363e9ff8ce9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/2546d27ea1f5686c6673e8c8f373dff18e0ec35a",
-                    "reference": "2546d27ea1f5686c6673e8c8f373dff18e0ec35a",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/76fd907b417d7afe402f53bbb8e25363e9ff8ce9",
+                    "reference": "76fd907b417d7afe402f53bbb8e25363e9ff8ce9",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-08 10:14:44",
+                "time": "2012-11-08 13:45:30",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -454,6 +454,36 @@
                 "homepage": "https://github.com/firegento/firegento-germansetup",
                 "support": {
                     "source": "https://github.com/firegento/firegento-germansetup/tree/development",
+                    "issues": "https://github.com/firegento/firegento-germansetup/issues"
+                }
+            },
+            "dev-unittest": {
+                "name": "firegento/germansetup",
+                "version": "dev-unittest",
+                "version_normalized": "dev-unittest",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento-germansetup.git",
+                    "reference": "0d5b97cb9971cad5f1fca422ae457100ab086eab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/0d5b97cb9971cad5f1fca422ae457100ab086eab",
+                    "reference": "0d5b97cb9971cad5f1fca422ae457100ab086eab",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-11-08 13:48:46",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
+                "homepage": "https://github.com/firegento/firegento-germansetup",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-germansetup/tree/unittest",
                     "issues": "https://github.com/firegento/firegento-germansetup/issues"
                 }
             }
