@@ -465,18 +465,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "v1.1.4"
+                    "reference": "0a6ba915276a5c406f1d4d7cdd795f366f66cbd2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/v1.1.4",
-                    "reference": "v1.1.4",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/0a6ba915276a5c406f1d4d7cdd795f366f66cbd2",
+                    "reference": "0a6ba915276a5c406f1d4d7cdd795f366f66cbd2",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-08 16:47:33",
+                "time": "2012-11-09 10:10:54",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
