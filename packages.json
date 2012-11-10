@@ -1337,15 +1337,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/therouv/Magento-DebitPayment.git",
-                    "reference": "7b633213d2672fcf105bc9322c267bed54b1b962"
+                    "reference": "275570cf03f12655024b3fbe4441818e36f212da"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/7b633213d2672fcf105bc9322c267bed54b1b962",
-                    "reference": "7b633213d2672fcf105bc9322c267bed54b1b962",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/275570cf03f12655024b3fbe4441818e36f212da",
+                    "reference": "275570cf03f12655024b3fbe4441818e36f212da",
                     "shasum": ""
                 },
-                "time": "2012-10-31 09:01:31",
+                "time": "2012-11-10 15:12:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
