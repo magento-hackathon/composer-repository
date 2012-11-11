@@ -1337,12 +1337,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/therouv/Magento-DebitPayment.git",
-                    "reference": "275570cf03f12655024b3fbe4441818e36f212da"
+                    "reference": "v0.5.4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/275570cf03f12655024b3fbe4441818e36f212da",
-                    "reference": "275570cf03f12655024b3fbe4441818e36f212da",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/v0.5.4",
+                    "reference": "v0.5.4",
                     "shasum": ""
                 },
                 "time": "2012-11-10 15:12:00",
