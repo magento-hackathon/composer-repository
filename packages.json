@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_File.git",
-                    "reference": "cb5930b7a165a5658c9512afdc5ab4ceec3d6085"
+                    "reference": "aeff9cf96625894e1c252a016586e7122a6cd744"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_File/zipball/cb5930b7a165a5658c9512afdc5ab4ceec3d6085",
-                    "reference": "cb5930b7a165a5658c9512afdc5ab4ceec3d6085",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_File/zipball/aeff9cf96625894e1c252a016586e7122a6cd744",
+                    "reference": "aeff9cf96625894e1c252a016586e7122a6cd744",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-30 07:31:54",
+                "time": "2012-11-13 16:05:35",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -45,21 +45,21 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
-                    "reference": "cff8dd063b8d657b6133d54eef35797666bfa674"
+                    "reference": "d9dbb04727c9350c10c5f1747b85f49576d2de07"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/zipball/cff8dd063b8d657b6133d54eef35797666bfa674",
-                    "reference": "cff8dd063b8d657b6133d54eef35797666bfa674",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/zipball/d9dbb04727c9350c10c5f1747b85f49576d2de07",
+                    "reference": "d9dbb04727c9350c10c5f1747b85f49576d2de07",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-13 14:49:59",
+                "time": "2012-11-13 16:20:42",
                 "type": "magento-module",
                 "license": [
-                    "OSL-3.0"
+                    "BSD-3-Clause"
                 ],
                 "authors": [
                     {
@@ -74,29 +74,29 @@
                 }
             }
         },
-        "colinmollenhour/die-hard": {
+        "colinmollenhour/Cm_Diehard": {
             "dev-master": {
-                "name": "colinmollenhour/die-hard",
+                "name": "colinmollenhour/Cm_Diehard",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Diehard.git",
-                    "reference": "6e46098dca84eba4ef38f4434cc51e7cfc3fb013"
+                    "reference": "0ccf131ddc3381185f72e0a28ca2ffe2f42ff735"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/6e46098dca84eba4ef38f4434cc51e7cfc3fb013",
-                    "reference": "6e46098dca84eba4ef38f4434cc51e7cfc3fb013",
+                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/0ccf131ddc3381185f72e0a28ca2ffe2f42ff735",
+                    "reference": "0ccf131ddc3381185f72e0a28ca2ffe2f42ff735",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-13 06:59:21",
+                "time": "2012-11-13 16:41:09",
                 "type": "magento-module",
                 "license": [
-                    "OSL-3.0"
+                    "GPL-3.0"
                 ],
                 "authors": [
                     {
@@ -104,7 +104,7 @@
                     }
                 ],
                 "description": "Cm_Diehard: Full-Page Cache",
-                "homepage": "https://github.com/colinmollenhour/Cm_DieHard",
+                "homepage": "https://github.com/colinmollenhour/Cm_Diehard",
                 "support": {
                     "source": "https://github.com/colinmollenhour/Cm_Diehard/tree/master",
                     "issues": "https://github.com/colinmollenhour/Cm_Diehard/issues"
