@@ -25,7 +25,8 @@
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" },
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" }
+      { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" },
+      { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" }
    ],
    "require-all": true
 }
