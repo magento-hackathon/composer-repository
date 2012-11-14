@@ -580,6 +580,36 @@
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
                 }
             },
+            "dev-dev/saveurls": {
+                "name": "flagbit/magento-filterurls",
+                "version": "dev-dev/saveurls",
+                "version_normalized": "dev-dev/saveurls",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "84d460295e3c5eaf4c7e95b7499c8389e04524c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/84d460295e3c5eaf4c7e95b7499c8389e04524c7",
+                    "reference": "84d460295e3c5eaf4c7e95b7499c8389e04524c7",
+                    "shasum": ""
+                },
+                "time": "2012-11-14 16:27:07",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Flagbit GmbH & Co. KG",
+                        "email": "info@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
+                "support": {
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/dev/saveurls",
+                    "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            },
             "dev-dev/search": {
                 "name": "flagbit/magento-filterurls",
                 "version": "dev-dev/search",
