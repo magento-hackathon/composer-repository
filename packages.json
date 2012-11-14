@@ -557,15 +557,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
-                    "reference": "2167b2f615109523d8af810c6a726954b5f4e706"
+                    "reference": "c8188e886ec1431b6ac0aeae2076b041f08af030"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/2167b2f615109523d8af810c6a726954b5f4e706",
-                    "reference": "2167b2f615109523d8af810c6a726954b5f4e706",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/c8188e886ec1431b6ac0aeae2076b041f08af030",
+                    "reference": "c8188e886ec1431b6ac0aeae2076b041f08af030",
                     "shasum": ""
                 },
-                "time": "2012-11-07 15:49:35",
+                "time": "2012-11-09 17:23:01",
                 "type": "magento-module",
                 "authors": [
                     {
@@ -577,6 +577,36 @@
                 "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
                 "support": {
                     "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/master",
+                    "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            },
+            "dev-magefil-6": {
+                "name": "flagbit/magento-filterurls",
+                "version": "dev-magefil-6",
+                "version_normalized": "dev-magefil-6",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "d02cd17ec3b49564a2ba40b83f913c98d78ab991"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/d02cd17ec3b49564a2ba40b83f913c98d78ab991",
+                    "reference": "d02cd17ec3b49564a2ba40b83f913c98d78ab991",
+                    "shasum": ""
+                },
+                "time": "2012-11-14 11:57:05",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Flagbit GmbH & Co. KG",
+                        "email": "info@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
+                "support": {
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/magefil-6",
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
                 }
             }
