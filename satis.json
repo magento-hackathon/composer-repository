@@ -26,7 +26,8 @@
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
       { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" }
+      { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
+      { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" }
    ],
    "require-all": true
 }
