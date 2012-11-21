@@ -647,20 +647,31 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
-                    "reference": "fd49ced854f8bcf39626095ea312347823225d24"
+                    "reference": "fe277621339809bb242f1476de3e895ccb2f810b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/fd49ced854f8bcf39626095ea312347823225d24",
-                    "reference": "fd49ced854f8bcf39626095ea312347823225d24",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/fe277621339809bb242f1476de3e895ccb2f810b",
+                    "reference": "fe277621339809bb242f1476de3e895ccb2f810b",
                     "shasum": ""
                 },
-                "time": "2012-11-16 15:40:43",
+                "time": "2012-11-21 14:09:15",
                 "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
                 "authors": [
                     {
-                        "name": "Flagbit GmbH & Co. KG",
-                        "email": "info@flagbit.de"
+                        "name": "Michael Türk",
+                        "email": "michael.tuerk@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@flagbit.de"
+                    },
+                    {
+                        "name": "Damian Luszczymak",
+                        "email": "damian.luszczymak@flagbit.de"
                     }
                 ],
                 "description": "Module that adds speaking URLs to layered navigation links",
