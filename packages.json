@@ -670,6 +670,47 @@
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
                 }
             },
+            "dev-magefil-10": {
+                "name": "flagbit/magento-filterurls",
+                "version": "dev-magefil-10",
+                "version_normalized": "dev-magefil-10",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "70e3deee0d25ff16c27e1e5ecd02123d7a0f9dc4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/70e3deee0d25ff16c27e1e5ecd02123d7a0f9dc4",
+                    "reference": "70e3deee0d25ff16c27e1e5ecd02123d7a0f9dc4",
+                    "shasum": ""
+                },
+                "time": "2012-11-21 12:00:13",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Türk",
+                        "email": "michael.tuerk@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@flagbit.de"
+                    },
+                    {
+                        "name": "Damian Luszczymak",
+                        "email": "damian.luszczymak@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
+                "support": {
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/magefil-10",
+                    "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            },
             "dev-magefil-6": {
                 "name": "flagbit/magento-filterurls",
                 "version": "dev-magefil-6",
@@ -1446,6 +1487,44 @@
                 "support": {
                     "source": "https://github.com/riconeitzel/VertNav/tree/master",
                     "issues": "https://github.com/riconeitzel/VertNav/issues"
+                }
+            }
+        },
+        "saferpay/business": {
+            "dev-master": {
+                "name": "saferpay/business",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/openstream/SaferpayBusiness.git",
+                    "reference": "c13d3ee55bf78308fda4b3cb594909bdc3bb6453"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/openstream/SaferpayBusiness/zipball/c13d3ee55bf78308fda4b3cb594909bdc3bb6453",
+                    "reference": "c13d3ee55bf78308fda4b3cb594909bdc3bb6453",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-11-21 11:51:44",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Bezhashvyly",
+                        "email": "tim@openstream.ch"
+                    }
+                ],
+                "description": "Saferpay Business payment extension for Magento",
+                "homepage": "https://github.com/openstream/SaferpayBusiness",
+                "support": {
+                    "source": "https://github.com/openstream/SaferpayBusiness/tree/master",
+                    "issues": "https://github.com/openstream/SaferpayBusiness/issues"
                 }
             }
         },
