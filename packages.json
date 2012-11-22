@@ -549,39 +549,91 @@
                 }
             }
         },
-        "flagbit/magento-filterurls": {
-            "dev-master": {
-                "name": "flagbit/magento-filterurls",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+        "flagbit/filterUrls": {
+            "0.2.0": {
+                "name": "flagbit/filterUrls",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
-                    "reference": "d13a92dbd4e3665433d30857ba96b1e27cbe6e56"
+                    "reference": "0.2.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/d13a92dbd4e3665433d30857ba96b1e27cbe6e56",
-                    "reference": "d13a92dbd4e3665433d30857ba96b1e27cbe6e56",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/0.2.0",
+                    "reference": "0.2.0",
                     "shasum": ""
                 },
-                "time": "2012-11-14 15:14:52",
+                "time": "2012-11-22 10:40:12",
                 "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
                 "authors": [
                     {
-                        "name": "Flagbit GmbH & Co. KG",
-                        "email": "info@flagbit.de"
+                        "name": "Michael Türk",
+                        "email": "michael.tuerk@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@flagbit.de"
+                    },
+                    {
+                        "name": "Damian Luszczymak",
+                        "email": "damian.luszczymak@flagbit.de"
                     }
                 ],
                 "description": "Module that adds speaking URLs to layered navigation links",
                 "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
                 "support": {
-                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/master",
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/0.2.0",
+                    "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            },
+            "dev-master": {
+                "name": "flagbit/filterUrls",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/37f6db9f21251967146936a42722a6ed0c26905f",
+                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f",
+                    "shasum": ""
+                },
+                "time": "2012-11-22 11:16:18",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Türk",
+                        "email": "michael.tuerk@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@flagbit.de"
+                    },
+                    {
+                        "name": "Damian Luszczymak",
+                        "email": "damian.luszczymak@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
+                "support": {
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/develop",
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
                 }
             },
             "dev-dev/search": {
-                "name": "flagbit/magento-filterurls",
+                "name": "flagbit/filterUrls",
                 "version": "dev-dev/search",
                 "version_normalized": "dev-dev/search",
                 "source": {
@@ -611,21 +663,21 @@
                 }
             },
             "dev-develop": {
-                "name": "flagbit/magento-filterurls",
+                "name": "flagbit/filterUrls",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
-                    "reference": "fdc83148f7c38248b31b5d567bd7641b58d400bb"
+                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/fdc83148f7c38248b31b5d567bd7641b58d400bb",
-                    "reference": "fdc83148f7c38248b31b5d567bd7641b58d400bb",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/37f6db9f21251967146936a42722a6ed0c26905f",
+                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f",
                     "shasum": ""
                 },
-                "time": "2012-11-22 10:33:12",
+                "time": "2012-11-22 11:16:18",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -652,7 +704,7 @@
                 }
             },
             "dev-magefil-10": {
-                "name": "flagbit/magento-filterurls",
+                "name": "flagbit/filterUrls",
                 "version": "dev-magefil-10",
                 "version_normalized": "dev-magefil-10",
                 "source": {
@@ -689,6 +741,47 @@
                 "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
                 "support": {
                     "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/magefil-10",
+                    "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            },
+            "dev-release-0.2.0": {
+                "name": "flagbit/filterUrls",
+                "version": "dev-release-0.2.0",
+                "version_normalized": "dev-release-0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
+                    "reference": "17ef6f2b3c3127962e0990bc0d873af1b586e6c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/17ef6f2b3c3127962e0990bc0d873af1b586e6c6",
+                    "reference": "17ef6f2b3c3127962e0990bc0d873af1b586e6c6",
+                    "shasum": ""
+                },
+                "time": "2012-11-22 11:15:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Türk",
+                        "email": "michael.tuerk@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@flagbit.de"
+                    },
+                    {
+                        "name": "Damian Luszczymak",
+                        "email": "damian.luszczymak@flagbit.de"
+                    }
+                ],
+                "description": "Module that adds speaking URLs to layered navigation links",
+                "homepage": "https://github.com/Flagbit/Magento-FilterUrls",
+                "support": {
+                    "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/release-0.2.0",
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
                 }
             }
