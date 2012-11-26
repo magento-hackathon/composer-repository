@@ -1580,18 +1580,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/openstream/SaferpayEcommerce.git",
-                    "reference": "8aaeec4fa5797542afb7a719f3ba2949f586921c"
+                    "reference": "4dfb3adcae16723fa3cb162a56f00cfb39cde51e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/openstream/SaferpayEcommerce/zipball/8aaeec4fa5797542afb7a719f3ba2949f586921c",
-                    "reference": "8aaeec4fa5797542afb7a719f3ba2949f586921c",
+                    "url": "https://github.com/openstream/SaferpayEcommerce/zipball/4dfb3adcae16723fa3cb162a56f00cfb39cde51e",
+                    "reference": "4dfb3adcae16723fa3cb162a56f00cfb39cde51e",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-13 18:16:40",
+                "time": "2012-11-26 12:32:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
