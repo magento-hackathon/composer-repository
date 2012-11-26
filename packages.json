@@ -669,15 +669,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Flagbit/Magento-FilterUrls.git",
-                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f"
+                    "reference": "891f25b57acd3516ee592cff6afaaa18f9bc7dff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/37f6db9f21251967146936a42722a6ed0c26905f",
-                    "reference": "37f6db9f21251967146936a42722a6ed0c26905f",
+                    "url": "https://github.com/Flagbit/Magento-FilterUrls/zipball/891f25b57acd3516ee592cff6afaaa18f9bc7dff",
+                    "reference": "891f25b57acd3516ee592cff6afaaa18f9bc7dff",
                     "shasum": ""
                 },
-                "time": "2012-11-22 11:16:18",
+                "time": "2012-11-26 15:25:29",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
