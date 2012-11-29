@@ -435,18 +435,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "v1.1.4"
+                    "reference": "3f993a6e692b712d2859bc95a72fa77b2772fb1a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/v1.1.4",
-                    "reference": "v1.1.4",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/3f993a6e692b712d2859bc95a72fa77b2772fb1a",
+                    "reference": "3f993a6e692b712d2859bc95a72fa77b2772fb1a",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-08 16:47:33",
+                "time": "2012-11-29 11:54:26",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -454,7 +454,7 @@
                 "description": "GermanSetup ist eine deutlich verbesserte Alternative zu bereits existierenden Modulen.",
                 "homepage": "https://github.com/firegento/firegento-germansetup",
                 "support": {
-                    "source": "https://github.com/firegento/firegento-germansetup/tree/development",
+                    "source": "https://github.com/firegento/firegento-germansetup/tree/master",
                     "issues": "https://github.com/firegento/firegento-germansetup/issues"
                 }
             },
@@ -465,18 +465,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "788fea895cb2a7b99f892b6f178032349c3d4f98"
+                    "reference": "3638655654592ac74fe62b57de30ad4702c1315f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/788fea895cb2a7b99f892b6f178032349c3d4f98",
-                    "reference": "788fea895cb2a7b99f892b6f178032349c3d4f98",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/3638655654592ac74fe62b57de30ad4702c1315f",
+                    "reference": "3638655654592ac74fe62b57de30ad4702c1315f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-24 20:36:40",
+                "time": "2012-11-29 11:52:16",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -880,12 +880,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "aced0f919f1aa742a372bb2fcc78428a2747e7f7"
+                    "reference": "bbb5e968d6fef32b7f851327fec6bf0ead7c08b5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/aced0f919f1aa742a372bb2fcc78428a2747e7f7",
-                    "reference": "aced0f919f1aa742a372bb2fcc78428a2747e7f7",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/bbb5e968d6fef32b7f851327fec6bf0ead7c08b5",
+                    "reference": "bbb5e968d6fef32b7f851327fec6bf0ead7c08b5",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -893,7 +893,7 @@
                     "magento-hackathon/composer-command-integrator": "*",
                     "composer/composer": "*"
                 },
-                "time": "2012-10-31 03:58:55",
+                "time": "2012-11-29 12:02:34",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
