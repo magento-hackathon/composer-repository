@@ -191,18 +191,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Profiler.git",
-                    "reference": "955d5bef6f13e5628f0c99819280af4d36cfc765"
+                    "reference": "96438c53ab4858625dc5eb55fb260748c21b0750"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Profiler/zipball/955d5bef6f13e5628f0c99819280af4d36cfc765",
-                    "reference": "955d5bef6f13e5628f0c99819280af4d36cfc765",
+                    "url": "https://github.com/fbrnc/Aoe_Profiler/zipball/96438c53ab4858625dc5eb55fb260748c21b0750",
+                    "reference": "96438c53ab4858625dc5eb55fb260748c21b0750",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 19:34:21",
+                "time": "2012-11-30 17:55:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -229,18 +229,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "7cb4a0336b78c15aa355282c9cb300c6f33f0aac"
+                    "reference": "89a3213149cff057454e77f553379e3b758619e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/7cb4a0336b78c15aa355282c9cb300c6f33f0aac",
-                    "reference": "7cb4a0336b78c15aa355282c9cb300c6f33f0aac",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/89a3213149cff057454e77f553379e3b758619e2",
+                    "reference": "89a3213149cff057454e77f553379e3b758619e2",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 19:34:36",
+                "time": "2012-11-30 17:55:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -267,18 +267,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_TemplateHints.git",
-                    "reference": "91ede2a8a243f17619c251d1139ddd5131fc201d"
+                    "reference": "9be4cb202d7fe0d3e35ee8a7eaaa20dd407e7ba2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_TemplateHints/zipball/91ede2a8a243f17619c251d1139ddd5131fc201d",
-                    "reference": "91ede2a8a243f17619c251d1139ddd5131fc201d",
+                    "url": "https://github.com/fbrnc/Aoe_TemplateHints/zipball/9be4cb202d7fe0d3e35ee8a7eaaa20dd407e7ba2",
+                    "reference": "9be4cb202d7fe0d3e35ee8a7eaaa20dd407e7ba2",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 19:30:46",
+                "time": "2012-11-30 18:05:45",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
