@@ -1723,6 +1723,80 @@
                 }
             }
         },
+        "Spranks/ConfigurableTierPrices": {
+            "dev-master": {
+                "name": "Spranks/ConfigurableTierPrices",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git",
+                    "reference": "b838c8e53e11a5c3fef6ed12b6730720201060a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/sprankhub/Spranks_ConfigurableTierPrices/zipball/b838c8e53e11a5c3fef6ed12b6730720201060a7",
+                    "reference": "b838c8e53e11a5c3fef6ed12b6730720201060a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-02 10:09:24",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel"
+                    }
+                ],
+                "description": "This extension changes the way Magento calculates tier prices of configurable products. You can now add different variants of a configurable product to the cart and you will get the tier price for the total quantity of all variants in the cart.",
+                "homepage": "https://github.com/sprankhub/Spranks_ConfigurableTierPrices",
+                "support": {
+                    "source": "https://github.com/sprankhub/Spranks_ConfigurableTierPrices/tree/master",
+                    "issues": "https://github.com/sprankhub/Spranks_ConfigurableTierPrices/issues"
+                }
+            }
+        },
+        "Spranks/RefreshBlockHtmlCache": {
+            "dev-master": {
+                "name": "Spranks/RefreshBlockHtmlCache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git",
+                    "reference": "9230093c53be57ed45d99683027c6cea5a5ea05f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache/zipball/9230093c53be57ed45d99683027c6cea5a5ea05f",
+                    "reference": "9230093c53be57ed45d99683027c6cea5a5ea05f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-02 10:11:43",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel"
+                    }
+                ],
+                "description": "This extension refreshes the block HTML cache each time a product is saved.",
+                "homepage": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache",
+                "support": {
+                    "source": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache/tree/master",
+                    "issues": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache/issues"
+                }
+            }
+        },
         "therouv/debitpayment": {
             "dev-master": {
                 "name": "therouv/debitpayment",
