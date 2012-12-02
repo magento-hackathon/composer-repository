@@ -27,7 +27,9 @@
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
       { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" }
+      { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
+      { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
+      { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" }
    ],
    "require-all": true
 }
