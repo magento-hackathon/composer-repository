@@ -835,18 +835,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/composer-command-integrator.git",
-                    "reference": "583e4f098b6deb6263959a450abe586a6af92f4a"
+                    "reference": "fd2a0709186eeddccbac15b6574ff90e13a71690"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/composer-command-integrator/zipball/583e4f098b6deb6263959a450abe586a6af92f4a",
-                    "reference": "583e4f098b6deb6263959a450abe586a6af92f4a",
+                    "url": "https://github.com/magento-hackathon/composer-command-integrator/zipball/fd2a0709186eeddccbac15b6574ff90e13a71690",
+                    "reference": "fd2a0709186eeddccbac15b6574ff90e13a71690",
                     "shasum": ""
                 },
                 "require": {
                     "composer/composer": "*"
                 },
-                "time": "2012-10-29 10:02:10",
+                "time": "2012-12-02 20:35:46",
                 "bin": [
                     "bin/composerCommandIntegrator.php"
                 ],
