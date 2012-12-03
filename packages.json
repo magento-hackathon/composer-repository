@@ -880,12 +880,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "12c3fe953c283bb8c47f7fce5a4f266dfec517c7"
+                    "reference": "783e8e09e46730de1c3c1520f64558e92851f093"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/12c3fe953c283bb8c47f7fce5a4f266dfec517c7",
-                    "reference": "12c3fe953c283bb8c47f7fce5a4f266dfec517c7",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/783e8e09e46730de1c3c1520f64558e92851f093",
+                    "reference": "783e8e09e46730de1c3c1520f64558e92851f093",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -895,7 +895,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2012-12-02 23:58:14",
+                "time": "2012-12-03 12:31:20",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
