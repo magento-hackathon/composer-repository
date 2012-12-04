@@ -119,18 +119,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
-                    "reference": "1e6e41228a92328c8e5a3e620af591155e14aaed"
+                    "reference": "1b1848941997cb2829589acc0d4517bda99d32e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/1e6e41228a92328c8e5a3e620af591155e14aaed",
-                    "reference": "1e6e41228a92328c8e5a3e620af591155e14aaed",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/1b1848941997cb2829589acc0d4517bda99d32e7",
+                    "reference": "1b1848941997cb2829589acc0d4517bda99d32e7",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-14 00:01:08",
+                "time": "2012-12-04 19:48:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -374,18 +374,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-dynamiccategory.git",
-                    "reference": "031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb"
+                    "reference": "60f61eba4ce245ad7deaacb60df293610e46cf2b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb",
-                    "reference": "031f4bc8b8d7cf010365037a78d0ce3c6f1cffbb",
+                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/60f61eba4ce245ad7deaacb60df293610e46cf2b",
+                    "reference": "60f61eba4ce245ad7deaacb60df293610e46cf2b",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-10-29 05:15:45",
+                "time": "2012-12-04 19:28:45",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
