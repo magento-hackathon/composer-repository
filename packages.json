@@ -835,18 +835,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/liip/magento-xhprof.git",
-                    "reference": "2ddb1bc979c78ac21cbbcff6e50af3fd266ca028"
+                    "reference": "3f8d749c7eff3e4086e60bbba757113df13ef5f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/liip/magento-xhprof/zipball/2ddb1bc979c78ac21cbbcff6e50af3fd266ca028",
-                    "reference": "2ddb1bc979c78ac21cbbcff6e50af3fd266ca028",
+                    "url": "https://github.com/liip/magento-xhprof/zipball/3f8d749c7eff3e4086e60bbba757113df13ef5f8",
+                    "reference": "3f8d749c7eff3e4086e60bbba757113df13ef5f8",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-10 10:49:14",
+                "time": "2012-12-10 21:04:38",
                 "type": "magento-module",
                 "extra": {
                     "map": [
