@@ -374,18 +374,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-dynamiccategory.git",
-                    "reference": "60f61eba4ce245ad7deaacb60df293610e46cf2b"
+                    "reference": "b5ce77b6671640bb62d61f8b44a508d68fbc2878"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/60f61eba4ce245ad7deaacb60df293610e46cf2b",
-                    "reference": "60f61eba4ce245ad7deaacb60df293610e46cf2b",
+                    "url": "https://github.com/firegento/firegento-dynamiccategory/zipball/b5ce77b6671640bb62d61f8b44a508d68fbc2878",
+                    "reference": "b5ce77b6671640bb62d61f8b44a508d68fbc2878",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-04 19:28:45",
+                "time": "2012-12-10 08:57:37",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -824,6 +824,64 @@
                 "support": {
                     "source": "https://github.com/Flagbit/Magento-FilterUrls/tree/release-0.2.0",
                     "issues": "https://github.com/Flagbit/Magento-FilterUrls/issues"
+                }
+            }
+        },
+        "liip/magento-xhprof": {
+            "dev-master": {
+                "name": "liip/magento-xhprof",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/liip/magento-xhprof.git",
+                    "reference": "2ddb1bc979c78ac21cbbcff6e50af3fd266ca028"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/liip/magento-xhprof/zipball/2ddb1bc979c78ac21cbbcff6e50af3fd266ca028",
+                    "reference": "2ddb1bc979c78ac21cbbcff6e50af3fd266ca028",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-10 10:49:14",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Liip_Xhprof.xml",
+                            "app/etc/modules/Liip_Xhprof.xml"
+                        ],
+                        [
+                            "app/code/community/Liip/Xhprof",
+                            "app/code/community/Liip/Xhprof"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/liip/xhprof.xml",
+                            "app/design/adminhtml/default/default/layout/liip/xhprof.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/liip_xhprof",
+                            "app/design/adminhtml/default/default/template/liip_xhprof"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Liip AG",
+                        "homepage": "http://www.liip.ch/"
+                    }
+                ],
+                "description": "Profile Magento with XHProf",
+                "homepage": "https://github.com/liip/magento-xhprof",
+                "support": {
+                    "source": "https://github.com/liip/magento-xhprof/tree/master",
+                    "issues": "https://github.com/liip/magento-xhprof/issues"
                 }
             }
         },
