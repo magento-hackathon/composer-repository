@@ -119,18 +119,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
-                    "reference": "8e2ae4b832b6e9f3eec3446ec9dd7772983907b4"
+                    "reference": "d14b22f2cdc00a0664cba6eba277797355ce134d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/8e2ae4b832b6e9f3eec3446ec9dd7772983907b4",
-                    "reference": "8e2ae4b832b6e9f3eec3446ec9dd7772983907b4",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/d14b22f2cdc00a0664cba6eba277797355ce134d",
+                    "reference": "d14b22f2cdc00a0664cba6eba277797355ce134d",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-07 20:27:51",
+                "time": "2012-12-11 20:46:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -465,18 +465,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "3638655654592ac74fe62b57de30ad4702c1315f"
+                    "reference": "21b65b50a71ecb937e98b0078f5c6b60362361ef"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/3638655654592ac74fe62b57de30ad4702c1315f",
-                    "reference": "3638655654592ac74fe62b57de30ad4702c1315f",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/21b65b50a71ecb937e98b0078f5c6b60362361ef",
+                    "reference": "21b65b50a71ecb937e98b0078f5c6b60362361ef",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-29 11:52:16",
+                "time": "2012-12-12 07:59:34",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -835,18 +835,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/liip/magento-xhprof.git",
-                    "reference": "3f8d749c7eff3e4086e60bbba757113df13ef5f8"
+                    "reference": "b1bf279ffbf46a6eda98550e1e8da79fe47441a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/liip/magento-xhprof/zipball/3f8d749c7eff3e4086e60bbba757113df13ef5f8",
-                    "reference": "3f8d749c7eff3e4086e60bbba757113df13ef5f8",
+                    "url": "https://github.com/liip/magento-xhprof/zipball/b1bf279ffbf46a6eda98550e1e8da79fe47441a0",
+                    "reference": "b1bf279ffbf46a6eda98550e1e8da79fe47441a0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-10 21:04:38",
+                "time": "2012-12-11 11:07:14",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1445,18 +1445,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/groupscatalog2.git",
-                    "reference": "0.2.4"
+                    "reference": "8c2d7c809577b13425d38e8b4246684fc4a90f91"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/groupscatalog2/zipball/0.2.4",
-                    "reference": "0.2.4",
+                    "url": "https://github.com/Vinai/groupscatalog2/zipball/8c2d7c809577b13425d38e8b4246684fc4a90f91",
+                    "reference": "8c2d7c809577b13425d38e8b4246684fc4a90f91",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-25 19:43:42",
+                "time": "2012-12-11 16:45:42",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1470,7 +1470,7 @@
                 "description": "Magento extension to hide categories and products from customers depending on their customer group.",
                 "homepage": "https://github.com/Vinai/groupscatalog2",
                 "support": {
-                    "source": "https://github.com/Vinai/groupscatalog2/tree/0.2.4",
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/master",
                     "issues": "https://github.com/Vinai/groupscatalog2/issues"
                 }
             }
