@@ -1901,15 +1901,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/therouv/Magento-DebitPayment.git",
-                    "reference": "v0.5.4"
+                    "reference": "2bc4770eb4c6787b1b649ca35b6784cd3a1fa966"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/v0.5.4",
-                    "reference": "v0.5.4",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/2bc4770eb4c6787b1b649ca35b6784cd3a1fa966",
+                    "reference": "2bc4770eb4c6787b1b649ca35b6784cd3a1fa966",
                     "shasum": ""
                 },
-                "time": "2012-11-10 15:12:00",
+                "time": "2012-12-15 13:48:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1934,15 +1934,15 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/therouv/Magento-DebitPayment.git",
-                    "reference": "c0ef895966bc5c0c55d241e64308ff570e956654"
+                    "reference": "dd1f84e93d3b7f7c376eba030541f808431afe9d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/c0ef895966bc5c0c55d241e64308ff570e956654",
-                    "reference": "c0ef895966bc5c0c55d241e64308ff570e956654",
+                    "url": "https://github.com/therouv/Magento-DebitPayment/zipball/dd1f84e93d3b7f7c376eba030541f808431afe9d",
+                    "reference": "dd1f84e93d3b7f7c376eba030541f808431afe9d",
                     "shasum": ""
                 },
-                "time": "2012-10-31 08:57:12",
+                "time": "2012-12-15 14:58:37",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
