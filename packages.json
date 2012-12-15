@@ -82,18 +82,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Diehard.git",
-                    "reference": "bad5348a6bbd24fd5403a3d2f4a1c24421d43c05"
+                    "reference": "b2e01692e1785154f5a185c82fcc27a951adca45"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/bad5348a6bbd24fd5403a3d2f4a1c24421d43c05",
-                    "reference": "bad5348a6bbd24fd5403a3d2f4a1c24421d43c05",
+                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/b2e01692e1785154f5a185c82fcc27a951adca45",
+                    "reference": "b2e01692e1785154f5a185c82fcc27a951adca45",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-29 06:01:02",
+                "time": "2012-12-15 00:24:19",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
