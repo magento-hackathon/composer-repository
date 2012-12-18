@@ -827,6 +827,96 @@
                 }
             }
         },
+        "integer-net/anonymizer": {
+            "dev-master": {
+                "name": "integer-net/anonymizer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/integer-net/Anonymizer.git",
+                    "reference": "965826e017922be82ae42d81ca819bd4031c4f1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/integer-net/Anonymizer/zipball/965826e017922be82ae42d81ca819bd4031c4f1a",
+                    "reference": "965826e017922be82ae42d81ca819bd4031c4f1a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-18 09:02:24",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Andreas von Studnitz"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "homepage": "https://github.com/integer-net/Anonymizer",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/master",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            }
+        },
+        "integer-net/removecustomeraccountlinks": {
+            "dev-master": {
+                "name": "integer-net/removecustomeraccountlinks",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git",
+                    "reference": "44259a90f7147b3840f7b9ca65e4833c8f8c3216"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/integer-net/RemoveCustomerAccountLinks/zipball/44259a90f7147b3840f7b9ca65e4833c8f8c3216",
+                    "reference": "44259a90f7147b3840f7b9ca65e4833c8f8c3216",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-18 09:01:52",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/IntegerNet/RemoveCustomerAccountLinks",
+                            "app/code/community/IntegerNet/RemoveCustomerAccountLinks"
+                        ],
+                        [
+                            "app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml",
+                            "app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv",
+                            "app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Christian Philipp"
+                    }
+                ],
+                "description": "Removes customer account links in Magento.",
+                "homepage": "https://github.com/integer-net/RemoveCustomerAccountLinks",
+                "support": {
+                    "source": "https://github.com/integer-net/RemoveCustomerAccountLinks/tree/master",
+                    "issues": "https://github.com/integer-net/RemoveCustomerAccountLinks/issues"
+                }
+            }
+        },
         "liip/magento-xhprof": {
             "dev-master": {
                 "name": "liip/magento-xhprof",
