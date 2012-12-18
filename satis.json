@@ -30,6 +30,7 @@
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" },
+      { "type": "vcs", "url": "git://github.com/integer-net/Anonymizer.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" }
    ],
    "require-all": true
