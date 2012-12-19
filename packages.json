@@ -1983,6 +1983,44 @@
                 }
             }
         },
+        "thebod/shippingrates": {
+            "dev-master": {
+                "name": "thebod/shippingrates",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/thebod/Thebod_Shippingrates.git",
+                    "reference": "639fc16bebf60de2d67e8feb7ef6721f7f7506f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/thebod/Thebod_Shippingrates/zipball/639fc16bebf60de2d67e8feb7ef6721f7f7506f5",
+                    "reference": "639fc16bebf60de2d67e8feb7ef6721f7f7506f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-12-19 14:59:30",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Bastian Ike",
+                        "email": "b-ike@b-ike.de"
+                    }
+                ],
+                "description": "Simple configurable shippingrates for Magento.",
+                "homepage": "https://github.com/thebod/Thebod_Shippingrates",
+                "support": {
+                    "source": "https://github.com/thebod/Thebod_Shippingrates/tree/master",
+                    "issues": "https://github.com/thebod/Thebod_Shippingrates/issues"
+                }
+            }
+        },
         "therouv/debitpayment": {
             "dev-master": {
                 "name": "therouv/debitpayment",
