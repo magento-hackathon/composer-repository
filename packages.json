@@ -222,25 +222,25 @@
             }
         },
         "fbrnc/Aoe_Scheduler": {
-            "dev-master": {
+            "v0.3.0": {
                 "name": "fbrnc/Aoe_Scheduler",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "v0.3.0",
+                "version_normalized": "0.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "56d1d591f5c74ef395a6a52c56ea61674da48528"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/56d1d591f5c74ef395a6a52c56ea61674da48528",
-                    "reference": "56d1d591f5c74ef395a6a52c56ea61674da48528",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-01 18:08:06",
+                "time": "2013-01-03 06:09:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -254,7 +254,43 @@
                 "description": "Magento Cron Scheduler",
                 "homepage": "http://www.fabrizio-branca.de/magento-cron-scheduler.html",
                 "support": {
-                    "source": "https://github.com/fbrnc/Aoe_Scheduler/tree/master",
+                    "source": "https://github.com/fbrnc/Aoe_Scheduler/tree/v0.3.0",
+                    "issues": "https://github.com/fbrnc/Aoe_Scheduler/issues"
+                }
+            },
+            "dev-master": {
+                "name": "fbrnc/Aoe_Scheduler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
+                    "reference": "v0.3.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-03 06:09:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "http://www.fabrizio-branca.de/magento-cron-scheduler.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Scheduler/tree/v0.3.0",
                     "issues": "https://github.com/fbrnc/Aoe_Scheduler/issues"
                 }
             }
