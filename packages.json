@@ -229,12 +229,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -265,12 +265,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -997,19 +997,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "25eb67c439b584916bfdc5cb0e40c77fd0394ac5"
+                    "reference": "6d083db5f659435fe5dba8b392596d38991b78e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/25eb67c439b584916bfdc5cb0e40c77fd0394ac5",
-                    "reference": "25eb67c439b584916bfdc5cb0e40c77fd0394ac5",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/6d083db5f659435fe5dba8b392596d38991b78e9",
+                    "reference": "6d083db5f659435fe5dba8b392596d38991b78e9",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2012-12-26 11:33:20",
+                "time": "2013-01-04 00:12:42",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1023,6 +1023,42 @@
                 "homepage": "http://www.ecomdev.org/shop/code-testing/php-unit-test-suite.html",
                 "support": {
                     "source": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/tree/dev",
+                    "issues": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/issues"
+                }
+            },
+            "dev-refactor": {
+                "name": "ivanchepurnyi/ecomdev_phpunit",
+                "version": "dev-refactor",
+                "version_normalized": "dev-refactor",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
+                    "reference": "ef3c57353414f781ca57d3b1fdb7dfe7e5555872"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/ef3c57353414f781ca57d3b1fdb7dfe7e5555872",
+                    "reference": "ef3c57353414f781ca57d3b1fdb7dfe7e5555872",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master",
+                    "phpunit/phpunit": "3.6.*"
+                },
+                "time": "2013-01-04 00:09:59",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi"
+                    }
+                ],
+                "description": "Magento PHPUnit Integration",
+                "homepage": "http://www.ecomdev.org/shop/code-testing/php-unit-test-suite.html",
+                "support": {
+                    "source": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/tree/refactor",
                     "issues": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/issues"
                 }
             }
