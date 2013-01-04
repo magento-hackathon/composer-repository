@@ -229,12 +229,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -265,12 +265,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -961,19 +961,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "debf94238892a1626023aabe0929bded282d3d81"
+                    "reference": "04d372728309c7fc87f8bbc049e6759b3cb4dc54"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/debf94238892a1626023aabe0929bded282d3d81",
-                    "reference": "debf94238892a1626023aabe0929bded282d3d81",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/04d372728309c7fc87f8bbc049e6759b3cb4dc54",
+                    "reference": "04d372728309c7fc87f8bbc049e6759b3cb4dc54",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2012-12-26 11:32:35",
+                "time": "2013-01-04 12:11:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -997,19 +997,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "6d083db5f659435fe5dba8b392596d38991b78e9"
+                    "reference": "59a15d7e0af802f029f3a00518b42d1a1fb57c05"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/6d083db5f659435fe5dba8b392596d38991b78e9",
-                    "reference": "6d083db5f659435fe5dba8b392596d38991b78e9",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/59a15d7e0af802f029f3a00518b42d1a1fb57c05",
+                    "reference": "59a15d7e0af802f029f3a00518b42d1a1fb57c05",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-04 00:12:42",
+                "time": "2013-01-04 19:21:27",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
