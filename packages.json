@@ -608,12 +608,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "v0.0.2"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
-                    "reference": "v0.0.2",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -644,12 +644,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "v0.0.2"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
-                    "reference": "v0.0.2",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -682,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -718,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -821,6 +821,42 @@
                 "support": {
                     "source": "https://github.com/fbrnc/Aoe_TemplateHints/tree/master",
                     "issues": "https://github.com/fbrnc/Aoe_TemplateHints/issues"
+                }
+            }
+        },
+        "fbrnc/pulsestorm_launcher": {
+            "dev-master": {
+                "name": "fbrnc/pulsestorm_launcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Pulsestorm_Launcher.git",
+                    "reference": "ab718c4076646158699789d54da231c4125cf9c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Pulsestorm_Launcher/zipball/ab718c4076646158699789d54da231c4125cf9c1",
+                    "reference": "ab718c4076646158699789d54da231c4125cf9c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 18:06:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm"
+                    }
+                ],
+                "description": "Pulsestom_Launcher by Alan Storm.",
+                "homepage": "http://alanstorm.com/category/magento#magento_pulse_storm_launcher",
+                "support": {
+                    "source": "https://github.com/fbrnc/Pulsestorm_Launcher/tree/master"
                 }
             }
         },
