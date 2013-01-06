@@ -32,6 +32,7 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_LayoutConditions.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ClassPathCache.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git" },
+      { "type": "vcs", "url": "git://github.com/fbrnc/Pulsestorm_Launcher.git" },
       { "type": "vcs", "url": "git://github.com/riconeitzel/VertNav.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" },
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
