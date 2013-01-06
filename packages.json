@@ -183,6 +183,311 @@
                 }
             }
         },
+        "fbrnc/aoe_apc": {
+            "dev-master": {
+                "name": "fbrnc/aoe_apc",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_Apc.git",
+                    "reference": "a88ad973467b9b0a6a033a30d6b2cabed6134871"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_Apc/zipball/a88ad973467b9b0a6a033a30d6b2cabed6134871",
+                    "reference": "a88ad973467b9b0a6a033a30d6b2cabed6134871",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master",
+                    "fbrnc/aoe_cachecleaner": "dev-master"
+                },
+                "time": "2013-01-06 04:42:10",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Apc component for Aoe_CacheCleaner Magento extension.",
+                "homepage": "https://github.com/fbrnc/Aoe_Apc",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Apc/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Apc/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_apilog": {
+            "dev-master": {
+                "name": "fbrnc/aoe_apilog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_ApiLog.git",
+                    "reference": "da6c0c9122dfd0c50dff626c8e73cfc20789920e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_ApiLog/zipball/da6c0c9122dfd0c50dff626c8e73cfc20789920e",
+                    "reference": "da6c0c9122dfd0c50dff626c8e73cfc20789920e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:41:52",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Log Magento API calls.",
+                "homepage": "https://github.com/fbrnc/Aoe_ApiLog",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ApiLog/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_ApiLog/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_classpathcache": {
+            "dev-master": {
+                "name": "fbrnc/aoe_classpathcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_ClassPathCache.git",
+                    "reference": "534cdc5cbc0f2facb07b18e30f77ad1e723a9890"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_ClassPathCache/zipball/534cdc5cbc0f2facb07b18e30f77ad1e723a9890",
+                    "reference": "534cdc5cbc0f2facb07b18e30f77ad1e723a9890",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:42:43",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Class path cache for Magento autoloader.",
+                "homepage": "https://github.com/fbrnc/Aoe_ClassPathCache",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ClassPathCache/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_ClassPathCache/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_designfallback": {
+            "dev-master": {
+                "name": "fbrnc/aoe_designfallback",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_DesignFallback.git",
+                    "reference": "2fc4405baae21b5484676d5c70958303b51c776a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_DesignFallback/zipball/2fc4405baae21b5484676d5c70958303b51c776a",
+                    "reference": "2fc4405baae21b5484676d5c70958303b51c776a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:42:41",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Configure your custom design fallback strategy using this Magento module.",
+                "homepage": "https://github.com/fbrnc/Aoe_DesignFallback",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_DesignFallback/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_DesignFallback/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_filepicker": {
+            "dev-master": {
+                "name": "fbrnc/aoe_filepicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_FilePicker.git",
+                    "reference": "84426bf5a0a91bccb608e53f415c775d4b24f0c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_FilePicker/zipball/84426bf5a0a91bccb608e53f415c775d4b24f0c9",
+                    "reference": "84426bf5a0a91bccb608e53f415c775d4b24f0c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:42:13",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Integrates Filepicker.io into Magento.",
+                "homepage": "http://www.fabrizio-branca.de/uploading-product-images-to-magento-using-aoe-filepicker.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_FilePicker/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_FilePicker/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_jscsststamp": {
+            "dev-master": {
+                "name": "fbrnc/aoe_jscsststamp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_JsCssTstamp.git",
+                    "reference": "431a4898cc16975beffc53ec361c63820c03a91b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_JsCssTstamp/zipball/431a4898cc16975beffc53ec361c63820c03a91b",
+                    "reference": "431a4898cc16975beffc53ec361c63820c03a91b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 03:59:39",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Automatic Versioning of JS and CSS files for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_JsCssTstamp",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_JsCssTstamp/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_JsCssTstamp/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_layoutconditions": {
+            "dev-master": {
+                "name": "fbrnc/aoe_layoutconditions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_LayoutConditions.git",
+                    "reference": "e4f3171769c73c6aef374e437af2678005cdc6fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_LayoutConditions/zipball/e4f3171769c73c6aef374e437af2678005cdc6fe",
+                    "reference": "e4f3171769c73c6aef374e437af2678005cdc6fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:42:16",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Layout XML extension with ifconfig and unlessconfig for blocks and references.",
+                "homepage": "https://github.com/fbrnc/Aoe_LayoutConditions",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_LayoutConditions/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_LayoutConditions/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_managestores": {
+            "dev-master": {
+                "name": "fbrnc/aoe_managestores",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_ManageStores.git",
+                    "reference": "f32a4103613f6ab915d305c8182238c31b6267c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_ManageStores/zipball/f32a4103613f6ab915d305c8182238c31b6267c1",
+                    "reference": "f32a4103613f6ab915d305c8182238c31b6267c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:11:41",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Better stores management interface for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_ManageStores",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ManageStores/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_ManageStores/issues"
+                }
+            }
+        },
         "fbrnc/Aoe_Profiler": {
             "dev-master": {
                 "name": "fbrnc/Aoe_Profiler",
@@ -221,6 +526,154 @@
                 }
             }
         },
+        "fbrnc/aoe_quotecleaner": {
+            "v0.1.1": {
+                "name": "fbrnc/aoe_quotecleaner",
+                "version": "v0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
+                    "reference": "latest"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
+                    "reference": "latest",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:04:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Cronjob to remove old quotes for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_QuoteCleaner",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_QuoteCleaner/tree/latest",
+                    "issues": "https://github.com/fbrnc/Aoe_QuoteCleaner/issues"
+                }
+            },
+            "dev-master": {
+                "name": "fbrnc/aoe_quotecleaner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
+                    "reference": "latest"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
+                    "reference": "latest",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:04:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Cronjob to remove old quotes for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_QuoteCleaner",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_QuoteCleaner/tree/latest",
+                    "issues": "https://github.com/fbrnc/Aoe_QuoteCleaner/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_reuseimages": {
+            "v0.0.2": {
+                "name": "fbrnc/aoe_reuseimages",
+                "version": "v0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
+                    "reference": "v0.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:06:13",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Reusing product images instead of creating copies.",
+                "homepage": "https://github.com/fbrnc/Aoe_ReuseImages",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ReuseImages/tree/v0.0.2",
+                    "issues": "https://github.com/fbrnc/Aoe_ReuseImages/issues"
+                }
+            },
+            "dev-master": {
+                "name": "fbrnc/aoe_reuseimages",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
+                    "reference": "v0.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:06:13",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Reusing product images instead of creating copies.",
+                "homepage": "https://github.com/fbrnc/Aoe_ReuseImages",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ReuseImages/tree/v0.0.2",
+                    "issues": "https://github.com/fbrnc/Aoe_ReuseImages/issues"
+                }
+            }
+        },
         "fbrnc/Aoe_Scheduler": {
             "v0.3.0": {
                 "name": "fbrnc/Aoe_Scheduler",
@@ -229,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -265,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -292,6 +745,44 @@
                 "support": {
                     "source": "https://github.com/fbrnc/Aoe_Scheduler/tree/v0.3.0",
                     "issues": "https://github.com/fbrnc/Aoe_Scheduler/issues"
+                }
+            }
+        },
+        "fbrnc/aoe_static": {
+            "dev-master": {
+                "name": "fbrnc/aoe_static",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/fbrnc/Aoe_Static.git",
+                    "reference": "30786a068b027e3ad3a9e9ff907de51f53ec6c6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fbrnc/Aoe_Static/zipball/30786a068b027e3ad3a9e9ff907de51f53ec6c6b",
+                    "reference": "30786a068b027e3ad3a9e9ff907de51f53ec6c6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06 04:41:56",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Varnish Integration for Magento.",
+                "homepage": "http://www.fabrizio-branca.de/make-your-magento-store-fly-using-varnish.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Static/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Static/issues"
                 }
             }
         },
