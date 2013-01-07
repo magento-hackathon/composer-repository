@@ -534,12 +534,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "latest"
+                    "reference": "v0.1.1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
+                    "reference": "v0.1.1",
                     "shasum": ""
                 },
                 "require": {
@@ -570,12 +570,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "latest"
+                    "reference": "v0.1.1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
+                    "reference": "v0.1.1",
                     "shasum": ""
                 },
                 "require": {
@@ -1524,19 +1524,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "7eb3ec38a59c71b9faed9f48d4db42f6449307ad"
+                    "reference": "2efafd3ebfd9bcc1614be4af031cdc51b764aa22"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/7eb3ec38a59c71b9faed9f48d4db42f6449307ad",
-                    "reference": "7eb3ec38a59c71b9faed9f48d4db42f6449307ad",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/2efafd3ebfd9bcc1614be4af031cdc51b764aa22",
+                    "reference": "2efafd3ebfd9bcc1614be4af031cdc51b764aa22",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-07 02:28:32",
+                "time": "2013-01-07 17:57:04",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
