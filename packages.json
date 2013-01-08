@@ -868,18 +868,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento.git",
-                    "reference": "ad86080ed7047f22982d1237d4b535aa621b6783"
+                    "reference": "0b417f309b55afd75d65aa81cdc6fc4d3aa25166"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento/zipball/ad86080ed7047f22982d1237d4b535aa621b6783",
-                    "reference": "ad86080ed7047f22982d1237d4b535aa621b6783",
+                    "url": "https://github.com/firegento/firegento/zipball/0b417f309b55afd75d65aa81cdc6fc4d3aa25166",
+                    "reference": "0b417f309b55afd75d65aa81cdc6fc4d3aa25166",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-02 21:17:17",
+                "time": "2013-01-08 07:15:34",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -1524,19 +1524,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "2efafd3ebfd9bcc1614be4af031cdc51b764aa22"
+                    "reference": "d101575027c76c5a64665f0eb255eef54cf5e526"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/2efafd3ebfd9bcc1614be4af031cdc51b764aa22",
-                    "reference": "2efafd3ebfd9bcc1614be4af031cdc51b764aa22",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/d101575027c76c5a64665f0eb255eef54cf5e526",
+                    "reference": "d101575027c76c5a64665f0eb255eef54cf5e526",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-07 17:57:04",
+                "time": "2013-01-07 22:50:34",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
