@@ -119,18 +119,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_RedisSession.git",
-                    "reference": "4ab464124dfdc810d0c128b39b3feb577e5636cd"
+                    "reference": "636e1cfa93ea8af2412dd1a1dbeb3d08a5537fe4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/4ab464124dfdc810d0c128b39b3feb577e5636cd",
-                    "reference": "4ab464124dfdc810d0c128b39b3feb577e5636cd",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession/zipball/636e1cfa93ea8af2412dd1a1dbeb3d08a5537fe4",
+                    "reference": "636e1cfa93ea8af2412dd1a1dbeb3d08a5537fe4",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-20 09:26:17",
+                "time": "2013-01-09 09:35:04",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -608,12 +608,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "latest"
+                    "reference": "v0.0.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
                     "shasum": ""
                 },
                 "require": {
@@ -644,12 +644,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "latest"
+                    "reference": "v0.0.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
                     "shasum": ""
                 },
                 "require": {
@@ -1524,19 +1524,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "d101575027c76c5a64665f0eb255eef54cf5e526"
+                    "reference": "33605b7d83ea0d9e1db0ae5919910e916005ce79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/d101575027c76c5a64665f0eb255eef54cf5e526",
-                    "reference": "d101575027c76c5a64665f0eb255eef54cf5e526",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/33605b7d83ea0d9e1db0ae5919910e916005ce79",
+                    "reference": "33605b7d83ea0d9e1db0ae5919910e916005ce79",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-07 22:50:34",
+                "time": "2013-01-08 23:20:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
