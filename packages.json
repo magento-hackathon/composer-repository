@@ -682,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -718,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
