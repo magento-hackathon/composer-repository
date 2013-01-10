@@ -682,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -718,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -1831,6 +1831,30 @@
                 "support": {
                     "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            }
+        },
+        "magneto/debug": {
+            "dev-master": {
+                "name": "magneto/debug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/moleman/magneto-debug.git",
+                    "reference": "4e286a72626985241aee313e260f69deb00bff2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/moleman/magneto-debug/zipball/4e286a72626985241aee313e260f69deb00bff2e",
+                    "reference": "4e286a72626985241aee313e260f69deb00bff2e",
+                    "shasum": ""
+                },
+                "time": "2012-11-20 07:51:32",
+                "type": "magento-module",
+                "description": "Magento Debug Toolbar",
+                "support": {
+                    "source": "https://github.com/moleman/magneto-debug/tree/master"
                 }
             }
         },
