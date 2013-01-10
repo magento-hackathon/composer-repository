@@ -46,6 +46,7 @@
       { "type": "vcs", "url": "git://github.com/integer-net/Anonymizer.git" },
       { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
+      { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" }
    ],
    "require-all": true
