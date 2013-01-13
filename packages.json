@@ -1390,6 +1390,56 @@
                 }
             }
         },
+        "hackathon/magegitinfo": {
+            "dev-master": {
+                "name": "hackathon/magegitinfo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/mage-git-info.git",
+                    "reference": "bbe2c28c5a61c3de108cd1367ba09d715a053a69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/mage-git-info/zipball/bbe2c28c5a61c3de108cd1367ba09d715a053a69",
+                    "reference": "bbe2c28c5a61c3de108cd1367ba09d715a053a69",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 10:32:51",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tom Kadwill",
+                        "email": "tomkadwill@gmail.com"
+                    },
+                    {
+                        "name": "Stephan Hoyer",
+                        "email": "ste.hoyer@gmail.com"
+                    },
+                    {
+                        "name": "André Herrn",
+                        "email": "info@andre-herrn.de"
+                    },
+                    {
+                        "name": "Anjey Lobas",
+                        "email": "anjey.lobas@goodahead.com"
+                    }
+                ],
+                "description": "This module show information about current git status in the admin footer and allows to switch branches from there",
+                "homepage": "https://github.com/magento-hackathon/mage-git-info",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/mage-git-info/tree/master",
+                    "issues": "https://github.com/magento-hackathon/mage-git-info/issues"
+                }
+            }
+        },
         "integer-net/anonymizer": {
             "dev-master": {
                 "name": "integer-net/anonymizer",
@@ -1398,18 +1448,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/integer-net/Anonymizer.git",
-                    "reference": "965826e017922be82ae42d81ca819bd4031c4f1a"
+                    "reference": "14769adf3b874977a8d99261331dac09e0b6caf5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/integer-net/Anonymizer/zipball/965826e017922be82ae42d81ca819bd4031c4f1a",
-                    "reference": "965826e017922be82ae42d81ca819bd4031c4f1a",
+                    "url": "https://github.com/integer-net/Anonymizer/zipball/14769adf3b874977a8d99261331dac09e0b6caf5",
+                    "reference": "14769adf3b874977a8d99261331dac09e0b6caf5",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-18 09:02:24",
+                "time": "2013-01-13 10:39:06",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1524,19 +1574,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "3ce5d88342b0079fcd60aaf0ca17d4680b6f89fb"
+                    "reference": "585b8938b27d2b9b207e6ac381379b381472bc2d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/3ce5d88342b0079fcd60aaf0ca17d4680b6f89fb",
-                    "reference": "3ce5d88342b0079fcd60aaf0ca17d4680b6f89fb",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/585b8938b27d2b9b207e6ac381379b381472bc2d",
+                    "reference": "585b8938b27d2b9b207e6ac381379b381472bc2d",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-11 02:08:58",
+                "time": "2013-01-13 00:08:21",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1701,12 +1751,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "ae43baa8031148be2b68d26bf6450fcec0de485a"
+                    "reference": "88fbede54b288ba597242f175b26705ff938ff8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/ae43baa8031148be2b68d26bf6450fcec0de485a",
-                    "reference": "ae43baa8031148be2b68d26bf6450fcec0de485a",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/88fbede54b288ba597242f175b26705ff938ff8f",
+                    "reference": "88fbede54b288ba597242f175b26705ff938ff8f",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -1716,7 +1766,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2012-12-05 20:22:59",
+                "time": "2013-01-13 00:25:29",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -1830,6 +1880,81 @@
                 "description": "Composer installer for Magento modules",
                 "support": {
                     "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "dev-target": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-target",
+                "version_normalized": "dev-target",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "dfde3853362f8843b8927d0a9ef488a7112c3740"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/dfde3853362f8843b8927d0a9ef488a7112c3740",
+                    "reference": "dfde3853362f8843b8927d0a9ef488a7112c3740",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*",
+                    "composer/composer": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/composer-command-integrator": "*"
+                },
+                "time": "2013-01-12 15:00:38",
+                "type": "composer-installer",
+                "extra": {
+                    "composer-command-registry": [
+                        "MagentoHackathon\\Composer\\Magento\\Command\\DeployCommand"
+                    ],
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/target",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             }
