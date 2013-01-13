@@ -48,7 +48,15 @@
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
       { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
-      { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" }
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_Base.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_BaseJQuery.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_FlyTo.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_LayoutHelper.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_Yubikey.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_InfoFiles.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_ManageRules.git" },
+      { "type": "vcs", "url": "git://github.com/netz98/N98_CheckoutFilters.git" }
    ],
    "require-all": true
 }
