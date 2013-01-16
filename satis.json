@@ -3,7 +3,6 @@
    "homepage": "http://packages.firegento.com",
    "description": "Composer package repository for Magento modules",
    "repositories": [
-      { "type": "vcs", "url": "git://github.com/firegento/firegento.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-dynamiccategory.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-germansetup.git" },
