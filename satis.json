@@ -57,7 +57,7 @@
       { "type": "vcs", "url": "git://github.com/netz98/N98_InfoFiles.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_ManageRules.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_CheckoutFilters.git" },
-      { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" }
+      { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" }
    ],
    "require-all": true
