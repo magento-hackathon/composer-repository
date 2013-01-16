@@ -82,18 +82,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/colinmollenhour/Cm_Diehard.git",
-                    "reference": "2728fb8d8668b0dce89ace9b3211257be81fbcc7"
+                    "reference": "cd2e05f3f89e14f59dba7efa1e5a31cd966afd75"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/2728fb8d8668b0dce89ace9b3211257be81fbcc7",
-                    "reference": "2728fb8d8668b0dce89ace9b3211257be81fbcc7",
+                    "url": "https://github.com/colinmollenhour/Cm_Diehard/zipball/cd2e05f3f89e14f59dba7efa1e5a31cd966afd75",
+                    "reference": "cd2e05f3f89e14f59dba7efa1e5a31cd966afd75",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-22 02:22:13",
+                "time": "2013-01-16 09:24:38",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -496,18 +496,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Profiler.git",
-                    "reference": "96438c53ab4858625dc5eb55fb260748c21b0750"
+                    "reference": "b49ff7f97a83f67502e40ef4faefdc0e85632d82"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Profiler/zipball/96438c53ab4858625dc5eb55fb260748c21b0750",
-                    "reference": "96438c53ab4858625dc5eb55fb260748c21b0750",
+                    "url": "https://github.com/fbrnc/Aoe_Profiler/zipball/b49ff7f97a83f67502e40ef4faefdc0e85632d82",
+                    "reference": "b49ff7f97a83f67502e40ef4faefdc0e85632d82",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-11-30 17:55:40",
+                "time": "2013-01-15 13:43:37",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -534,12 +534,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "v0.1.1"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
-                    "reference": "v0.1.1",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -570,12 +570,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "v0.1.1"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
-                    "reference": "v0.1.1",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -608,12 +608,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "latest"
+                    "reference": "v0.0.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
                     "shasum": ""
                 },
                 "require": {
@@ -644,12 +644,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_ReuseImages.git",
-                    "reference": "latest"
+                    "reference": "v0.0.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages/zipball/v0.0.2",
+                    "reference": "v0.0.2",
                     "shasum": ""
                 },
                 "require": {
@@ -682,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -718,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "latest"
+                    "reference": "v0.3.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
+                    "reference": "v0.3.0",
                     "shasum": ""
                 },
                 "require": {
@@ -860,44 +860,6 @@
                 }
             }
         },
-        "firegento/core": {
-            "dev-master": {
-                "name": "firegento/core",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git://github.com/firegento/firegento.git",
-                    "reference": "0b417f309b55afd75d65aa81cdc6fc4d3aa25166"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/firegento/firegento/zipball/0b417f309b55afd75d65aa81cdc6fc4d3aa25166",
-                    "reference": "0b417f309b55afd75d65aa81cdc6fc4d3aa25166",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
-                },
-                "time": "2013-01-08 07:15:34",
-                "type": "magento-module",
-                "license": [
-                    "GPL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Rouven Alexander Rieker",
-                        "email": "therouv@googlemail.com"
-                    }
-                ],
-                "description": "Diagnostic extension for Magento. Checks modules, rewrites, and displays the log files in the backend.",
-                "homepage": "https://github.com/firegento/firegento",
-                "support": {
-                    "source": "https://github.com/firegento/firegento/tree/master",
-                    "issues": "https://github.com/firegento/firegento/issues"
-                }
-            }
-        },
         "firegento/customer": {
             "dev-master": {
                 "name": "firegento/customer",
@@ -1028,18 +990,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/firegento/firegento-germansetup.git",
-                    "reference": "14b449bc0147b1acd6cb18aa3cad9241ddba2cf6"
+                    "reference": "460455b8d4e9a5f69008681921850eb4b01ea0ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/firegento/firegento-germansetup/zipball/14b449bc0147b1acd6cb18aa3cad9241ddba2cf6",
-                    "reference": "14b449bc0147b1acd6cb18aa3cad9241ddba2cf6",
+                    "url": "https://github.com/firegento/firegento-germansetup/zipball/460455b8d4e9a5f69008681921850eb4b01ea0ac",
+                    "reference": "460455b8d4e9a5f69008681921850eb4b01ea0ac",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2012-12-16 18:09:13",
+                "time": "2013-01-15 20:33:37",
                 "type": "magento-module",
                 "license": [
                     "GPL-3.0"
@@ -1398,18 +1360,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/mage-git-info.git",
-                    "reference": "bbe2c28c5a61c3de108cd1367ba09d715a053a69"
+                    "reference": "539eac4e29acde4e9a3b2472b06c93bc1c16d4fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/mage-git-info/zipball/bbe2c28c5a61c3de108cd1367ba09d715a053a69",
-                    "reference": "bbe2c28c5a61c3de108cd1367ba09d715a053a69",
+                    "url": "https://github.com/magento-hackathon/mage-git-info/zipball/539eac4e29acde4e9a3b2472b06c93bc1c16d4fb",
+                    "reference": "539eac4e29acde4e9a3b2472b06c93bc1c16d4fb",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master"
                 },
-                "time": "2013-01-13 10:32:51",
+                "time": "2013-01-13 11:54:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1432,7 +1394,7 @@
                         "email": "anjey.lobas@goodahead.com"
                     }
                 ],
-                "description": "This module show information about current git status in the admin footer and allows to switch branches from there",
+                "description": "This module shows information about current git status in the admin footer and allows to switch branches from there.",
                 "homepage": "https://github.com/magento-hackathon/mage-git-info",
                 "support": {
                     "source": "https://github.com/magento-hackathon/mage-git-info/tree/master",
@@ -1528,6 +1490,57 @@
                     "source": "https://github.com/integer-net/RemoveCustomerAccountLinks/tree/master",
                     "issues": "https://github.com/integer-net/RemoveCustomerAccountLinks/issues"
                 }
+            },
+            "dev-dev": {
+                "name": "integer-net/removecustomeraccountlinks",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git",
+                    "reference": "6b1fd67de3c709c9aa7741627df0ea026d37e8e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/integer-net/RemoveCustomerAccountLinks/zipball/6b1fd67de3c709c9aa7741627df0ea026d37e8e3",
+                    "reference": "6b1fd67de3c709c9aa7741627df0ea026d37e8e3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-15 17:36:29",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/IntegerNet/RemoveCustomerAccountLinks",
+                            "app/code/community/IntegerNet/RemoveCustomerAccountLinks"
+                        ],
+                        [
+                            "app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml",
+                            "app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv",
+                            "app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Christian Philipp"
+                    }
+                ],
+                "description": "Removes customer account links in Magento.",
+                "homepage": "https://github.com/integer-net/RemoveCustomerAccountLinks",
+                "support": {
+                    "source": "https://github.com/integer-net/RemoveCustomerAccountLinks/tree/dev",
+                    "issues": "https://github.com/integer-net/RemoveCustomerAccountLinks/issues"
+                }
             }
         },
         "ivanchepurnyi/ecomdev_phpunit": {
@@ -1574,19 +1587,19 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
-                    "reference": "585b8938b27d2b9b207e6ac381379b381472bc2d"
+                    "reference": "07d8966717dc744e4bcc37d08a3e183d66762d6a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/585b8938b27d2b9b207e6ac381379b381472bc2d",
-                    "reference": "585b8938b27d2b9b207e6ac381379b381472bc2d",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/07d8966717dc744e4bcc37d08a3e183d66762d6a",
+                    "reference": "07d8966717dc744e4bcc37d08a3e183d66762d6a",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "dev-master",
                     "phpunit/phpunit": "3.6.*"
                 },
-                "time": "2013-01-13 00:08:21",
+                "time": "2013-01-14 23:01:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1600,6 +1613,42 @@
                 "homepage": "http://www.ecomdev.org/shop/code-testing/php-unit-test-suite.html",
                 "support": {
                     "source": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/tree/dev",
+                    "issues": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/issues"
+                }
+            },
+            "dev-feature/fix-constraints": {
+                "name": "ivanchepurnyi/ecomdev_phpunit",
+                "version": "dev-feature/fix-constraints",
+                "version_normalized": "dev-feature/fix-constraints",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/IvanChepurnyi/EcomDev_PHPUnit.git",
+                    "reference": "3349310775ad79afdbc563ffd4698bb20573401d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/zipball/3349310775ad79afdbc563ffd4698bb20573401d",
+                    "reference": "3349310775ad79afdbc563ffd4698bb20573401d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master",
+                    "phpunit/phpunit": "3.6.*"
+                },
+                "time": "2013-01-15 16:51:01",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi"
+                    }
+                ],
+                "description": "Magento PHPUnit Integration",
+                "homepage": "http://www.ecomdev.org/shop/code-testing/php-unit-test-suite.html",
+                "support": {
+                    "source": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/tree/feature/fix-constraints",
                     "issues": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/issues"
                 }
             },
@@ -1637,6 +1686,143 @@
                 "support": {
                     "source": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/tree/refactor",
                     "issues": "https://github.com/IvanChepurnyi/EcomDev_PHPUnit/issues"
+                }
+            }
+        },
+        "laurent35240/magento-sass": {
+            "0.1.0": {
+                "name": "laurent35240/magento-sass",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/laurent35240/magento-sass.git",
+                    "reference": "0.1.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/laurent35240/magento-sass/zipball/0.1.0",
+                    "reference": "0.1.0",
+                    "shasum": ""
+                },
+                "require": {
+                    "richthegeek/phpsass": "dev-master"
+                },
+                "time": "2012-09-30 14:52:22",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/laurent35240/magento-sass/tree/0.1.0",
+                    "issues": "https://github.com/laurent35240/magento-sass/issues"
+                }
+            },
+            "1.0.0": {
+                "name": "laurent35240/magento-sass",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/laurent35240/magento-sass.git",
+                    "reference": "1.0.0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/laurent35240/magento-sass/zipball/1.0.0",
+                    "reference": "1.0.0",
+                    "shasum": ""
+                },
+                "require": {
+                    "richthegeek/phpsass": "dev-master"
+                },
+                "time": "2012-10-30 22:18:31",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/laurent35240/magento-sass/tree/1.0.0",
+                    "issues": "https://github.com/laurent35240/magento-sass/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "laurent35240/magento-sass",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/laurent35240/magento-sass.git",
+                    "reference": "1.0.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/laurent35240/magento-sass/zipball/1.0.1",
+                    "reference": "1.0.1",
+                    "shasum": ""
+                },
+                "require": {
+                    "richthegeek/phpsass": "dev-master"
+                },
+                "time": "2012-11-25 15:57:08",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/laurent35240/magento-sass/tree/1.0.1",
+                    "issues": "https://github.com/laurent35240/magento-sass/issues"
+                }
+            },
+            "1.0.2": {
+                "name": "laurent35240/magento-sass",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/laurent35240/magento-sass.git",
+                    "reference": "1.0.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/laurent35240/magento-sass/zipball/1.0.2",
+                    "reference": "1.0.2",
+                    "shasum": ""
+                },
+                "require": {
+                    "richthegeek/phpsass": "dev-master"
+                },
+                "time": "2012-12-06 23:10:40",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/laurent35240/magento-sass/tree/1.0.2",
+                    "issues": "https://github.com/laurent35240/magento-sass/issues"
+                }
+            },
+            "dev-master": {
+                "name": "laurent35240/magento-sass",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/laurent35240/magento-sass.git",
+                    "reference": "ddc5617b689490bd0a521c060f274358ade4cdcb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/laurent35240/magento-sass/zipball/ddc5617b689490bd0a521c060f274358ade4cdcb",
+                    "reference": "ddc5617b689490bd0a521c060f274358ade4cdcb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-14 22:38:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laurent Clouet"
+                    }
+                ],
+                "description": "Magento extension for using Sass stylesheet language",
+                "homepage": "https://github.com/laurent35240/magento-sass",
+                "support": {
+                    "source": "https://github.com/laurent35240/magento-sass/tree/master",
+                    "issues": "https://github.com/laurent35240/magento-sass/issues"
                 }
             }
         },
@@ -1744,19 +1930,19 @@
             }
         },
         "magento-hackathon/magento-composer-installer": {
-            "dev-master": {
+            "1.0": {
                 "name": "magento-hackathon/magento-composer-installer",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "ca0e7e7323434b176b71ab3d95cf8eae003dcb3e"
+                    "reference": "1.0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/ca0e7e7323434b176b71ab3d95cf8eae003dcb3e",
-                    "reference": "ca0e7e7323434b176b71ab3d95cf8eae003dcb3e",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/1.0",
+                    "reference": "1.0",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -1766,7 +1952,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2013-01-13 09:14:36",
+                "time": "2013-01-13 11:03:17",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -1815,7 +2001,157 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.0",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "1.1": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/1.1",
+                    "reference": "1.1",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*",
+                    "composer/composer": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/composer-command-integrator": "*"
+                },
+                "time": "2013-01-16 12:15:38",
+                "type": "composer-installer",
+                "extra": {
+                    "composer-command-registry": [
+                        "MagentoHackathon\\Composer\\Magento\\Command\\DeployCommand"
+                    ],
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.1",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "dev-master": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "1.1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/1.1",
+                    "reference": "1.1",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*",
+                    "composer/composer": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/composer-command-integrator": "*"
+                },
+                "time": "2013-01-16 12:15:38",
+                "type": "composer-installer",
+                "extra": {
+                    "composer-command-registry": [
+                        "MagentoHackathon\\Composer\\Magento\\Command\\DeployCommand"
+                    ],
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "daniel@digitalmanufaktur.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.1",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             },
@@ -1967,19 +2303,329 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/moleman/magneto-debug.git",
-                    "reference": "4e286a72626985241aee313e260f69deb00bff2e"
+                    "reference": "ebca981e6444f5062fe77b24440bbb285ba1a534"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/moleman/magneto-debug/zipball/4e286a72626985241aee313e260f69deb00bff2e",
-                    "reference": "4e286a72626985241aee313e260f69deb00bff2e",
+                    "url": "https://github.com/moleman/magneto-debug/zipball/ebca981e6444f5062fe77b24440bbb285ba1a534",
+                    "reference": "ebca981e6444f5062fe77b24440bbb285ba1a534",
                     "shasum": ""
                 },
-                "time": "2012-11-20 07:51:32",
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-14 15:45:46",
                 "type": "magento-module",
                 "description": "Magento Debug Toolbar",
+                "homepage": "https://github.com/madalinoprea/magneto-debug",
                 "support": {
                     "source": "https://github.com/moleman/magneto-debug/tree/master"
+                }
+            }
+        },
+        "n98/N98_Base": {
+            "dev-master": {
+                "name": "n98/N98_Base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_Base.git",
+                    "reference": "52af5d8491fb4bbf212525a0a7b7a258312304d8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_Base/zipball/52af5d8491fb4bbf212525a0a7b7a258312304d8",
+                    "reference": "52af5d8491fb4bbf212525a0a7b7a258312304d8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:03:17",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Base module for other modules of netz98",
+                "homepage": "https://github.com/netz98/N98_Base",
+                "support": {
+                    "source": "https://github.com/netz98/N98_Base/tree/master",
+                    "issues": "https://github.com/netz98/N98_Base/issues"
+                }
+            }
+        },
+        "n98/N98_BaseJQuery": {
+            "dev-master": {
+                "name": "n98/N98_BaseJQuery",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_BaseJQuery.git",
+                    "reference": "87a6c6b0c1c0ac5026d52a4dca3a10c7d3f31e43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_BaseJQuery/zipball/87a6c6b0c1c0ac5026d52a4dca3a10c7d3f31e43",
+                    "reference": "87a6c6b0c1c0ac5026d52a4dca3a10c7d3f31e43",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:03:17",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Provides basic jQuery JS library for other netz98 modules.",
+                "homepage": "https://github.com/netz98/N98_BaseJQuery",
+                "support": {
+                    "source": "https://github.com/netz98/N98_BaseJQuery/tree/master",
+                    "issues": "https://github.com/netz98/N98_BaseJQuery/issues"
+                }
+            }
+        },
+        "n98/N98_CheckoutFilters": {
+            "dev-master": {
+                "name": "n98/N98_CheckoutFilters",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_CheckoutFilters.git",
+                    "reference": "6569eab1e6196e41733521838b65a36bd1c22b66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_CheckoutFilters/zipball/6569eab1e6196e41733521838b65a36bd1c22b66",
+                    "reference": "6569eab1e6196e41733521838b65a36bd1c22b66",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:09:09",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Filter your payment and shipping methods.",
+                "homepage": "https://github.com/netz98/N98_CheckoutFilters",
+                "support": {
+                    "source": "https://github.com/netz98/N98_CheckoutFilters/tree/master",
+                    "issues": "https://github.com/netz98/N98_CheckoutFilters/issues"
+                }
+            }
+        },
+        "n98/N98_FlyTo": {
+            "dev-master": {
+                "name": "n98/N98_FlyTo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_FlyTo.git",
+                    "reference": "259a1bb1262af368020ab4ca6b2dc08900263d44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_FlyTo/zipball/259a1bb1262af368020ab4ca6b2dc08900263d44",
+                    "reference": "259a1bb1262af368020ab4ca6b2dc08900263d44",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master",
+                    "n98/n98_base": "dev-master",
+                    "n98/n98_basejquery": "dev-master"
+                },
+                "time": "2013-01-13 14:16:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Adds a flying animation when a user adds a product to the cart.",
+                "homepage": "https://github.com/netz98/N98_FlyTo",
+                "support": {
+                    "source": "https://github.com/netz98/N98_FlyTo/tree/master",
+                    "issues": "https://github.com/netz98/N98_FlyTo/issues"
+                }
+            }
+        },
+        "n98/N98_InfoFiles": {
+            "dev-master": {
+                "name": "n98/N98_InfoFiles",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_InfoFiles.git",
+                    "reference": "04ee1a25fb736503aaac50f2ffa726f81593f6d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_InfoFiles/zipball/04ee1a25fb736503aaac50f2ffa726f81593f6d6",
+                    "reference": "04ee1a25fb736503aaac50f2ffa726f81593f6d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:03:17",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Provide downloadable informational files for products.",
+                "homepage": "https://github.com/netz98/N98_InfoFiles",
+                "support": {
+                    "source": "https://github.com/netz98/N98_InfoFiles/tree/master",
+                    "issues": "https://github.com/netz98/N98_InfoFiles/issues"
+                }
+            }
+        },
+        "n98/N98_LayoutHelper": {
+            "dev-master": {
+                "name": "n98/N98_LayoutHelper",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_LayoutHelper.git",
+                    "reference": "a50ad9cf7d4969faaf76f88c736056988c201a21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_LayoutHelper/zipball/a50ad9cf7d4969faaf76f88c736056988c201a21",
+                    "reference": "a50ad9cf7d4969faaf76f88c736056988c201a21",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:05:03",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Helpful methods to be called in layout actions to allow more customizations via local.xml without touching the original layout files.",
+                "homepage": "https://github.com/netz98/N98_LayoutHelper",
+                "support": {
+                    "source": "https://github.com/netz98/N98_LayoutHelper/tree/master",
+                    "issues": "https://github.com/netz98/N98_LayoutHelper/issues"
+                }
+            }
+        },
+        "n98/N98_ManageRules": {
+            "dev-master": {
+                "name": "n98/N98_ManageRules",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_ManageRules.git",
+                    "reference": "fcfddaa10753d52b24408c916092df9373e23a4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_ManageRules/zipball/fcfddaa10753d52b24408c916092df9373e23a4a",
+                    "reference": "fcfddaa10753d52b24408c916092df9373e23a4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:01:55",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Changes the catalog rules representation.",
+                "homepage": "https://github.com/netz98/N98_ManageRules",
+                "support": {
+                    "source": "https://github.com/netz98/N98_ManageRules/tree/master",
+                    "issues": "https://github.com/netz98/N98_ManageRules/issues"
+                }
+            }
+        },
+        "n98/N98_Yubikey": {
+            "dev-master": {
+                "name": "n98/N98_Yubikey",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/netz98/N98_Yubikey.git",
+                    "reference": "dbe69926f697146af2fc470681eb083574f236c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/netz98/N98_Yubikey/zipball/dbe69926f697146af2fc470681eb083574f236c7",
+                    "reference": "dbe69926f697146af2fc470681eb083574f236c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-13 14:03:17",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Adds yubikey based two factor authentification to admin login",
+                "homepage": "https://github.com/netz98/N98_Yubikey",
+                "support": {
+                    "source": "https://github.com/netz98/N98_Yubikey/tree/master",
+                    "issues": "https://github.com/netz98/N98_Yubikey/issues"
                 }
             }
         },
