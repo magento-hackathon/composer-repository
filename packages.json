@@ -534,12 +534,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "latest"
+                    "reference": "v0.1.1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
+                    "reference": "v0.1.1",
                     "shasum": ""
                 },
                 "require": {
@@ -570,12 +570,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git",
-                    "reference": "latest"
+                    "reference": "v0.1.1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/latest",
-                    "reference": "latest",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner/zipball/v0.1.1",
+                    "reference": "v0.1.1",
                     "shasum": ""
                 },
                 "require": {
@@ -682,12 +682,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -718,12 +718,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/fbrnc/Aoe_Scheduler.git",
-                    "reference": "v0.3.0"
+                    "reference": "latest"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/v0.3.0",
-                    "reference": "v0.3.0",
+                    "url": "https://github.com/fbrnc/Aoe_Scheduler/zipball/latest",
+                    "reference": "latest",
                     "shasum": ""
                 },
                 "require": {
@@ -888,6 +888,44 @@
                 "support": {
                     "source": "https://github.com/firegento/firegento-customer/tree/master",
                     "issues": "https://github.com/firegento/firegento-customer/issues"
+                }
+            }
+        },
+        "firegento/debug": {
+            "dev-master": {
+                "name": "firegento/debug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/firegento/firegento-debug.git",
+                    "reference": "f6dae2d1ff345362f6dfce85022f60cb4c302f82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/firegento/firegento-debug/zipball/f6dae2d1ff345362f6dfce85022f60cb4c302f82",
+                    "reference": "f6dae2d1ff345362f6dfce85022f60cb4c302f82",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-15 09:59:43",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Diagnostic extension for Magento. Checks modules, rewrites, and displays the log files in the backend.",
+                "homepage": "https://github.com/firegento/firegento-debug",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-debug/tree/master",
+                    "issues": "https://github.com/firegento/firegento-debug/issues"
                 }
             }
         },
@@ -2673,18 +2711,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/attribute-duplicator.git",
-                    "reference": "0.1.1"
+                    "reference": "26211cf9dc2802488f10e934e13cc1f9f934a9cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/attribute-duplicator/zipball/0.1.1",
-                    "reference": "0.1.1",
+                    "url": "https://github.com/Vinai/attribute-duplicator/zipball/26211cf9dc2802488f10e934e13cc1f9f934a9cf",
+                    "reference": "26211cf9dc2802488f10e934e13cc1f9f934a9cf",
                     "shasum": ""
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
+                    "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2012-10-30 03:05:25",
+                "time": "2013-01-16 12:57:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2698,7 +2736,7 @@
                 "description": "Magento extenson which eanbles you to duplicate product attributes.",
                 "homepage": "https://github.com/Vinai/attribute-duplicator",
                 "support": {
-                    "source": "https://github.com/Vinai/attribute-duplicator/tree/0.1.1",
+                    "source": "https://github.com/Vinai/attribute-duplicator/tree/master",
                     "issues": "https://github.com/Vinai/attribute-duplicator/issues"
                 }
             }
@@ -2812,25 +2850,25 @@
                     "issues": "https://github.com/Vinai/customer-activation/issues"
                 }
             },
-            "dev-master": {
+            "0.4.2": {
                 "name": "netzarbeiter/customer-activation",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.4.2",
+                "version_normalized": "0.4.2.0",
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/customer-activation.git",
-                    "reference": "0.4.1"
+                    "reference": "0.4.2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/customer-activation/zipball/0.4.1",
-                    "reference": "0.4.1",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/0.4.2",
+                    "reference": "0.4.2",
                     "shasum": ""
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
+                    "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2012-12-05 05:11:25",
+                "time": "2013-01-16 13:00:04",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2844,7 +2882,43 @@
                 "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
                 "homepage": "https://github.com/Vinai/customer-activation",
                 "support": {
-                    "source": "https://github.com/Vinai/customer-activation/tree/0.4.1",
+                    "source": "https://github.com/Vinai/customer-activation/tree/0.4.2",
+                    "issues": "https://github.com/Vinai/customer-activation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "netzarbeiter/customer-activation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git://github.com/Vinai/customer-activation.git",
+                    "reference": "0.4.2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/Vinai/customer-activation/zipball/0.4.2",
+                    "reference": "0.4.2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-16 13:00:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Makes it impossible for a customer to log in until the account has been activated by the administrator.",
+                "homepage": "https://github.com/Vinai/customer-activation",
+                "support": {
+                    "source": "https://github.com/Vinai/customer-activation/tree/0.4.2",
                     "issues": "https://github.com/Vinai/customer-activation/issues"
                 }
             }
@@ -3077,18 +3151,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/loginonlycatalog.git",
-                    "reference": "1.1.9"
+                    "reference": "13ea7b4953982a44ccf83e6ba0f547ce0726fe7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/loginonlycatalog/zipball/1.1.9",
-                    "reference": "1.1.9",
+                    "url": "https://github.com/Vinai/loginonlycatalog/zipball/13ea7b4953982a44ccf83e6ba0f547ce0726fe7a",
+                    "reference": "13ea7b4953982a44ccf83e6ba0f547ce0726fe7a",
                     "shasum": ""
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
+                    "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2012-10-30 11:44:29",
+                "time": "2013-01-16 13:11:43",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3102,7 +3176,7 @@
                 "description": "Requires a customer to be logged in order to view products and product collections.",
                 "homepage": "https://github.com/Vinai/loginonlycatalog",
                 "support": {
-                    "source": "https://github.com/Vinai/loginonlycatalog/tree/1.1.9",
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
                     "issues": "https://github.com/Vinai/loginonlycatalog/issues"
                 }
             }
@@ -3151,18 +3225,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/Vinai/nicer-image-names.git",
-                    "reference": "0.1.9"
+                    "reference": "bfea8a01e0f79122e1f93143c4a37b8f6be69f2b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/Vinai/nicer-image-names/zipball/0.1.9",
-                    "reference": "0.1.9",
+                    "url": "https://github.com/Vinai/nicer-image-names/zipball/bfea8a01e0f79122e1f93143c4a37b8f6be69f2b",
+                    "reference": "bfea8a01e0f79122e1f93143c4a37b8f6be69f2b",
                     "shasum": ""
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
+                    "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2012-10-30 02:06:47",
+                "time": "2013-01-16 13:13:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3176,7 +3250,7 @@
                 "description": "Build the image file names from product attributes so they have neat descriptive image names.",
                 "homepage": "https://github.com/Vinai/nicer-image-names",
                 "support": {
-                    "source": "https://github.com/Vinai/nicer-image-names/tree/0.1.9",
+                    "source": "https://github.com/Vinai/nicer-image-names/tree/master",
                     "issues": "https://github.com/Vinai/nicer-image-names/issues"
                 }
             }
@@ -3267,18 +3341,18 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/riconeitzel/VertNav.git",
-                    "reference": "v0.4.2"
+                    "reference": "a5ae0790c59eada02bbdd96436d41c697cb2d883"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/riconeitzel/VertNav/zipball/v0.4.2",
-                    "reference": "v0.4.2",
+                    "url": "https://github.com/riconeitzel/VertNav/zipball/a5ae0790c59eada02bbdd96436d41c697cb2d883",
+                    "reference": "a5ae0790c59eada02bbdd96436d41c697cb2d883",
                     "shasum": ""
                 },
                 "require": {
-                    "magento-hackathon/magento-composer-installer": "dev-master"
+                    "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2012-10-30 01:36:51",
+                "time": "2013-01-16 13:13:54",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
