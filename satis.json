@@ -1,7 +1,7 @@
 {
    "name": "Firegento",
    "homepage": "http://packages.firegento.com",
-   "description": "Composer package repository for Magento modules",
+   "description": "Composer package repository for Magento modules.<br/>Visit the <a href=\"https://github.com/magento-hackathon/composer-repository\">github page</a> for further informaton.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/firegento-debug.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
