@@ -38,6 +38,7 @@
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_Invoice.git" },
+      { "type": "vcs", "url": "git://github.com/itabs/Itabs_NewsletterSending.git" },
       { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
