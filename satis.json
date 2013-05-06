@@ -61,6 +61,7 @@
       { "type": "vcs", "url": "git://github.com/openstream/geoip" },
       { "type": "vcs", "url": "git://github.com/sitewards/B2BProfessional.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/Giveaway.git" },
+      { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" }
    ],
    "require-all": true
