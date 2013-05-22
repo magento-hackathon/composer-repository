@@ -67,6 +67,11 @@
       { "type": "vcs", "url": "git://github.com/sitewards/Giveaway.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
       { "type": "vcs", "url": "git://github.com/mzeis/Emzee_Dev.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_Github.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_Chat.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_UIOptimization.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_Username.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_Addinfotoemail.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" }
    ],
    "require-all": true
