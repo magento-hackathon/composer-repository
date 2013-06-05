@@ -73,6 +73,7 @@
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Username.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Addinfotoemail.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
+      { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" }
    ],
    "require-all": true
