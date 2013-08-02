@@ -44,6 +44,7 @@
       { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/geoip.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
+      { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" },
       { "type": "vcs", "url": "git://github.com/EcomDev/EcomDev_PHPUnit.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" },
