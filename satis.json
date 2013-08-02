@@ -48,9 +48,11 @@
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_StorePickup.git" },
-      { "type": "vcs", "url": "git://github.com/integer-net/Anonymizer.git" },
-      { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
+      { "type": "vcs", "url": "git://github.com/integer-net/Autoshipping.git" },
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_FastSimpleImport" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_ScopeHint.git" },
+      { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
       { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" },
@@ -75,6 +77,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
+      { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" },
 
 		{
