@@ -52,6 +52,7 @@
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_FastSimpleImport" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_ScopeHint.git" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git" },
       { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
       { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
