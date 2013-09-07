@@ -1,7 +1,7 @@
 {
    "name": "Firegento - Magento Module",
    "homepage": "http://packages.firegento.com",
-   "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
+   "description": "Please visit https://github.com/magento-hackathon/composer-repository for further information.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/firegento-debug.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
@@ -47,7 +47,7 @@
       { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/geoip.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" }, 
+      { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" },
       { "type": "vcs", "url": "git://github.com/EcomDev/EcomDev_PHPUnit.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" },
@@ -84,49 +84,50 @@
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
       { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
+      { "type": "vcs", "url": "git://github.com/Zyava/Aoe_GridSelectLinks.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" },
 
-		{
-			"type": "package",
-			"package": {
-				"name": "connect20/lib_phpseclib",
-				"version": "1.5.0.0",
-				"dist": {
-					"type": "tar",
-					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Phpseclib-1.5.0.0.tgz",
-					"reference": null,
-					"shasum": null
-				},
-				"require": {
-					"magento-hackathon/magento-composer-installer": "*"
-				},
-				"type": "magento-module",
-				"extra": {
-					"package-xml": "package.xml"
-				}
-			}
-		},
-		{
-			"type": "package",
-			"package": {
-				"name": "connect20/lib_zf",
-				"version": "1.11.1.0",
-				"dist": {
-					"type": "tar",
-					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_ZF-1.11.1.0.tgz",
-					"reference": null,
-					"shasum": null
-				},
-				"require": {
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/lib_phpseclib",
+                "version": "1.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Phpseclib-1.5.0.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/lib_zf",
+                "version": "1.11.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_ZF-1.11.1.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
                     "connect20/lib_zf_locale": "1.11.1.0",
-					"magento-hackathon/magento-composer-installer": "*"
-				},
-				"type": "magento-module",
-				"extra": {
-					"package-xml": "package.xml"
-				}
-			}
-		},
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        },
         {
             "type": "package",
             "package": {
@@ -147,26 +148,26 @@
                 }
             }
         },
-		{
-			"type": "package",
-			"package": {
-				"name": "connect20/lib_google_checkout",
-				"version": "1.5.0.0",
-				"dist": {
-					"type": "tar",
-					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Google_Checkout-1.5.0.0.tgz",
-					"reference": null,
-					"shasum": null
-				},
-				"require": {
-					"magento-hackathon/magento-composer-installer": "*"
-				},
-				"type": "magento-module",
-				"extra": {
-					"package-xml": "package.xml"
-				}
-			}
-		}
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/lib_google_checkout",
+                "version": "1.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Google_Checkout-1.5.0.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        }
    ],
    "require-all": true
 }
