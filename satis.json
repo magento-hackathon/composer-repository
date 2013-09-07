@@ -114,6 +114,7 @@
 					"shasum": null
 				},
 				"require": {
+                    "connect20/lib_zf_local": "1.11.1.0",
 					"magento-hackathon/magento-composer-installer": "*"
 				},
 				"type": "magento-module",
@@ -122,6 +123,26 @@
 				}
 			}
 		},
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/lib_zf_locale",
+                "version": "1.11.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_ZF_Locale-1.11.1.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        },
 		{
 			"type": "package",
 			"package": {
