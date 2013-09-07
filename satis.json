@@ -114,7 +114,7 @@
 					"shasum": null
 				},
 				"require": {
-                    "connect20/lib_zf_local": "1.11.1.0",
+                    "connect20/lib_zf_locale": "1.11.1.0",
 					"magento-hackathon/magento-composer-installer": "*"
 				},
 				"type": "magento-module",
