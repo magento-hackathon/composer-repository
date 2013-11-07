@@ -29,7 +29,7 @@ passthru("git pull");
 
 chdir($rootDir);
 
-passthru("{$satisDir}/bin/satis build {$magentoComposerRepositorySourceDir}/satis.json {$magentoComposerRepositoryBuildDir}/ > {$magentoComposerRepositoryBuildDir}/index.html ");
+passthru("php -d memory_limit=265M {$satisDir}/bin/satis build {$magentoComposerRepositorySourceDir}/satis.json {$magentoComposerRepositoryBuildDir}/");
 
 chdir($magentoComposerRepositoryBuildDir);
 passthru("git add .");
