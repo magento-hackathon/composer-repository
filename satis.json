@@ -21,6 +21,7 @@
       { "type": "vcs", "url": "git://github.com/Vinai/nicer-image-names.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/attribute-duplicator.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_File.git" },
+      { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Mongo.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_RedisSession.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Diehard.git" },
