@@ -76,6 +76,7 @@
       { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/B2BProfessional.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
+      { "type": "vcs", "url": "git://github.com/PAYONE/magento.git" },
       { "type": "vcs", "url": "git://github.com/mzeis/Emzee_Dev.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Github.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Chat.git" },
