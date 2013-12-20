@@ -73,6 +73,8 @@
       { "type": "vcs", "url": "git://github.com/netz98/N98_InfoFiles.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_ManageRules.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_CheckoutFilters.git" },
+      { "type": "vcs", "url": "git://github.com/maxbucknell/magento-amdjs.git" },
+      { "type": "vcs", "url": "git://github.com/maxbucknell/foundation4-amd.git" },
       { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/B2BProfessional.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
