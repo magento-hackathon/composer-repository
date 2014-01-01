@@ -96,6 +96,8 @@
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Markdown.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" },
+      { "type": "composer", "url": "http://packages.firegento.com/connect20/" }
+
 
 		{
 			"type": "package",
