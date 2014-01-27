@@ -100,6 +100,7 @@
       { "type": "vcs", "url": "git://github.com/phpro/mage-remote-media.git"},
       { "type": "vcs", "url": "git://github.com/davidverholen/Currency.git"},
       { "type": "composer", "url": "http://connect20.thebod.de/" },
+      { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
 
