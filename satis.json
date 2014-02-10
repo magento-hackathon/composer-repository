@@ -3,19 +3,26 @@
    "homepage": "http://packages.firegento.com",
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
-      { "type": "vcs", "url": "git://github.com/firegento/firegento-debug.git" },
+      { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },       
+      { "type": "vcs", "url": "git://github.com/ProxiBlue/NewRelic" },
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-adminmonitoring.git" },    
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-debug.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-dynamiccategory.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-germansetup.git" },
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-logger.git" },
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-magesetup.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-pdf.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/magento-composer-installer.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/composer-command-integrator.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_LocaleFallback.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/groupscatalog2.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/loginonlycatalog.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-activation.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/nicer-image-names.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/attribute-duplicator.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_File.git" },
+      { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Mongo.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_RedisSession.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Diehard.git" },
@@ -34,22 +41,29 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ClassPathCache.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Pulsestorm_Launcher.git" },
+      { "type": "vcs", "url": "git://github.com/AOEmedia/Aoe_ClassPathCache.git" },
+      { "type": "vcs", "url": "git://github.com/riconeitzel/German_LocalePack_de_DE.git" },
       { "type": "vcs", "url": "git://github.com/riconeitzel/VertNav.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" },
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_Invoice.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_NewsletterSending.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/ogtags.git" },
+      { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/ogtags.git" },
+      { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/geoip.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
+      { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" },
       { "type": "vcs", "url": "git://github.com/EcomDev/EcomDev_PHPUnit.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_ConfigurableTierPrices.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git" },
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_StorePickup.git" },
-      { "type": "vcs", "url": "git://github.com/integer-net/Anonymizer.git" },
-      { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
+      { "type": "vcs", "url": "git://github.com/integer-net/Autoshipping.git" },
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_FastSimpleImport" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_ScopeHint.git" },
+      { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git" },
+      { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
       { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" },
@@ -61,10 +75,10 @@
       { "type": "vcs", "url": "git://github.com/netz98/N98_InfoFiles.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_ManageRules.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_CheckoutFilters.git" },
+      { "type": "vcs", "url": "git://github.com/maxbucknell/magento-amdjs.git" },
+      { "type": "vcs", "url": "git://github.com/maxbucknell/foundation4-amd.git" },
       { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" },
-      { "type": "vcs", "url": "git://github.com/openstream/geoip.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/B2BProfessional.git" },
-      { "type": "vcs", "url": "git://github.com/sitewards/Giveaway.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
       { "type": "vcs", "url": "git://github.com/mzeis/Emzee_Dev.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Github.git" },
@@ -72,8 +86,105 @@
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_UIOptimization.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Username.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Addinfotoemail.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_AdminTheme.git" },
+      { "type": "vcs", "url": "git://github.com:diglin/Diglin_LanguageCsv.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
-      { "type": "composer", "url": "http://connect20.thebod.de/" }
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_MageMonitoring.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/MageBehat.git" },
+      { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
+      { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Seo.git" },
+      { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
+      { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
+      { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Markdown.git" },
+      { "type": "vcs", "url": "git://github.com/adamkarnowka/magento-sare-integration.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git" },
+      { "type": "vcs", "url": "git://github.com/phpro/mage-remote-media.git"},
+      { "type": "composer", "url": "http://connect20.thebod.de/" },
+      { "type": "composer", "url": "http://packages.fooman.co.nz/" },
+      { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
+
+
+		{
+			"type": "package",
+			"package": {
+				"name": "connect20/lib_phpseclib",
+				"version": "1.5.0.0",
+				"dist": {
+					"type": "tar",
+					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Phpseclib-1.5.0.0.tgz",
+					"reference": null,
+					"shasum": null
+				},
+				"require": {
+					"magento-hackathon/magento-composer-installer": "*"
+				},
+				"type": "magento-module",
+				"extra": {
+					"package-xml": "package.xml"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "connect20/lib_zf",
+				"version": "1.11.1.0",
+				"dist": {
+					"type": "tar",
+					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_ZF-1.11.1.0.tgz",
+					"reference": null,
+					"shasum": null
+				},
+				"require": {
+                    "connect20/lib_zf_locale": "1.11.1.0",
+					"magento-hackathon/magento-composer-installer": "*"
+				},
+				"type": "magento-module",
+				"extra": {
+					"package-xml": "package.xml"
+				}
+			}
+		},
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/lib_zf_locale",
+                "version": "1.11.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_ZF_Locale-1.11.1.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        },
+		{
+			"type": "package",
+			"package": {
+				"name": "connect20/lib_google_checkout",
+				"version": "1.5.0.0",
+				"dist": {
+					"type": "tar",
+					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Google_Checkout-1.5.0.0.tgz",
+					"reference": null,
+					"shasum": null
+				},
+				"require": {
+					"magento-hackathon/magento-composer-installer": "*"
+				},
+				"type": "magento-module",
+				"extra": {
+					"package-xml": "package.xml"
+				}
+			}
+		}
    ],
    "require-all": true
 }
