@@ -89,6 +89,7 @@
       { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Markdown.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git" },
+      { "type": "vcs", "url": "git://github.com/andrewkett/Ak_Locator.git" },
       { "type": "composer", "url": "http://connect20.thebod.de/" },
 
 		{
