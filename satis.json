@@ -4,6 +4,7 @@
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },       
+      { "type": "vcs", "url": "git://github.com/ProxiBlue/OrderSyncQueRunner" },
       { "type": "vcs", "url": "git://github.com/ProxiBlue/NewRelic" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-adminmonitoring.git" },    
       { "type": "vcs", "url": "git://github.com/firegento/firegento-customer.git" },
