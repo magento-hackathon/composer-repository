@@ -106,7 +106,6 @@
       { "type": "vcs", "url": "git://github.com/ajbonner/magento-composer-autoload.git" },
       { "type": "vcs", "url": "git://github.com/andrewkett/Ak_Locator.git" },
       { "type": "vcs", "url": "git://github.com/kirchbergerknorr/heidelpay.git" },
-      { "type": "composer", "url": "http://connect20.thebod.de/" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
