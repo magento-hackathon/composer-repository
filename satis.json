@@ -112,6 +112,7 @@
       { "type": "vcs", "url": "git://github.com/LimeSoda/LimeSoda_LiveGuard.git" },
       { "type": "vcs", "url": "git://github.com/mhauri/Mhauri_SampleOrder.git" },
       { "type": "vcs", "url": "git://github.com/mhauri/Mhauri_LogView.git" },
+      { "type": "vcs", "url": "git://github.com/lilmuckers/magento-lilmuckers_queue.git"},
       { "type": "composer", "url": "http://connect20.thebod.de/" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
