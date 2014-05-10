@@ -52,7 +52,7 @@
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_Invoice.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_NewsletterSending.git" },
       { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/ogtags.git" },
-      { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/geoip.git" },
+      { "type": "vcs", "url": "git://github.com/tim-bezhashvyly/Sandfox_GeoIP.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
       { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" },
