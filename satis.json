@@ -93,6 +93,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_MageMonitoring.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageBehat.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/MultiStock.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/HackathonWebsite_ProjectIdea.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Seo.git" },
