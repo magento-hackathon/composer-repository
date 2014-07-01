@@ -42,7 +42,6 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Apc.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_FilePicker.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_LayoutConditions.git" },
-      { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ClassPathCache.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Pulsestorm_Launcher.git" },
       { "type": "vcs", "url": "git://github.com/AOEmedia/Aoe_ClassPathCache.git" },
