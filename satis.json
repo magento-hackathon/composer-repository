@@ -117,6 +117,7 @@
       { "type": "vcs", "url": "git://github.com/ajbonner/magento-composer-autoload.git" },
       { "type": "vcs", "url": "git://github.com/andrewkett/Ak_Locator.git" },
       { "type": "vcs", "url": "git://github.com/kirchbergerknorr/heidelpay.git" },
+      { "type": "vcs", "url": "git://github.com/ebizmarts/magemonkey.git" },
       { "type": "vcs", "url": "git://github.com/LimeSoda/LimeSoda_SampleDataGenerator" },
       { "type": "vcs", "url": "git://github.com/jeroenvermeulen/magento-solarium.git" },
       { "type": "vcs", "url": "git://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration.git" },
