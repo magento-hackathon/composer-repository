@@ -30,7 +30,7 @@
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_RedisSession.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_Diehard.git" },
-      { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Scheduler.git" },
+      { "type": "vcs", "url": "git://github.com/AOEpeople/Aoe_Scheduler.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Profiler.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_TemplateHints.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ReuseImages.git" },
