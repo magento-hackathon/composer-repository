@@ -139,7 +139,6 @@
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_SystemInfo.git" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_WebP.git" },
       { "type": "vcs", "url": "git://github.com/ho-nl/Ho_Import.git" },
-      { "type": "composer", "url": "http://connect20.thebod.de/" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
