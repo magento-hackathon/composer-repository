@@ -132,6 +132,7 @@
       { "type": "vcs", "url": "git://github.com/kirchbergerknorr/phpunit.git" },
       { "type": "vcs", "url": "git://github.com/kirchbergerknorr/seo-generator.git" },
       { "type": "vcs", "url": "git://github.com/fballiano/magento-full-catalog-translate.git" },
+      { "type": "vcs", "url": "git://github.com/rreimi/magento-androb-puntopagos.git" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_CheckoutTester.git" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_DisableLog.git" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_EmailOverride.git" },
