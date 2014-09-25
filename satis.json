@@ -145,6 +145,7 @@
       { "type": "vcs", "url": "git://github.com/steverobbins/Magento-Redismanager.git" },
       { "type": "vcs", "url": "git://github.com/bugsnag/bugsnag-magento.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FastSimpleExport.git" },
+      { "type": "vcs", "url": "git://github.com/obukhow/AdaptiveResize.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
