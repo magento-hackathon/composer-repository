@@ -17,6 +17,7 @@
       { "type": "vcs", "url": "git://github.com/firegento/firegento-logger.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-magesetup.git" },
       { "type": "vcs", "url": "git://github.com/firegento/firegento-pdf.git" },
+      { "type": "vcs", "url": "git://github.com/firegento/phpcs.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/magento-composer-installer.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/composer-command-integrator.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_LocaleFallback.git" },
