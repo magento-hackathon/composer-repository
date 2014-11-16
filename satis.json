@@ -155,6 +155,7 @@
       { "type": "vcs", "url": "git://github.com/punkstar/mageconfigsync.git" },
       { "type": "vcs", "url": "git://github.com/Cotya/Magento_StatisticsBase.git" },
       { "type": "vcs", "url": "git://github.com/SanderSander/magento-ideal-checkout.git" },
+      { "type": "vcs", "url": "git://github.com/unleashedtech/min-order-fee-magento.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
