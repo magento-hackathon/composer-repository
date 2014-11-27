@@ -151,7 +151,6 @@
       { "type": "vcs", "url": "git://github.com/steverobbins/Magento-Redismanager.git" },
       { "type": "vcs", "url": "git://github.com/bugsnag/bugsnag-magento.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FastSimpleExport.git" },
-      { "type": "vcs", "url": "git://github.com/adriansonline/Piwik-for-Magento.git" },
       { "type": "vcs", "url": "git://github.com/punkstar/mageconfigsync.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Magento-Admin-Rewrites.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Magento-Dashboard-Reviews.git" },
