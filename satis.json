@@ -160,6 +160,7 @@
       { "type": "vcs", "url": "git://github.com/SanderSander/magento-ideal-checkout.git" },
       { "type": "vcs", "url": "git://github.com/unleashedtech/min-order-fee-magento.git" },
       { "type": "vcs", "url": "git://github.com/adrianspeyer/Piwik-for-Magento.git" },
+      { "type": "vcs", "url": "git://github.com/mokadev/Mokadev_OpenGraph.git" },
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Fpc.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
