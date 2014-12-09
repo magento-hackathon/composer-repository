@@ -163,6 +163,7 @@
       { "type": "vcs", "url": "git://github.com/pointia/Usersnap_Bugtracker.git" },
       { "type": "vcs", "url": "git://github.com/mokadev/Mokadev_OpenGraph.git" },
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Fpc.git" },
+      { "type": "vcs", "url": "git://github.com/Studioforty9/Recaptcha.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
