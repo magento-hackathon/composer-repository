@@ -165,6 +165,7 @@
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Fpc.git" },
       { "type": "vcs", "url": "git://github.com/Studioforty9/Recaptcha.git" },
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish.git" },
+      { "type": "vcs", "url": "git://github.com/convenient/SetupScriptsDisabler.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
