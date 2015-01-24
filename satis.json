@@ -167,6 +167,7 @@
       { "type": "vcs", "url": "git://github.com/Studioforty9/Recaptcha.git" },
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish.git" },
       { "type": "vcs", "url": "git://github.com/convenient/SetupScriptsDisabler.git"},
+      { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-retail-order-management.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Magento-Paypalfixes.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
