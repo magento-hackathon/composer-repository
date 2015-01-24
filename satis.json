@@ -172,6 +172,7 @@
       { "type": "vcs", "url": "git://github.com/fballiano/magento-hide-empty-categories.git"},
       { "type": "vcs", "url": "git://github.com/magepal/FacebookRemarketingJs.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Magento-Paypalfixes.git"},
+      { "type": "vcs", "url": "git://github.com/quafzi/magento-discountPreview.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
