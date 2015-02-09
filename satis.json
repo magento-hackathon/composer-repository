@@ -194,6 +194,7 @@
       { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_BuyerReviews.git"},
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_MissingTranslations.git"},
       { "type": "vcs", "url": "git://github.com/fontis/fontis_campaignmonitor.git"},
+      { "type": "vcs", "url": "git://github.com/OpenMage/OpenMage_Routers.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
