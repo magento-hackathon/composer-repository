@@ -186,6 +186,7 @@
       { "type": "vcs", "url": "git://github.com/colinmollenhour/magento-mongo.git"},
       { "type": "vcs", "url": "git://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/Magento-Productvisibility.git"},
+      { "type": "vcs", "url": "git://github.com/therouv/Magento-BetterPriceRounding.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
