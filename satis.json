@@ -183,6 +183,7 @@
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Hotkeys.git"},
       { "type": "vcs", "url": "git://github.com/bitbull-team/google-analytics-checkout-funnel.git"},
       { "type": "vcs", "url": "git://github.com/openmagecz/CzRegions.git"},
+      { "type": "vcs", "url": "git://github.com/colinmollenhour/magento-mongo.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
