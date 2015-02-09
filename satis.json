@@ -54,6 +54,7 @@
       { "type": "vcs", "url": "git://github.com/Vinai/customer-registration-ip.git" },
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FilterUrls.git" },
       { "type": "vcs", "url": "git://github.com/therouv/Magento-DebitPayment.git" },
+      { "type": "vcs", "url": "git://github.com/itabs/Itabs_CustomSku.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_Invoice.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_NewsletterSending.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Sandfox_GeoIP.git" },
