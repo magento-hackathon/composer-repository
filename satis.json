@@ -179,6 +179,7 @@
       { "type": "vcs", "url": "git://github.com/firewizard/Mandagreen_Minifier.git"},
       { "type": "vcs", "url": "git://github.com/r8/magento-order-comment.git"},
       { "type": "vcs", "url": "git://github.com/magemindcom/MMind_ZopimChat.git"},
+      { "type": "vcs", "url": "git://github.com/bitundpixel/magento-read-only-vat.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 
