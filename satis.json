@@ -202,6 +202,8 @@
       { "type": "vcs", "url": "git://github.com/QubitProducts/UniversalVariable-Magento-Extension.git"},
       { "type": "vcs", "url": "git://github.com/nexcess/magento-turpentine.git"},
       { "type": "vcs", "url": "git://github.com/aijko/aijko-widgetimagechooser.git"},
+      { "type": "vcs", "url": "git://github.com/MageTest/Mage-Test.git"},
+      { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_InvalidCache.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
