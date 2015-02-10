@@ -209,6 +209,7 @@
       { "type": "vcs", "url": "git://github.com/Schrank/DefaultDeveloperConfig.git"},
       { "type": "vcs", "url": "git://github.com/ikonoshirt/CustomAdminNotifications.git"},
       { "type": "vcs", "url": "git://github.com/zendesk/magento_extension.git"},
+      { "type": "vcs", "url": "git://github.com/aleron75/Webgriffe_TphPro.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
