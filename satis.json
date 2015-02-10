@@ -205,6 +205,8 @@
       { "type": "vcs", "url": "git://github.com/MageTest/Mage-Test.git"},
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_InvalidCache.git"},
       { "type": "vcs", "url": "git://github.com/integer-net/Anonymizer.git"},
+      { "type": "vcs", "url": "git://github.com/riconeitzel/PaymentFilter.git"},
+      { "type": "vcs", "url": "git://github.com/Schrank/DefaultDeveloperConfig.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
