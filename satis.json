@@ -224,6 +224,7 @@
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_WebsiteSwitcher.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/yoast-landing-pages.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/magento-CustomerGridOrderCount.git"},
+      { "type": "vcs", "url": "git://github.com/quafzi/magento-auto-shipping-status.git"},
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Merge.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-WorldPay.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery.git"},
