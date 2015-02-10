@@ -221,6 +221,7 @@
       { "type": "vcs", "url": "git://github.com/onepica/avatax.git"},
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_AutomaticInvoices.git"},
       { "type": "vcs", "url": "git://github.com/amenk/N98_FramelessCms.git"},
+      { "type": "vcs", "url": "git://github.com/aligent/Aligent_WebsiteSwitcher.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
