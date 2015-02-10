@@ -236,6 +236,7 @@
       { "type": "vcs", "url": "git://github.com/meanbee/magento-shopping-assistant.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/index-queue-extension.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/discount-sticker-extension.git"},
+      { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_GlobalMessage.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
