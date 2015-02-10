@@ -217,6 +217,8 @@
       { "type": "vcs", "url": "git://github.com/jayelkaake/enhancedgrid.git"},
       { "type": "vcs", "url": "git://github.com/blissmedia/Bliss_Catalog.git"},
       { "type": "vcs", "url": "git://github.com/sitewards/Giveaway.git"},
+      { "type": "vcs", "url": "git://github.com/StudioForty9/SF9_Ireland.git"},
+      { "type": "vcs", "url": "git://github.com/onepica/avatax.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
