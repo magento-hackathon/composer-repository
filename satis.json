@@ -237,6 +237,7 @@
       { "type": "vcs", "url": "git://github.com/webgriffe/index-queue-extension.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/discount-sticker-extension.git"},
       { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_GlobalMessage.git"},
+      { "type": "vcs", "url": "git://github.com/whuber/magefinder.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
