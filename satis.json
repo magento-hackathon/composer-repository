@@ -231,6 +231,7 @@
       { "type": "vcs", "url": "git://github.com/ho-nl/Quanbit_QBShippingAndPaymentFilters.git"},
       { "type": "vcs", "url": "git://github.com/vehiclefits/vfmagento.git"},
       { "type": "vcs", "url": "git://github.com/frozenminds/mage-maps.git"},
+      { "type": "vcs", "url": "git://github.com/codedge/prescriptionpayment.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
