@@ -216,6 +216,7 @@
       { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_SubCategoryListWidget.git"},
       { "type": "vcs", "url": "git://github.com/jayelkaake/enhancedgrid.git"},
       { "type": "vcs", "url": "git://github.com/blissmedia/Bliss_Catalog.git"},
+      { "type": "vcs", "url": "git://github.com/sitewards/Giveaway.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
