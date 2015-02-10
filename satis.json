@@ -226,6 +226,7 @@
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Merge.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-WorldPay.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery.git"},
+      { "type": "vcs", "url": "git://github.com/aligent/Aligent_GeoIP.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
