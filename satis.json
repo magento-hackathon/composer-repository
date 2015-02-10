@@ -223,6 +223,7 @@
       { "type": "vcs", "url": "git://github.com/amenk/N98_FramelessCms.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_WebsiteSwitcher.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/yoast-landing-pages.git"},
+      { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Merge.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
