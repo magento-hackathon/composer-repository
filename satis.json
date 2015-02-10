@@ -211,6 +211,7 @@
       { "type": "vcs", "url": "git://github.com/zendesk/magento_extension.git"},
       { "type": "vcs", "url": "git://github.com/aleron75/Webgriffe_TphPro.git"},
       { "type": "vcs", "url": "git://github.com/integer-net/GermanStoreConfig.git"},
+      { "type": "vcs", "url": "git://github.com/ho-nl/Ho_nl_NL.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
