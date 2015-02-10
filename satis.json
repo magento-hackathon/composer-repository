@@ -37,6 +37,7 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Profiler.git" },
       { "type": "vcs", "url": "git://github.com/AOEpeople/Aoe_TemplateHints.git" },
       { "type": "vcs", "url": "git://github.com/AOEpeople/Aoe_TrimPassword.git" },
+      { "type": "vcs", "url": "git://github.com/AOEpeople/Aoe_ModelCache.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ReuseImages.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ManageStores.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Static.git" },
