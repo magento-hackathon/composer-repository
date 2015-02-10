@@ -247,6 +247,7 @@
       { "type": "vcs", "url": "git://github.com/lukanetconsult/mage-google-adwords.git"},
       { "type": "vcs", "url": "git://github.com/dabio/magento-singleshipping.git"},
       { "type": "vcs", "url": "git://github.com/dweeves/magmi-git.git"},
+      { "type": "vcs", "url": "git://github.com/timste/Timste_Emailqueue.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
