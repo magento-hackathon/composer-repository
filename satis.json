@@ -415,7 +415,8 @@
                     "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
                 }
             }
-        }
+        },
+        { "type": "vcs", "url": "git://github.com/DanielSousa/CmsUploadImages.git"},
    ],
    "require-all": true
 }
