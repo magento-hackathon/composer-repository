@@ -249,6 +249,7 @@
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-ChangeAttributeSet.git"},
       { "type": "vcs", "url": "git://github.com/dweeves/magmi-git.git"},
       { "type": "vcs", "url": "git://github.com/schmengler/AclReload.git"},
+      { "type": "vcs", "url": "git://github.com/sgh-it/jsonrpc.git"},
       { "type": "vcs", "url": "git://github.com/timste/Timste_Emailqueue.git"},
       { "type": "vcs", "url": "git://github.com/DanielSousa/CmsUploadImages.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
