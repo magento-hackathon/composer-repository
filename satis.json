@@ -42,7 +42,7 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ReuseImages.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ManageStores.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Static.git" },
-      { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_JsCssTstamp.git" },
+      { "type": "vcs", "url": "git://github.com/AOEpeople/Aoe_JsCssTstamp.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_DesignFallback.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ApiLog.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_Apc.git" },
