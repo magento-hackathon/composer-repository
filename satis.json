@@ -262,7 +262,6 @@
       { "type": "vcs", "url": "git://github.com/schmengler/FormFiller.git"},
       { "type": "vcs", "url": "git://github.com/opsway/magento-mod-pipeliner.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-BankPayment.git"},
-      { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-BankPayment.git"},
       { "type": "vcs", "url": "git://github.com/husseycoding/backorder.git"},
       { "type": "vcs", "url": "git://github.com/husseycoding/infinitescroll.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
