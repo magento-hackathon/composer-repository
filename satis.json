@@ -262,6 +262,7 @@
       { "type": "vcs", "url": "git://github.com/schmengler/FormFiller.git"},
       { "type": "vcs", "url": "git://github.com/opsway/magento-mod-pipeliner.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-BankPayment.git"},
+      { "type": "vcs", "url": "git://github.com/Smile-SA/smile-magento-elasticsearch.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
