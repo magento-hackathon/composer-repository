@@ -256,6 +256,7 @@
       { "type": "vcs", "url": "git://github.com/sgh-it/bundletierprices.git"},
       { "type": "vcs", "url": "git://github.com/schmengler/TranslationHints.git"},
       { "type": "vcs", "url": "git://github.com/mageconsult/Mgt_AmazingWysiwyg.git"},
+      { "type": "vcs", "url": "git://github.com/husseycoding/backorder.git"},
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_IndexerStats.git"},
       { "type": "vcs", "url": "git://github.com/timste/Timste_Emailqueue.git"},
       { "type": "vcs", "url": "git://github.com/mageconsult/Mgt_SerpEditor.git"},
