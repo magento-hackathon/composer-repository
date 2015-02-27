@@ -7,6 +7,7 @@
       { "type": "vcs", "url": "git://github.com/bragento/magento-core" },
       { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },
       { "type": "vcs", "url": "git://github.com/Adyen/magento.git" },
+      { "type": "vcs", "url": "git://github.com/comwrap/magento-comwrap-pdf.git" },
       { "type": "vcs", "url": "git://github.com/ProxiBlue/OrderSyncQueRunner" },
       { "type": "vcs", "url": "git://github.com/ProxiBlue/NewRelic" },
       { "type": "vcs", "url": "git://github.com/firegento/MageCI.git" },
