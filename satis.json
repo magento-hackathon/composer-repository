@@ -74,6 +74,7 @@
       { "type": "vcs", "url": "git://github.com/sprankhub/Spranks_StorePickup.git" },
       { "type": "vcs", "url": "git://github.com/integer-net/Autoshipping.git" },
       { "type": "vcs", "url": "git://github.com/integer-net/RemoveCustomerAccountLinks.git" },
+      { "type": "vcs", "url": "git://github.com/integer-net/IntegerNet_AttributeOptionPager.git" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_FastSimpleImport" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_ScopeHint.git" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git" },
