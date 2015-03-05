@@ -270,6 +270,7 @@
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-BankPayment.git"},
       { "type": "vcs", "url": "git://github.com/Smile-SA/smile-magento-elasticsearch.git"},
       { "type": "vcs", "url": "git://github.com/qrz-io/indexer.git"},
+      { "type": "vcs", "url": "git://github.com/staempfli/magento-product-attachment.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
