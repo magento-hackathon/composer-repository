@@ -3,6 +3,7 @@
    "homepage": "http://packages.firegento.com",
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
+      { "type": "vcs", "url": "git://github.com/deved-it/Similar-Products"},
       { "type": "vcs", "url": "git://github.com/deved-it/magento-keen-io"},
       { "type": "vcs", "url": "git://github.com/kojiromike/LogMail" },
       { "type": "vcs", "url": "git://github.com/bragento/magento-core" },
