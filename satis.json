@@ -287,6 +287,7 @@
       { "type": "vcs", "url": "git://github.com/qrz-io/indexer.git"},
       { "type": "vcs", "url": "git://github.com/qrz-io/onedayadmin.git"},
       { "type": "vcs", "url": "git://github.com/hws47a/VF_CustomMenu.git"},
+      { "type": "vcs", "url": "https://github.com/born-group/ajaxcart.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
