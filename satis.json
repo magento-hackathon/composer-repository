@@ -120,6 +120,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MultiStock.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/HackathonWebsite_ProjectIdea.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-Two-factor-Authentication.git" },
+      { "type": "vcs", "url": "git://github.com/avoelkl/Magento-Two-factor-Authentication.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Seo.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
