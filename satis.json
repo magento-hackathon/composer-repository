@@ -427,7 +427,7 @@
                         "version": "1.9.1.0",
                         "dist": {
                                 "type": "tar",
-                                "url": "http://connect20.magentocommerce.com/community/Interface_Frontend_Rwd_Default/1.9.1.0/Interface_Frontend_$
+                                "url": "http://connect20.magentocommerce.com/community/Interface_Frontend_Rwd_Default/1.9.1.0/Interface_Frontend_Rwd_Default-1.9.1.0.tgz"
                                 "reference": null,
                                 "shasum": null
                         },
