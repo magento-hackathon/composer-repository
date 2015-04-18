@@ -420,6 +420,26 @@
 				}
 			}
 		},
+	{
+                "type": "package",
+                "package": {
+                        "name": "connect20/interface_frontend_rwd_default",
+                        "version": "1.9.1.0",
+                        "dist": {
+                                "type": "tar",
+                                "url": "http://connect20.magentocommerce.com/community/Interface_Frontend_Rwd_Default/1.9.1.0/Interface_Frontend_$
+                                "reference": null,
+                                "shasum": null
+                        },
+                        "require": {
+                                "magento-hackathon/magento-composer-installer": "*"
+                        },
+                        "type": "magento-module",
+                        "extra": {
+                                "package-xml": "package.xml"
+                        }
+                }
+        },
         {
             "type": "package",
             "package": {
