@@ -294,6 +294,12 @@
       { "type": "vcs", "url": "git://github.com/hws47a/VF_CustomMenu.git"},
       { "type": "vcs", "url": "git://github.com/eltrino/PrintOrder.git"},
       { "type": "vcs", "url": "git://github.com/eltrino/Compatibility.git"},
+      { "type": "vcs", "url": "git://github.com/mygento/metrika" },
+      { "type": "vcs", "url": "git://github.com/mygento/jquerylib"},
+      { "type": "vcs", "url": "git://github.com/mygento/currency" },
+      { "type": "vcs", "url": "git://github.com/mygento/base" },
+      { "type": "vcs", "url": "git://github.com/mygento/cdn" },
+      { "type": "vcs", "url": "git://github.com/mygento/coding-standard" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
