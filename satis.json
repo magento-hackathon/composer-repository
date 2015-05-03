@@ -251,6 +251,7 @@
       { "type": "vcs", "url": "git://github.com/quafzi/magento-CustomerGridOrderCount.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/magento-auto-shipping-status.git"},
       { "type": "vcs", "url": "git://github.com/quafzi/magento-customer-payment-filter.git"},
+      { "type": "vcs", "url": "git://github.com/quafzi/magento-storable-admin-password.git"},
       { "type": "vcs", "url": "git://github.com/GordonLesti/Lesti_Merge.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-WorldPay.git"},
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery.git"},
