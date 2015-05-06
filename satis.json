@@ -305,6 +305,8 @@
       { "type": "vcs", "url": "git://github.com/eltrino/PrintOrder.git"},
       { "type": "vcs", "url": "git://github.com/eltrino/Compatibility.git"},
       { "type": "vcs", "url": "git://github.com/mhauri/magento-hipchat.git"},
+      { "type": "vcs", "url": "git://github.com/logicspot/magento_core.git"},
+      { "type": "vcs", "url": "git://github.com/logicspot/magento_globalmessage.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
