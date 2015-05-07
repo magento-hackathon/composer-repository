@@ -307,6 +307,7 @@
       { "type": "vcs", "url": "git://github.com/mhauri/magento-hipchat.git"},
       { "type": "vcs", "url": "git://github.com/logicspot/magento_core.git"},
       { "type": "vcs", "url": "git://github.com/logicspot/magento_globalmessage.git"},
+      { "type": "vcs", "url": "git://github.com/logicspot/magento_imageload.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
