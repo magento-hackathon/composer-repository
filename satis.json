@@ -186,6 +186,7 @@
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Magento-Dashboard-Reviews.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Magento-Dataflow-Download.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Magento-Remember-Me.git" },
+      { "type": "vcs", "url": "git://github.com/clockworkgeek/formelements.git" },
       { "type": "vcs", "url": "git://github.com/Knectar/Magento-Store-Codes.git" },
       { "type": "vcs", "url": "git://github.com/Cotya/Magento_StatisticsBase.git" },
       { "type": "vcs", "url": "git://github.com/SanderSander/magento-ideal-checkout.git" },
