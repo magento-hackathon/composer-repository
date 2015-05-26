@@ -309,6 +309,7 @@
       { "type": "vcs", "url": "git://github.com/logicspot/magento_globalmessage.git"},
       { "type": "vcs", "url": "git://github.com/logicspot/magento_imageload.git"},
       { "type": "vcs", "url": "git://github.com/magento-hackathon/E-MailPreview.git"},
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/Perfect_Watermarks"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
