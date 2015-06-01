@@ -281,6 +281,7 @@
       { "type": "vcs", "url": "git://github.com/lukanetconsult/mage-google-adwords.git"},
       { "type": "vcs", "url": "git://github.com/dabio/magento-singleshipping.git"},
       { "type": "vcs", "url": "git://github.com/Flagbit/Magento-ChangeAttributeSet.git"},
+      { "type": "vcs", "url": "git://github.com/Flagbit/Magento-FACTFinder.git"},
       { "type": "vcs", "url": "git://github.com/dweeves/magmi-git.git"},
       { "type": "vcs", "url": "git://github.com/schmengler/AclReload.git"},
       { "type": "vcs", "url": "git://github.com/sgh-it/jsonrpc.git"},
