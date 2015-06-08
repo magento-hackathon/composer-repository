@@ -260,6 +260,7 @@
       { "type": "vcs", "url": "git://github.com/husseycoding/infinitescroll.git"},
       { "type": "vcs", "url": "git://github.com/husseycoding/sirportly.git"},
       { "type": "vcs", "url": "git://github.com/husseycoding/cookiesforcomments.git"},
+      { "type": "vcs", "url": "git://github.com/husseycoding/ajaxcartpopup.git"},
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_IndexerStats.git"},
       { "type": "vcs", "url": "git://github.com/timste/Timste_Emailqueue.git"},
       { "type": "vcs", "url": "git://github.com/mageconsult/Mgt_SerpEditor.git"},
