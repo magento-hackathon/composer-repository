@@ -277,6 +277,7 @@
       { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_GlobalMessage.git"},
       { "type": "vcs", "url": "git://github.com/whuber/magefinder.git"},
       { "type": "vcs", "url": "git://github.com/iMi-digital/imi_easycacherefresh.git"},
+      { "type": "vcs", "url": "git://github.com/kalenjordan/clean-elastic-search.git"},
       { "type": "vcs", "url": "git://github.com/astorm/SystemConfigurationSearch.git"},
       { "type": "vcs", "url": "git://github.com/astorm/LayoutUnremove.git"},
       { "type": "vcs", "url": "git://github.com/Narno/Magento_Narno_Mailjet.git"},
