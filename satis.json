@@ -142,6 +142,7 @@
       { "type": "vcs", "url": "git://github.com/Zookal/Magento-FixFormKey.git" },
       { "type": "vcs", "url": "git://github.com/Zookal/Magento-MyTableOptimization.git" },
       { "type": "vcs", "url": "git://github.com/tim-reynolds/magento-qconfig.git" },
+      { "type": "vcs", "url": "git://github.com/Envalo/Widget.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git" },
       { "type": "vcs", "url": "git://github.com/phpro/mage-remote-media.git"},
       { "type": "vcs", "url": "git://github.com/ajbonner/mage-resque.git" },
