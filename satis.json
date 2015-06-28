@@ -322,6 +322,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/E-MailPreview.git"},
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Perfect_Watermarks"},
       { "type": "vcs", "url": "git://github.com/hws47a/VF_EasyAjax"},
+      { "type": "vcs", "url": "git://github.com/rossigee/magento-config-envvars"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
