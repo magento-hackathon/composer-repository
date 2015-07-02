@@ -510,6 +510,25 @@
                     "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "connect20/yotporeviews",
+                "version": "1.6.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:proxium/yotporeviews.git",
+                    "reference": "9b3b0489f8bef7a6c0216283deab2241589b0056"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
         }
    ],
    "require-all": true
