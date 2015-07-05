@@ -115,6 +115,7 @@
       { "type": "vcs", "url": "git://github.com/quafzi/magento-performance-tweaks.git" },
       { "type": "vcs", "url": "git://github.com/quafzi/magento-confirm-massactions.git" },
       { "type": "vcs", "url": "git://github.com/mzeis/Emzee_Dev.git" },
+      { "type": "vcs", "url": "git://github.com/mzeis/Mzeis_Documentation.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Github.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Chat.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_UIOptimization.git" },
