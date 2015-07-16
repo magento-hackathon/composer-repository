@@ -96,7 +96,6 @@
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git" },
       { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
       { "type": "vcs", "url": "git://github.com/madalinoprea/magneto-debug.git" },
-      { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_Base.git" },
