@@ -570,12 +570,17 @@
                 "type": "magento-module",
                 "homepage": "http://www.mzax.de",
                 "license": "OSL-3.0",
-                "version": "0.2.6",
+                "version": "0.2.7-beta",
                 "dist": {
                     "type": "tar",
-                    "url": "http://www.mzax.de/download/emarketing/version/0.2.6.tar.gz",
+                    "url": "http://www.mzax.de/download/emarketing/version/0.2.7.tar.gz",
                     "reference": null,
                     "shasum": null
+                },
+                "support": {
+                    "email": "jacob@mzax.de",
+                    "issues": "https://github.com/mage-mzax/emarketing/issues",
+                    "source": "https://github.com/mage-mzax/emarketing"
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
