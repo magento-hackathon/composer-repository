@@ -485,6 +485,26 @@
 				}
 			}
 		},
+		{
+			"type": "package",
+			"package": {
+				"name": "connect20/aw_blog",
+				"version": "1.3.5.0",
+				"dist": {
+					"type": "tar",
+					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_aw_blog-1.3.5.0.tar",
+					"reference": null,
+					"shasum": null
+				},
+				"require": {
+					"magento-hackathon/magento-composer-installer": "*"
+				},
+				"type": "magento-module",
+				"extra": {
+					"package-xml": "package.xml"
+				}
+			}
+		},
 	{
                 "type": "package",
                 "package": {
