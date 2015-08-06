@@ -357,6 +357,7 @@
       { "type": "vcs", "url": "git://github.com/aydus/TaxExempt.git" }, 
       { "type": "vcs", "url": "git://github.com/aydus/Visitorlog.git" }, 
       { "type": "vcs", "url": "git://github.com/astorm/PulsestormLauncher.git" }, 
+      { "type": "vcs", "url": "git://github.com/miguelbalparda/MB_Translate.git" }, 
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
