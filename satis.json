@@ -3,6 +3,7 @@
    "homepage": "http://packages.firegento.com",
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
+      { "type": "vcs", "url": "git://github.com/firegento/magento.git"},
       { "type": "vcs", "url": "git://github.com/pasinter/magento-dailydeals.git"},
       { "type": "vcs", "url": "git://github.com/deved-it/Similar-Products"},
       { "type": "vcs", "url": "git://github.com/deved-it/magento-keen-io"},
@@ -95,7 +96,7 @@
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_ScopeHint.git" },
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git" },
       { "type": "vcs", "url": "git://github.com/thebod/Thebod_Shippingrates.git" },
-      { "type": "vcs", "url": "git://github.com/moleman/magneto-debug.git" },
+      { "type": "vcs", "url": "git://github.com/madalinoprea/magneto-debug.git" },
       { "type": "vcs", "url": "git://github.com/liip/magento-xhprof.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/mage-git-info.git" },
       { "type": "vcs", "url": "git://github.com/netz98/N98_Base.git" },
@@ -355,6 +356,10 @@
       { "type": "vcs", "url": "git://github.com/aydus/Stylert.git" }, 
       { "type": "vcs", "url": "git://github.com/aydus/TaxExempt.git" }, 
       { "type": "vcs", "url": "git://github.com/aydus/Visitorlog.git" }, 
+      { "type": "vcs", "url": "git://github.com/astorm/PulsestormLauncher.git" }, 
+      { "type": "vcs", "url": "git://github.com/miguelbalparda/MB_Translate.git" },
+      { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
+      { "type": "vcs", "url": "git://github.com/Strategery-Inc/Magento-InfiniteScroll.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
@@ -472,6 +477,26 @@
 				"dist": {
 					"type": "tar",
 					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Google_Checkout-1.5.0.0.tgz",
+					"reference": null,
+					"shasum": null
+				},
+				"require": {
+					"magento-hackathon/magento-composer-installer": "*"
+				},
+				"type": "magento-module",
+				"extra": {
+					"package-xml": "package.xml"
+				}
+			}
+		},
+		{
+			"type": "package",
+			"package": {
+				"name": "connect20/aw_blog",
+				"version": "1.3.5+fixed",
+				"dist": {
+					"type": "tar",
+					"url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_aw_blog-1.3.5.0.tar",
 					"reference": null,
 					"shasum": null
 				},
