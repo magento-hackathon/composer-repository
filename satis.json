@@ -591,14 +591,14 @@
             "type": "package",
             "package": {
                 "name": "connect20/mzax_emarketing",
-                "description": "[Beta] Magento extension to create automated marketing campaigns that run for a set period of time and target customers determined by multiple filters.",
+                "description": "Magento extension to create automated marketing campaigns that run for a set period of time and target customers determined by multiple filters.",
                 "type": "magento-module",
                 "homepage": "http://www.mzax.de",
                 "license": "OSL-3.0",
-                "version": "0.2.7-beta",
+                "version": "0.3.0",
                 "dist": {
                     "type": "tar",
-                    "url": "http://www.mzax.de/download/emarketing/version/0.2.7.tar.gz",
+                    "url": "https://github.com/mage-mzax/emarketing/releases/download/0.3.0/Mzax_Emarketing-0.3.0.tgz",
                     "reference": null,
                     "shasum": null
                 },
