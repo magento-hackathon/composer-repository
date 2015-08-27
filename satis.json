@@ -61,7 +61,7 @@
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_FilePicker.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_LayoutConditions.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_QuoteCleaner.git" },
-      { "type": "vcs", "url": "git://github.com/fbrnc/Aoe_ClassPathCache.git" },
+      { "type": "vcs", "url": "git://github.com/aoepeople/Aoe_ClassPathCache.git" },
       { "type": "vcs", "url": "git://github.com/fbrnc/Pulsestorm_Launcher.git" },
       { "type": "vcs", "url": "git://github.com/ffuenf/Alanstorm_Layout-Unremove.git" },
       { "type": "vcs", "url": "git://github.com/riconeitzel/German_LocalePack_de_DE.git" },
