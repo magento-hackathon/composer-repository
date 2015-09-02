@@ -364,6 +364,7 @@
       { "type": "vcs", "url": "git://github.com/aydus/Visitorlog.git" },
       { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
       { "type": "vcs", "url": "git://github.com/tzyganu/Switcher.git" },
+      { "type": "vcs", "url": "git://github.com/blueclaw/magento_age_check.git" },
       { "type": "vcs", "url": "git://github.com/webcomm/magento-boilerplate.git" },
       { "type": "vcs", "url": "git://github.com/caciobanu/improved-magento-layered-navigation.git" },
       { "type": "vcs", "url": "git://github.com/ctidigital/magento-configurator.git" },
