@@ -364,6 +364,7 @@
       { "type": "vcs", "url": "git://github.com/aydus/Visitorlog.git" },
       { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
       { "type": "vcs", "url": "git://github.com/tzyganu/Switcher.git" },
+      { "type": "vcs", "url": "git://github.com/kalenjordan/custom-reports.git" },
       { "type": "vcs", "url": "git://github.com/Zookal/Magento-MyTableOptimization.git" },
       { "type": "vcs", "url": "git://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/VinaiKopp_Api2SessionAuthAdapter.git" },
