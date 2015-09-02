@@ -364,6 +364,8 @@
       { "type": "vcs", "url": "git://github.com/aydus/Visitorlog.git" },
       { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
       { "type": "vcs", "url": "git://github.com/tzyganu/Switcher.git" },
+      { "type": "vcs", "url": "git://github.com/maverick193/entity-generator.git" },
+      { "type": "vcs", "url": "git://github.com/DemacMedia/Magento-Multi-Location-Inventory.git" },
       { "type": "vcs", "url": "git://github.com/astorm/PulsestormLauncher.git" }, 
       { "type": "vcs", "url": "git://github.com/miguelbalparda/MB_Translate.git" },
       { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
