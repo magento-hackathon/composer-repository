@@ -202,6 +202,7 @@
       { "type": "vcs", "url": "git://github.com/clockworkgeek/formelements.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/FutureSlider.git" },
       { "type": "vcs", "url": "git://github.com/clockworkgeek/Video-Widget.git" },
+      { "type": "vcs", "url": "git://github.com/deniscsz/Magento-Jamef-Carrier" },
       { "type": "vcs", "url": "git://github.com/Knectar/Magento-Store-Codes.git" },
       { "type": "vcs", "url": "git://github.com/Cotya/Magento_StatisticsBase.git" },
       { "type": "vcs", "url": "git://github.com/SanderSander/magento-ideal-checkout.git" },
