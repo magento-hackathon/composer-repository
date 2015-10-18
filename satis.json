@@ -387,6 +387,7 @@
       { "type": "vcs", "url": "git://github.com/mage-eag/mage-enhanced-admin-grids.git" },
       { "type": "vcs", "url": "git://github.com/Strategery-Inc/Magento-InfiniteScroll.git" },
       { "type": "vcs", "url": "git://github.com/swisspost-yellowcube/magento-yellowcube.git" },
+      { "type": "vcs", "url": "git://github.com/deniscsz/Magento-Jamef-Carrier.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
