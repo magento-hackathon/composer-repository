@@ -2,7 +2,7 @@
 
 The URL of the repository is [packages.firegento.com](http://packages.firegento.com/).
 
-For further information on how to use composer for Magento modules, please visit the [Magento Composer Installer](https://github.com/magento-hackathon/magento-composer-installer) project.
+For further information on how to use composer for Magento modules, please visit the [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) project.
 
 This Repository uses [Satis](https://github.com/composer/satis).
 We probably should switch to a custom packagist repository instead of satis, but that requires more dedicated setup time and infrastructure.
