@@ -391,6 +391,7 @@
       { "type": "vcs", "url": "git://github.com/deniscsz/Magento-Jamef-Carrier.git" },
       { "type": "vcs", "url": "git://github.com/defactodesign/adminfirewall.git" },
       { "type": "vcs", "url": "git://github.com/DoghouseMedia/Doghouse_Carousel.git" },
+      { "type": "vcs", "url": "git://github.com/hevelop/transliteration.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
