@@ -395,6 +395,7 @@
       { "type": "vcs", "url": "git://github.com/DoghouseMedia/Doghouse_Carousel.git" },
       { "type": "vcs", "url": "git://github.com/hevelop/transliteration.git" },
       { "type": "vcs", "url": "git://github.com/hevelop/facebookpixel.git" },
+      { "type": "vcs", "url": "git://github.com/AmpersandHQ/mustache.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
