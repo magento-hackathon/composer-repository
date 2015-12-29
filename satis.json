@@ -399,6 +399,7 @@
       { "type": "vcs", "url": "git://github.com/hevelop/facebookpixel.git" },
       { "type": "vcs", "url": "git://github.com/evozon/magento_core.git" },
       { "type": "vcs", "url": "git://github.com/evozon/magento_base.git" },
+      { "type": "vcs", "url": "git://github.com/Inchoo/Inchoo_PHP7.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
