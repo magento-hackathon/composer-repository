@@ -4,6 +4,10 @@
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/magento.git"},
+      { "type": "vcs", "url": "git://github.com/c3limited/magento-environment-banner.git"},
+      { "type": "vcs", "url": "git://github.com/c3limited/magento-config-setup-helper.git"},
+      { "type": "vcs", "url": "git://github.com/c3limited/magento-remember-settings.git"},
+      { "type": "vcs", "url": "git://github.com/c3limited/FixerIOCurrencyImport.git"},
       { "type": "vcs", "url": "git://github.com/pasinter/magento-dailydeals.git"},
       { "type": "vcs", "url": "git://github.com/deved-it/Similar-Products"},
       { "type": "vcs", "url": "git://github.com/deved-it/magento-keen-io"},
