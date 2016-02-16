@@ -411,6 +411,7 @@
       { "type": "vcs", "url": "git://github.com/evozon/magento_base.git" },
       { "type": "vcs", "url": "git://github.com/Inchoo/Inchoo_PHP7.git" },
       { "type": "vcs", "url": "git://github.com/eltrino/DiamanteDeskMagentoExtension.git"},
+      { "type": "vcs", "url": "git://github.com/wigman/AjaxSwatches.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
 		{
