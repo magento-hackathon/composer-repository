@@ -259,6 +259,7 @@
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_Feeds.git"},
       { "type": "vcs", "url": "git://github.com/aligent/MissingCustomerFix.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_Security.git"},
+      { "type": "vcs", "url": "git://github.com/aligent/Aligent_NewRelicFix.git"},
       { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_BuyerReviews.git"},
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_MissingTranslations.git"},
       { "type": "vcs", "url": "git://github.com/fontis/fontis_campaignmonitor.git"},
