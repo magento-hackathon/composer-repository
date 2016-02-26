@@ -1,6 +1,6 @@
 {
    "name": "Firegento - Magento Module",
-   "homepage": "http://packages.firegento.com",
+   "homepage": "https://packages.firegento.com",
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/magento.git"},
@@ -416,7 +416,7 @@
       { "type": "vcs", "url": "git://github.com/eltrino/DiamanteDeskMagentoExtension.git"},
       { "type": "vcs", "url": "git://github.com/wigman/AjaxSwatches.git"},
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
-      { "type": "composer", "url": "http://packages.firegento.com/connect20/" },
+      { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
 		{
 			"type": "package",
 			"package": {
