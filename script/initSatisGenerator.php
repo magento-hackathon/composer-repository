@@ -12,7 +12,7 @@ chdir($rootDir);
 
 echo "Downloading composer.phar to " . realpath($rootDir) . PHP_EOL;
 //passthru("wget http://getcomposer.org/composer.phar -O $composerBin");
-passthru("curl -O http://getcomposer.org/composer.phar");
+passthru("curl -O https://getcomposer.org/composer.phar");
 
 echo "Installing satis in " . realpath($satisDir) . PHP_EOL;
 passthru("php $composerBin create-project --keep-vcs composer/satis $satisDir");
