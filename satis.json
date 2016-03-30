@@ -44,6 +44,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/composer-command-integrator.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_LocaleFallback.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/AsyncIndex.git" },
+      { "type": "vcs", "url": "git://github.com/magento-hackathon/GridControl.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/groupscatalog2.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/loginonlycatalog.git" },
       { "type": "vcs", "url": "git://github.com/Vinai/customer-activation.git" },
