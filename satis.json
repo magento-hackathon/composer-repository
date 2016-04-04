@@ -85,6 +85,8 @@
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_Invoice.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_LogViewer.git" },
       { "type": "vcs", "url": "git://github.com/itabs/Itabs_NewsletterSending.git" },
+      { "type": "vcs", "url": "git://github.com/semaio/Magento1-SearchSkuRedirect.git" },
+      { "type": "vcs", "url": "git://github.com/semaio/Magento1-SingleProductCategoryRedirect.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Sandfox_GeoIP.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayEcommerce.git" },
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
