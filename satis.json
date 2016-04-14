@@ -428,6 +428,7 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git" },
       { "type": "vcs", "url": "git://github.com/ho-nl/Hwg_Attributemanager.git" },
       { "type": "vcs", "url": "git://github.com/symfony-si/magento1-sl-si.git" },
+      { "type": "vcs", "url": "git://github.com/mhauri/magento-slack.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
 		{
