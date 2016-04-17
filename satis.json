@@ -311,7 +311,6 @@
       { "type": "vcs", "url": "git://github.com/meanbee/magento-shopping-assistant.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/index-queue-extension.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/discount-sticker-extension.git"},
-      { "type": "vcs", "url": "git://github.com/sumoheavy/SUMOHeavy_GlobalMessage.git"},
       { "type": "vcs", "url": "git://github.com/whuber/magefinder.git"},
       { "type": "vcs", "url": "git://github.com/iMi-digital/imi_easycacherefresh.git"},
       { "type": "vcs", "url": "git://github.com/inviqa/magento-symfony-container.git"},
