@@ -91,6 +91,7 @@
       { "type": "vcs", "url": "git://github.com/openstream/SaferpayBusiness.git" },
       { "type": "vcs", "url": "git://github.com/openstream/Magento5CentRounding.git" },
       { "type": "vcs", "url": "git://github.com/openstream/No-Flash-Image-Uploader.git" },
+      { "type": "vcs", "url": "git://github.com/EcomDev/checkitout" },
       { "type": "vcs", "url": "git://github.com/EcomDev/EcomDev_ComposerAutoload.git" },
       { "type": "vcs", "url": "git://github.com/EcomDev/EcomDev_PHPUnit.git" },
       { "type": "vcs", "url": "git://github.com/Cotya/EcomDev_UrlRewrite.git" },
