@@ -429,6 +429,7 @@
       { "type": "vcs", "url": "git://github.com/ffmengineering/Ffm_Orderoptionindicator.git" },
       { "type": "vcs", "url": "git://github.com/ffmengineering/magento1-adminsortitems.git" },
       { "type": "vcs", "url": "git://github.com/ffmengineering/magento-coupondropdown.git" },
+      { "type": "vcs", "url": "git://github.com/ovanschie/mageFaker.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
