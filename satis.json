@@ -208,6 +208,7 @@
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_ProductTemplates" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_SystemInfo" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_WebP" },
+      { "type": "vcs", "url": "git://github.com/hans2103/HideCompare.git" },
       { "type": "vcs", "url": "git://github.com/ho-nl/Ho_Import.git" },
       { "type": "vcs", "url": "git://github.com/obukhow/AdaptiveResize.git" },
       { "type": "vcs", "url": "git://github.com/steverobbins/Magento-Redismanager.git" },
