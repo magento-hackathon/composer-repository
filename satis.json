@@ -16,6 +16,7 @@
       { "type": "vcs", "url": "git://github.com/danslo/Danslo_Aop" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/HoneySpam.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FireGento_FlexCms" },
+      { "type": "vcs", "url": "git://github.com/paynl/magento-plugin.git" },
       { "type": "vcs", "url": "git://github.com/ericthehacker/magento-phpnativepasswords" },
       { "type": "vcs", "url": "git://github.com/bragento/magento-core" },
       { "type": "vcs", "url": "git://github.com/staempfli/magento-product-attachment.git"},
