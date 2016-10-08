@@ -198,6 +198,7 @@
       { "type": "vcs", "url": "git://github.com/fballiano/magento-category-sort-direction.git" },
       { "type": "vcs", "url": "git://github.com/fballiano/magento-full-catalog-translate.git" },
       { "type": "vcs", "url": "git://github.com/fballiano/magento-turpentine-recently-viewed.git" },
+      { "type": "vcs", "url": "git://github.com/fballiano/magento-defer-javascripts.git" },
       { "type": "vcs", "url": "git://github.com/rreimi/magento-androb-puntopagos.git" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_AdminPreviousNext" },
       { "type": "vcs", "url": "git://github.com/yireo/Yireo_CategoryTreeResizable" },
