@@ -5,6 +5,8 @@
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/magento.git"},
       { "type": "vcs", "url": "git://github.com/arkadedigital/magento-s3.git" },
+      { "type": "vcs", "url": "git://github.com/ltckomfortkasse/komfortkasse-magento.git" },
+      { "type": "vcs", "url": "git://github.com/ecoco/magento_profiler.git" },
       { "type": "vcs", "url": "git://github.com/c3limited/magento-environment-banner.git"},
       { "type": "vcs", "url": "git://github.com/c3limited/magento-config-setup-helper.git"},
       { "type": "vcs", "url": "git://github.com/c3limited/magento-remember-settings.git"},
