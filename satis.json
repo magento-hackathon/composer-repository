@@ -446,6 +446,7 @@
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_AddToCart.git" },
       { "type": "vcs", "url": "git://github.com/PAYONE-GmbH/magento-1.git" },
       { "type": "vcs", "url": "git://github.com/ctinnita/ctn-mage-tools.git" },
+      { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_RedisSession.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
