@@ -709,7 +709,30 @@
                     "package-xml": "package.xml"
                 }
             }
-        }
+        },
+        {
+	    "type": "package",
+	    "package": {
+		"name": "connect20/jmango360_japi",
+		"version": "2.7.0.1",
+		"description": "Create mobile app for your Magento site using JMango360 platform with this plugin",
+		"homepage": "https://jmango360.com",
+		"license": "Apache-License",
+		"dist": {
+		    "type": "tar",
+		    "url": "https://connect20.magentocommerce.com/community/Jmango360_Japi/2.7.0.1/Jmango360_Japi-2.7.0.1.tgz",
+		    "reference": null,
+		    "shasum": null
+		},
+		"require": {
+		    "magento-hackathon/magento-composer-installer": "*"
+		},
+		"type": "magento-module",
+		"extra": {
+		    "package-xml": "package.xml"
+		}
+	    }
+	}
    ],
    "require-all": true
 }
