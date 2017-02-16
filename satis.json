@@ -709,7 +709,27 @@
                     "package-xml": "package.xml"
                 }
             }
-        }
+        },
+         {
+            "type": "package",
+            "package": {
+               "name": "connect20/dhl_intraship_versenden",
+               "version": "16.04.22",
+               "dist": {
+                  "type": "tar",
+                  "url": "http://connect20.magentocommerce.com/community/DHL_Intraship_Versenden/16.04.22/DHL_Intraship_Versenden-16.04.22.tgz",
+                  "reference": null,
+                  "shasum": null
+               },
+               "require": {
+                  "magento-hackathon/magento-composer-installer": "*"
+               },
+               "type": "magento-module",
+               "extra": {
+                  "package-xml": "package.xml"
+               }
+            }
+         }
    ],
    "require-all": true
 }
