@@ -221,6 +221,7 @@
       { "type": "vcs", "url": "git://github.com/hans2103/HideCompare.git" },
       { "type": "vcs", "url": "git://github.com/ho-nl/Ho_Import.git" },
       { "type": "vcs", "url": "git://github.com/obukhow/AdaptiveResize.git" },
+      { "type": "vcs", "url": "git://github.com/frosit/Frosit_Fontawesomeness.git" },
       { "type": "vcs", "url": "git://github.com/steverobbins/Magento-Redismanager.git" },
       { "type": "vcs", "url": "git://github.com/bugsnag/bugsnag-magento.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FastSimpleExport.git" },
