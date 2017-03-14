@@ -282,7 +282,6 @@
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_Security.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_NewRelicFix.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Magento_Fleet.git"},
-      { "type": "vcs", "url": "git://github.com/aligent/Magento_Fleet.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Magento-Guest-Cookies.git"},
       { "type": "vcs", "url": "git://github.com/avstudnitz/AvS_MissingTranslations.git"},
       { "type": "vcs", "url": "git://github.com/fontis/fontis_campaignmonitor.git"},
