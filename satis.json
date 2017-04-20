@@ -464,6 +464,7 @@
       { "type": "vcs", "url": "git://github.com/mkutyba/magento-gd-preserve-exif.git" },
       { "type": "vcs", "url": "git://github.com/mailchimp/mc-magento.git" },
       { "type": "vcs", "url": "git://github.com/bartnowaczyk/log.git" },
+      { "type": "vcs", "url": "git://github.com/matiashidalgo/static-version.git" },
       { "type": "composer", "url": "http://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
