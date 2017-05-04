@@ -276,6 +276,7 @@
       { "type": "vcs", "url": "git://github.com/therouv/Magento-BetterPriceRounding.git"},
       { "type": "vcs", "url": "git://github.com/2Boys1Shop/Twoboysoneshop_Configr.git"},
       { "type": "vcs", "url": "git://github.com/danslo/ApiImport.git"},
+      { "type": "vcs", "url": "git://github.com/afterpay/afterpay-magento.git"},
       { "type": "vcs", "url": "git://github.com/aligent/CacheObserver.git"},
       { "type": "vcs", "url": "git://github.com/aligent/magento-attribute-option-image.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_Feeds.git"},
