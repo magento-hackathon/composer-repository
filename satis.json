@@ -4,6 +4,7 @@
    "description": "Please visit https://github.com/magento-hackathon/composer-repository for further informaton.",
    "repositories": [
       { "type": "vcs", "url": "git://github.com/firegento/magento.git"},
+      { "type": "vcs", "url": "git://github.com/firegento/FireGento_RabbitMQ.git"},
       { "type": "vcs", "url": "git://github.com/arkadedigital/magento-s3.git" },
       { "type": "vcs", "url": "git://github.com/ltckomfortkasse/komfortkasse-magento.git" },
       { "type": "vcs", "url": "git://github.com/ecoco/magento_profiler.git" },
