@@ -465,6 +465,7 @@
       { "type": "vcs", "url": "git://github.com/mkutyba/magento-php-console.git" },
       { "type": "vcs", "url": "git://github.com/mkutyba/magento-gd-preserve-exif.git" },
       { "type": "vcs", "url": "git://github.com/mkutyba/magento-paczka-w-ruchu.git" },
+      { "type": "vcs", "url": "git://github.com/automater-pl/automater-magento-1.9.git" },
       { "type": "vcs", "url": "git://github.com/mailchimp/mc-magento.git" },
       { "type": "vcs", "url": "git://github.com/bartnowaczyk/log.git" },
       { "type": "vcs", "url": "git://github.com/matiashidalgo/static-version.git" },
