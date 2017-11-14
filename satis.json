@@ -472,6 +472,7 @@
       { "type": "vcs", "url": "git://github.com/bentideswell/magento1-wordpress-integration.git" },
       { "type": "vcs", "url": "git://github.com/Affirm/Magento_Affirm.git" },
       { "type": "vcs", "url": "git://github.com/e-conomix/customergroup-paymentmethods.git" },	   
+      { "type": "vcs", "url": "git://github.com/vladsmirnov/url-rewrites.git" },
       { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
