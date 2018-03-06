@@ -475,6 +475,7 @@
       { "type": "vcs", "url": "git://github.com/vladsmirnov/url-rewrites.git" },
       { "type": "vcs", "url": "git://github.com/yuzu-co/magento.git" },
       { "type": "vcs", "url": "git://github.com/proxium/yotporeviews.git" },
+      { "type": "vcs", "url": "git://github.com/julienloizelet/magento1-grids.git" },
       { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
