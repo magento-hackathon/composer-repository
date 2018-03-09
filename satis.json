@@ -161,6 +161,7 @@
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Intrum.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Facebook.git" },
       { "type": "vcs", "url": "git://github.com/diglin/Diglin_Intercom.git" },
+      { "type": "vcs", "url": "git://github.com/diglin/Diglin_GooglePrint.git" },
       { "type": "vcs", "url": "git://github.com/diglin/ricento.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/MageTrashApp.git" },
       { "type": "vcs", "url": "git://github.com/magento-hackathon/Hackathon_MageMonitoring.git" },
