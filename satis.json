@@ -263,7 +263,7 @@
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-log.git"},
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-retail-order-management.git"},
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/php-dom.git"},
-      { "type": "vcs", "url": "git://github.com/fazyrosat/srb"},
+      { "type": "vcs", "url": "git://github.com/fazyrosat/srb.git"},
       { "type": "vcs", "url": "git://github.com/madepeople/Made_Cache.git"},
       { "type": "vcs", "url": "git://github.com/fballiano/magento-hide-empty-categories.git"},
       { "type": "vcs", "url": "git://github.com/magepal/FacebookRemarketingJs.git"},
