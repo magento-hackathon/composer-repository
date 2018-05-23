@@ -479,6 +479,7 @@
       { "type": "vcs", "url": "git://github.com/magehost/magehost_rewritefix.git" },
       { "type": "vcs", "url": "git://github.com/bentideswell/magento1-wordpress-integration.git" },
       { "type": "vcs", "url": "git://github.com/Affirm/Magento_Affirm.git" },
+      { "type": "vcs", "url": "git://github.com/Affirm/Magento1_Affirm_Telesales.git" },
       { "type": "vcs", "url": "git://github.com/e-conomix/customergroup-paymentmethods.git" },	   
       { "type": "vcs", "url": "git://github.com/vladsmirnov/url-rewrites.git" },
       { "type": "vcs", "url": "git://github.com/yuzu-co/magento.git" },
