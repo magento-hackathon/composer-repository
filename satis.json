@@ -13,7 +13,7 @@
       { "type": "vcs", "url": "git://github.com/c3limited/magento-remember-settings.git"},
       { "type": "vcs", "url": "git://github.com/c3limited/FixerIOCurrencyImport.git"},
       { "type": "vcs", "url": "git://github.com/pasinter/magento-dailydeals.git"},
-      { "type": "vcs", "url": "git://github.com:firegento/firegento-cookie-notice-translation-fix.git"},
+      { "type": "vcs", "url": "git://github.com/firegento/firegento-cookie-notice-translation-fix.git"},
       { "type": "vcs", "url": "git://github.com/deved-it/Similar-Products"},
       { "type": "vcs", "url": "git://github.com/deved-it/magento-keen-io"},
       { "type": "vcs", "url": "git://github.com/kojiromike/LogMail" },
