@@ -142,6 +142,7 @@
       { "type": "vcs", "url": "git://github.com/netz98/N98_CustomLayoutHandles.git" },
       { "type": "vcs", "url": "git://github.com/maxbucknell/magento-amdjs.git" },
       { "type": "vcs", "url": "git://github.com/maxbucknell/foundation4-amd.git" },
+      { "type": "vcs", "url": "git://github.com/metrilo/metrilo/metrilo-magento1-integration.git" },
       { "type": "vcs", "url": "git://github.com/laurent35240/magento-sass.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/B2BProfessional.git" },
       { "type": "vcs", "url": "git://github.com/sitewards/BigPipe.git" },
