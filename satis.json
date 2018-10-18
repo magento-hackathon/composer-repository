@@ -25,6 +25,7 @@
       { "type": "vcs", "url": "git://github.com/bragento/magento-core" },
       { "type": "vcs", "url": "git://github.com/staempfli/magento-product-attachment.git"},
       { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },
+      { "type": "vcs", "url": "git://github.com/andreregino/magento-cacheavoid.git"},
       { "type": "vcs", "url": "git://github.com/vmbl/ajaxcart.git" },
       { "type": "vcs", "url": "git://github.com/Adyen/adyen-magento.git" },
       { "type": "vcs", "url": "git://github.com/comwrap/magento-comwrap-pdf.git" },
