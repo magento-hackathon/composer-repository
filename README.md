@@ -1,5 +1,7 @@
 # Magento Module Composer Repository #
 
+We can't update the old magento connect packages anymore :-(
+
 The URL of the repository is [packages.firegento.com](http://packages.firegento.com/).
 
 For further information on how to use composer for Magento modules, please visit the [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) project.
