@@ -273,7 +273,6 @@
       { "type": "vcs", "url": "git://github.com/quafzi/magento-discountPreview.git"},
       { "type": "vcs", "url": "git://github.com/firewizard/Mandagreen_Minifier.git"},
       { "type": "vcs", "url": "git://github.com/magemaven/magento-order-comment.git"},
-      { "type": "vcs", "url": "git://github.com/magemindcom/MMind_ZopimChat.git"},
       { "type": "vcs", "url": "git://github.com/bitundpixel/magento-read-only-vat.git"},
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Hotkeys.git"},
       { "type": "vcs", "url": "git://github.com/bitbull-team/google-analytics-checkout-funnel.git"},
