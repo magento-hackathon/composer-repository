@@ -21,7 +21,6 @@
       { "type": "vcs", "url": "git://github.com/magento-hackathon/FireGento_FlexCms" },
       { "type": "vcs", "url": "git://github.com/EasySize/Magento_SizeGuide.git" },
       { "type": "vcs", "url": "git://github.com/ericthehacker/magento-phpnativepasswords" },
-      { "type": "vcs", "url": "git://github.com/bragento/magento-core" },
       { "type": "vcs", "url": "git://github.com/staempfli/magento-product-attachment.git"},
       { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },
       { "type": "vcs", "url": "git://github.com/andreregino/magento-cacheavoid.git"},
