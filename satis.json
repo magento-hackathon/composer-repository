@@ -25,7 +25,6 @@
       { "type": "vcs", "url": "git://github.com/astorm/MagentoBetter404" },
       { "type": "vcs", "url": "git://github.com/andreregino/magento-cacheavoid.git"},
       { "type": "vcs", "url": "git://github.com/vmbl/ajaxcart.git" },
-      { "type": "vcs", "url": "git://github.com/Adyen/adyen-magento.git" },
       { "type": "vcs", "url": "git://github.com/comwrap/magento-comwrap-pdf.git" },
       { "type": "vcs", "url": "git://github.com/ProxiBlue/OrderSyncQueRunner" },
       { "type": "vcs", "url": "git://github.com/ProxiBlue/NewRelic" },
