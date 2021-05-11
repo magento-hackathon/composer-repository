@@ -220,7 +220,7 @@
       { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_DisableLog" },
       { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_EmailOverride" },
       { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_NewRelic" },
-      { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_ProductTemplates" },
+      { "type": "vcs", "url": "git://github.com/yireo/Yireo_ProductTemplates" },
       { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_SystemInfo" },
       { "type": "vcs", "url": "git://github.com/yireo-magento1/Yireo_WebP" },
       { "type": "vcs", "url": "git://github.com/hans2103/HideCompare.git" },
