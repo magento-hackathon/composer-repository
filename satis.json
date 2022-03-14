@@ -476,7 +476,6 @@
       { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
-      { "type": "vcs", "url": "git@github.com:firegento/firegento-magesetup.git" },
 		{
 			"type": "package",
 			"package": {
