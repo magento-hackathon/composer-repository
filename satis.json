@@ -473,6 +473,7 @@
       { "type": "vcs", "url": "git://github.com/proxium/yotporeviews.git" },
       { "type": "vcs", "url": "git://github.com/julienloizelet/magento1-grids.git" },
       { "type": "vcs", "url": "git://github.com/oddbrew/oddbrew_mailviewer.git" },
+      { "type": "vcs", "url": "git://github.com/nleduc/reCAPTCHA.git" },
       { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
