@@ -283,7 +283,6 @@
       { "type": "vcs", "url": "git://github.com/aligent/magento_availableaddresses.git"},
       { "type": "vcs", "url": "git://github.com/jacquesbh/jbh_homepage.git"},
       { "type": "vcs", "url": "git://github.com/gknoppe-guidance/magento-cachebuster.git"},
-      { "type": "vcs", "url": "git://github.com/QubitProducts/UniversalVariable-Magento-Extension.git"},
       { "type": "vcs", "url": "git://github.com/nexcess/magento-turpentine.git"},
       { "type": "vcs", "url": "git://github.com/aijko/aijko-widgetimagechooser.git"},
       { "type": "vcs", "url": "git://github.com/MageTest/Mage-Test.git"},
