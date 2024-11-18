@@ -438,7 +438,6 @@
       { "type": "vcs", "url": "git://github.com/paynl/magento-plugin.git" },
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_AddToCart.git" },
       { "type": "vcs", "url": "git://github.com/PAYONE-GmbH/magento-1.git" },
-      { "type": "vcs", "url": "git://github.com/ctinnita/ctn-mage-tools.git" },
       { "type": "vcs", "url": "git://github.com/colinmollenhour/Cm_RedisSession.git" },
       { "type": "vcs", "url": "git://github.com/MagentoHackathonUK2014/Magehack_Autogrid.git" },
       { "type": "vcs", "url": "git://github.com/code4business/freeproduct.git" },
