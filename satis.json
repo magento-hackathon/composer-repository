@@ -251,7 +251,6 @@
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish.git" },
       { "type": "vcs", "url": "git://github.com/convenient/SetupScriptsDisabler.git"},
       { "type": "vcs", "url": "git://github.com/convenient/CategoryCode.git"},
-      { "type": "vcs", "url": "git://github.com/eBayEnterprise/RetailOrderManagement-SDK.git"},
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-active-config.git"},
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-eems-affiliate.git"},
       { "type": "vcs", "url": "git://github.com/eBayEnterprise/magento-eems-display.git"},
