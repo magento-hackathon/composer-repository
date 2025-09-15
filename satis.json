@@ -314,7 +314,6 @@
       { "type": "vcs", "url": "git://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Aligent_GeoIP.git"},
       { "type": "vcs", "url": "git://github.com/ho-nl/Quanbit_QBShippingAndPaymentFilters.git"},
-      { "type": "vcs", "url": "git://github.com/codedge/prescriptionpayment.git"},
       { "type": "vcs", "url": "git://github.com/aligent/Magento_SetStartOrderNumber.git"},
       { "type": "vcs", "url": "git://github.com/meanbee/magento-shopping-assistant.git"},
       { "type": "vcs", "url": "git://github.com/webgriffe/index-queue-extension.git"},
@@ -459,7 +458,6 @@
       { "type": "vcs", "url": "git://github.com/proxium/yotporeviews.git" },
       { "type": "vcs", "url": "git://github.com/julienloizelet/magento1-grids.git" },
       { "type": "vcs", "url": "git://github.com/oddbrew/oddbrew_mailviewer.git" },
-      { "type": "composer", "url": "https://packages.fooman.co.nz/" },
       { "type": "composer", "url": "https://repo.magento.com/" },
       { "type": "composer", "url": "https://packages.firegento.com/connect20/" },
 		{
